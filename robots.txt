@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liuuil6218-tech.github.io/sitemap.xml
