@@ -1,7 +1,7 @@
 ---
 title: ""
-pagetitle: "Liu Liu, Ph.D. | Quantitative Methodology & Measurement"
-description: "Liu Liu, Ph.D., is a quantitative methodologist at the University of Georgia specializing in Bayesian multilevel modeling, psychometrics, measurement, and educational statistics."
+pagetitle: "Liu Liu, Ph.D. | Quantitative Methodology, Measurement & Applied Research"
+description: "Liu Liu, Ph.D., is a quantitative methodologist at the University of Georgia whose work connects Bayesian multilevel modeling, psychometrics, measurement, educational statistics, and applied quantitative research in education and social science."
 page-layout: full
 format:
   html:
@@ -19,14 +19,15 @@ format:
 <span class="hero-role-primary">Quantitative Methodologist</span>
 </div>
 
-I develop and evaluate quantitative methods for research settings where data are **limited, sparse, or complex**. My work focuses on **Bayesian multilevel modeling, psychometrics and measurement, and quantitative methods for educational and social science research**.
+I develop quantitative methods and apply them to substantive questions in **education and social research**. My methodological work focuses on **Bayesian multilevel and longitudinal modeling, psychometrics and measurement, and statistical decision making under limited information**. Many of these questions emerge directly from applied studies, where design, measurement, or data limitations reveal gaps in existing quantitative guidance.
 
 I am an Assistant Research Scientist at the Center on Human Trafficking Research & Outreach (CenHTRO) in the School of Social Work at the University of Georgia, and a Faculty Affiliate of the Owens Institute for Behavioral Research. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
 
 <div class="hero-links">
 <a class="primary-link" href="research.html">Research</a>
 <a href="publications.html">Publications</a>
-<a href="files/Liu_Liu_CV.pdf" target="_blank">CV</a>
+<a href="teaching.html">Teaching</a>
+<a href="service.html">Service</a>
 <a class="orcid-mini" href="https://orcid.org/0000-0001-6900-9829" target="_blank" aria-label="ORCID profile" title="ORCID"><span class="orcid-mark">iD</span></a>
 </div>
 :::
@@ -43,29 +44,54 @@ Faculty Affiliate, <a href="https://oibr.uga.edu/" target="_blank">Owens Institu
 :::
 :::
 
+::: {.home-section .interests-section}
+<div class="section-kicker">RESEARCH & TEACHING INTERESTS</div>
+## Methodological depth, applied questions, and quantitative training
+
+::: {.interest-grid}
+::: {.interest-card}
+<div class="interest-label">METHODOLOGICAL RESEARCH</div>
+### Methods for limited and complex data
+Bayesian multilevel and longitudinal modeling; prior specification and calibration for small samples; psychometrics and measurement under sparse and imbalanced data.
+:::
+
+::: {.interest-card}
+<div class="interest-label">APPLIED RESEARCH</div>
+### Quantitative inquiry in context
+Quantitative methods for measurement and program evaluation in education and social research, including large-scale assessment, causal and computational evaluation, complex surveys, and human trafficking research.
+:::
+
+::: {.interest-card}
+<div class="interest-label">TEACHING</div>
+### Quantitative methods education
+Multilevel modeling; Bayesian data analysis; applied measurement; quantitative research methods.
+:::
+:::
+:::
+
 ::: {.home-section .research-program-section}
 <div class="section-kicker">RESEARCH PROGRAM</div>
-## Methods for reliable inference when information is limited
+## Applied problems motivate methodological questions
 
-My research asks how quantitative assumptions and decisions should change when the available data provide limited information. I use problems from measurement, assessment, evaluation, and social research to motivate methodological studies, simulation work, and practical guidance.
+My research moves in both directions: **applied studies expose methodological problems, and methodological work returns practical tools and guidance to applied research**. This connection organizes three overlapping strands.
 
 ::: {.research-strands}
 ::: {.strand}
 <div class="strand-number">01</div>
 ### Bayesian Multilevel & Longitudinal Methods
-Prior specification, variance components, small-sample inference, and longitudinal multilevel models.
+Prior specification, variance components, small-sample inference, and longitudinal multilevel and dyadic models.
 :::
 
 ::: {.strand}
 <div class="strand-number">02</div>
 ### Measurement, Psychometrics & SEM
-Sparse ordinal data, CFA/SEM, IRT, measurement invariance, and model-fit calibration.
+Sparse ordinal data, CFA/SEM, IRT, measurement invariance, differential item functioning, and model-fit calibration.
 :::
 
 ::: {.strand}
 <div class="strand-number">03</div>
-### Quantitative Methods for Educational & Social Research
-Causal inference, complex surveys, explainable AI, and program evaluation.
+### Applied Quantitative Research
+Large-scale educational assessment, causal and computational evaluation, complex surveys, human trafficking measurement, and program evaluation.
 :::
 :::
 
@@ -73,25 +99,31 @@ Causal inference, complex surveys, explainable AI, and program evaluation.
 :::
 
 ::: {.home-section .selected-work .compact-work}
-<div class="section-kicker">SELECTED METHODOLOGICAL WORK</div>
-## Recent and featured research
+<div class="section-kicker">SELECTED RESEARCH</div>
+## Methodological and applied work
 
 ::: {.compact-pub}
-<div class="pub-status">ACCEPTED · MBR · DOI ASSIGNED</div>
+<div class="pub-status">METHODS · ACCEPTED · MBR · DOI ASSIGNED</div>
 ### [Mode-matched inverse gamma priors for variance components in Bayesian multilevel models](https://doi.org/10.1080/00273171.2026.2740827)
 <div class="compact-meta"><strong>Liu, L.</strong> · [Paper](https://doi.org/10.1080/00273171.2026.2740827) · [Project](projects/bayesian-variance-priors.qmd)</div>
 :::
 
 ::: {.compact-pub}
-<div class="pub-status">ACCEPTED · METHODS IN PSYCHOLOGY</div>
-### [Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure](projects/dyadic-modeling.qmd)
-<div class="compact-meta"><strong>Liu, L.</strong> · [Project](projects/dyadic-modeling.qmd)</div>
+<div class="pub-status">METHODS · 2026 · STRUCTURAL EQUATION MODELING</div>
+### [Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing](https://doi.org/10.1080/10705511.2026.2691170)
+<div class="compact-meta"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. · [Paper](https://doi.org/10.1080/10705511.2026.2691170) · [Project](projects/sparse-ordinal-cfa.qmd)</div>
 :::
 
 ::: {.compact-pub}
-<div class="pub-status">2026 · STRUCTURAL EQUATION MODELING</div>
-### [Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing](https://doi.org/10.1080/10705511.2026.2691170)
-<div class="compact-meta"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. · [Paper](https://doi.org/10.1080/10705511.2026.2691170) · [Project](projects/sparse-ordinal-cfa.qmd)</div>
+<div class="pub-status">APPLIED EDUCATION · 2026</div>
+### [Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018](https://doi.org/10.1186/s40536-026-00320-y)
+<div class="compact-meta"><strong>Liu, L.</strong> & Dai, R. · [Paper](https://doi.org/10.1186/s40536-026-00320-y)</div>
+:::
+
+::: {.compact-pub}
+<div class="pub-status">APPLIED SOCIAL RESEARCH · ACCEPTED · PLOS ONE</div>
+### [Household and child correlates of child trafficking indicators in Eastern Sierra Leone](https://doi.org/10.1371/journal.pone.0347898)
+<div class="compact-meta"><strong>Liu, L.</strong>, Okech, D., & Cody, A. · [Paper](https://doi.org/10.1371/journal.pone.0347898)</div>
 :::
 
 <div class="selected-links">
