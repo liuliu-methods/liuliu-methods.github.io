@@ -14,7 +14,6 @@ format:
 
 <div class="hero-role" role="heading" aria-level="2">
 <span class="hero-role-primary">Quantitative Methodologist</span>
-<span class="hero-role-secondary">Measurement & Educational Statistics</span>
 </div>
 
 I develop and evaluate quantitative methods for research settings where data are **limited, sparse, or complex**. My work focuses on **Bayesian multilevel modeling, psychometrics and measurement, and quantitative methods for educational and social science research**.
@@ -34,7 +33,8 @@ I am an Assistant Research Scientist at the University of Georgia and a Faculty 
 <div class="photo-caption">
 <strong>University of Georgia</strong><br>
 Assistant Research Scientist<br>
-Faculty Affiliate, Owens Institute
+Faculty Affiliate<br>
+Owens Institute for Behavioral Research
 </div>
 :::
 :::
