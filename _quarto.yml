@@ -1,14 +1,19 @@
+lang: en
+
 project:
   type: website
   output-dir: _site
   resources:
     - googlea7d81b655a1c8310.html
+    - robots.txt
 
 website:
   title: "Liu Liu"
   site-url: "https://liuuil6218-tech.github.io"
-  description: "Liu Liu, Ph.D. | Quantitative methodology, measurement, Bayesian modeling, and educational statistics."
+  description: "Liu Liu, Ph.D., quantitative methodologist at the University of Georgia specializing in Bayesian multilevel modeling, psychometrics, measurement, and educational statistics."
   favicon: assets/favicon.svg
+  open-graph: true
+  twitter-card: true
   navbar:
     background: light
     foreground: dark
