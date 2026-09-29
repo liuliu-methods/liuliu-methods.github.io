@@ -25,6 +25,28 @@ Sparse ordinal categories can affect not only estimation, but also whether globa
 
 Using a Monte Carlo simulation-cum-ROC framework, the study evaluates how RMSEA, SRMR, CFI, and TLI distinguish correctly specified ordinal CFA models from two forms of misspecification under sparse response categories and category collapsing. A local misspecification is represented by an omitted cross-loading, while a structural misspecification combines two correlated factors. The analysis compares WLSMV, MLR, and MLMV across sample size, loading magnitude, sparsity, number of sparse-pattern items, collapsing intensity, and a no-collapse baseline.
 
+<div class="visual-panel cfa-visual" role="img" aria-label="Sparse ordinal CFA workflow from five response categories to collapsed categories, estimation, fit indices, ROC discrimination, and condition-specific decisions.">
+  <div class="visual-caption">SPARSE ORDINAL CFA WORKFLOW</div>
+  <div class="collapse-demo">
+    <div class="collapse-block">
+      <small>Original ordinal scale</small>
+      <div class="category-pills five-cats"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div>
+    </div>
+    <div class="collapse-arrow">→</div>
+    <div class="collapse-block">
+      <small>Illustrative collapsing</small>
+      <div class="category-pills three-cats"><span>1–2</span><span>3</span><span>4–5</span></div>
+    </div>
+  </div>
+  <div class="cfa-flow">
+    <div><span>01</span><strong>Sparse responses</strong></div>
+    <div><span>02</span><strong>WLSMV / MLR / MLMV</strong></div>
+    <div><span>03</span><strong>RMSEA / SRMR / CFI / TLI</strong></div>
+    <div><span>04</span><strong>ROC discrimination</strong></div>
+    <div><span>05</span><strong>Condition-specific decisions</strong></div>
+  </div>
+</div>
+
 ## Paper {#paper}
 
 **Liu, L., Liu, J., Yi, H., & Okech, D.** (2026). *Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing*. **Structural Equation Modeling: A Multidisciplinary Journal**. Published online August 6, 2026.
