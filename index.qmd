@@ -100,7 +100,7 @@ Large-scale educational assessment, causal and computational evaluation, complex
 
 ::: {.home-section .selected-work .compact-work}
 <div class="section-kicker">SELECTED RESEARCH</div>
-## Methodological and applied work
+## Methods and selected applications
 
 ::: {.compact-pub}
 <div class="pub-status">METHODS · ACCEPTED · MBR · DOI ASSIGNED</div>
