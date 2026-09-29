@@ -9,12 +9,7 @@ My publication program spans Bayesian methodology, psychometrics and measurement
 
 <div class="profile-links">[Google Scholar](https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6900-9829)</div>
 
-## Accepted and In Press
-
-::: {.bib-entry}
-**Liu, L.** (accepted). Mode-matched inverse gamma priors for variance components in Bayesian multilevel models. *Multivariate Behavioral Research*.  
-[Project page](projects/bayesian-variance-priors.qmd)
-:::
+## Accepted
 
 ::: {.bib-entry}
 **Liu, L.** (accepted). A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models. *Behavior Research Methods*.  
@@ -22,14 +17,26 @@ My publication program spans Bayesian methodology, psychometrics and measurement
 :::
 
 ::: {.bib-entry}
-**Liu, L., & Dai, R.** (in press). Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018. *Large-scale Assessments in Education*.
+**Liu, L.** (accepted). Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure. *Methods in Psychology*.  
+[Project page](projects/dyadic-modeling.qmd)
 :::
 
 ::: {.bib-entry}
-**Liu, L., Okech, D., & Cody, A.** (in press). Household and child correlates of child trafficking indicators in Eastern Sierra Leone. *PLOS ONE*.
+**Liu, L.** (2026). Mode-matched inverse gamma priors for variance components in Bayesian multilevel models. *Multivariate Behavioral Research*. Accepted; DOI assigned.  
+[DOI](https://doi.org/10.1080/00273171.2026.2740827) · [Project page](projects/bayesian-variance-priors.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L., Okech, D., & Cody, A.** (2026). Household and child correlates of child trafficking indicators in Eastern Sierra Leone. *PLOS ONE*. Accepted; DOI assigned.  
+[DOI](https://doi.org/10.1371/journal.pone.0347898)
 :::
 
 ## Peer-Reviewed Journal Articles
+
+::: {.bib-entry}
+**Liu, L., & Dai, R.** (2026). Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018. *Large-scale Assessments in Education, 14*, Article 46.  
+[DOI](https://doi.org/10.1186/s40536-026-00320-y)
+:::
 
 ::: {.bib-entry}
 **Liu, L., Liu, J., Yi, H., & Okech, D.** (2026). Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing. *Structural Equation Modeling: A Multidisciplinary Journal*, 1–12.  
@@ -97,11 +104,6 @@ My publication program spans Bayesian methodology, psychometrics and measurement
 
 ::: {.bib-entry}
 **Liu, L.** (2026). How dyad sample size and repeated measurements shape the performance of multilevel actor-partner growth models for longitudinal distinguishable dyads. *Multivariate Behavioral Research*, under review.  
-[Project page](projects/dyadic-modeling.qmd)
-:::
-
-::: {.bib-entry}
-**Liu, L.** (2026). Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure. *Methods in Psychology*, under review.  
 [Project page](projects/dyadic-modeling.qmd)
 :::
 

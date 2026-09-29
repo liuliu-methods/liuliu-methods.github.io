@@ -1,41 +1,22 @@
-# Liu Liu Academic Website v3
+# Liu Liu Academic Website v5 manuscript-grounded project pages
 
 A Quarto faculty-job-market website focused on quantitative methodology, measurement, educational statistics, and social-science methods.
 
-## What is new in v3
+## What changed in v5 manuscript-grounded project pages
 
-- Added a top-level **Projects** section.
-- Added five mature methodological project pages:
-  - Bayesian variance priors in multilevel models
-  - Variance-prior selection / translation / reporting tutorial
-  - Sparse ordinal CFA and fit calibration
-  - Bayesian prior calibration across measurement models and software
-  - Longitudinal dyadic modeling with limited numbers of dyads
-- Each project page includes the scholarly structure expected on a methods faculty site: project overview / abstract, paper status, supplement, code, design or workflow, and key findings or research questions.
-- Public links are included only where a DOI or public URL is available. Non-public accepted manuscripts and code are labeled transparently rather than linked to placeholders.
-- Homepage and publication entries now link directly to project pages.
+- Simplified the homepage to three sections: profile, research program, and selected methodological work.
+- Removed the redundant homepage methods-tag band and reduced repeated links.
+- Shortened research-strand descriptions and tightened spacing.
+- Updated the Methods in Psychology dyadic paper to accepted.
+- Added permanent DOI links for the Multivariate Behavioral Research paper and the PLOS ONE paper, while labeling both as accepted / DOI assigned rather than fully published.
+- Added the NSF ECR:Core Level II proposal in preparation, with Liu Liu listed as Subaward Principal Investigator and lead for the UGA methodological component.
+- Updated the downloadable CV PDF and DOCX.
+- Updated the GitHub Pages workflow and site URL for `liuuil6218-tech.github.io`.
 
-## Render locally
+## Publish without installing Quarto locally
 
-Install Quarto, then run:
+This repository includes `.github/workflows/publish.yml`. GitHub Actions renders and deploys the site automatically whenever changes are committed to the `main` branch.
 
-```bash
-quarto preview
-```
+GitHub Pages should use **Settings → Pages → Source: GitHub Actions**.
 
-or
-
-```bash
-quarto render
-```
-
-## Publish with GitHub Pages
-
-1. Create a GitHub repository for the site.
-2. Replace `https://YOUR-USERNAME.github.io` in `_quarto.yml` with the final site URL.
-3. Commit and push the project.
-4. Use Quarto's GitHub Pages publishing workflow.
-
-## Files to add later
-
-The project pages intentionally do not invent links to manuscripts, supplements, or code that have not yet been made public. When those materials are ready, add them to the relevant project page and replace the current availability note with a direct link.
+Live site: https://liuuil6218-tech.github.io

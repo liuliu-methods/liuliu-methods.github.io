@@ -1,68 +1,65 @@
 ---
 title: "Sparse Ordinal CFA and Model-Fit Decisions"
-subtitle: "Category sparsity, category collapsing, and simulation-cum-ROC calibration"
+subtitle: "Category sparsity, category collapsing, and simulation-cum-ROC evaluation"
 ---
 
 <div class="project-status-row">
-<span class="status-pill published">Published</span>
+<span class="status-pill published">Published online · 2026</span>
 <span class="status-text">Structural Equation Modeling: A Multidisciplinary Journal</span>
 <span class="status-text">Liu, L., Liu, J., Yi, H., & Okech, D.</span>
 </div>
 
 ::: {.project-lede}
-Ordinal measurement models are often evaluated with fit-index cutoffs developed under conditions that assume more information than sparse response patterns actually provide. This project studies how sparsity and category collapsing change the operating characteristics of common CFA fit indices.
+Sparse ordinal categories can affect not only estimation, but also whether global fit indices can distinguish a correctly specified model from a misspecified one. This project treats fit evaluation as a discrimination problem before treating any cutoff as a decision rule.
 :::
 
 <div class="resource-bar">
 <a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Paper ↗</a>
-<a class="resource-link muted-link" href="#supplement">Supplement</a>
-<a class="resource-link muted-link" href="#code">R / Mplus Code</a>
+<a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Supplement ↗</a>
+<a class="resource-link muted-link" href="#code">Code</a>
 <a class="resource-link" href="#simulation-design">Simulation Design</a>
 <a class="resource-link" href="#key-findings">Key Findings</a>
 </div>
 
 ## Abstract {#abstract}
 
-This project evaluates confirmatory factor analysis fit decisions when ordinal response categories are sparse or collapsed. The central question is not only whether category collapsing changes a fit index numerically, but whether it changes that index's ability to distinguish correctly specified from misspecified models. A simulation-cum-ROC framework treats model-fit evaluation as a classification problem and examines the sensitivity and false-rejection behavior of conventional and empirically calibrated decision rules under realistic sparse-response conditions.
+Using a Monte Carlo simulation-cum-ROC framework, the study evaluates how RMSEA, SRMR, CFI, and TLI distinguish correctly specified ordinal CFA models from two forms of misspecification under sparse response categories and category collapsing. A local misspecification is represented by an omitted cross-loading, while a structural misspecification combines two correlated factors. The analysis compares WLSMV, MLR, and MLMV across sample size, loading magnitude, sparsity, number of sparse-pattern items, collapsing intensity, and a no-collapse baseline.
 
 ## Paper {#paper}
 
-**Liu, L., Liu, J., Yi, H., & Okech, D.** (2026). *Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing*. **Structural Equation Modeling: A Multidisciplinary Journal**, 1–12.
+**Liu, L., Liu, J., Yi, H., & Okech, D.** (2026). *Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing*. **Structural Equation Modeling: A Multidisciplinary Journal**. Published online August 6, 2026.
 
 [DOI / Publisher page ↗](https://doi.org/10.1080/10705511.2026.2691170){.paper-button}
 
-## Supplement {#supplement}
+## Code {#code}
 
-Companion work extends the published study by developing **scenario-specific cutoffs and composite decision rules** for sparse ordinal CFA. Public supplementary files will be linked here as they become available.
-
-## R / Mplus Code {#code}
-
-The simulation workflow is being consolidated for public release. It will include data-generation scripts, estimator-specific model fitting, convergence and improper-solution screening, fit-index extraction, ROC calibration, and decision-rule summaries.
+The simulation workflow includes data generation, estimator-specific model fitting, convergence and improper-solution screening, fit-index extraction, and ROC-based discrimination summaries. A public code repository will be linked here when consolidated for release.
 
 ## Simulation Design {#simulation-design}
 
-The project varies the features that determine how much information ordinal CFA has available for model-fit evaluation, including category sparsity, collapsing decisions, estimator choice, model misspecification, and sample conditions. The analysis separates four issues that are often conflated:
-
 ::: {.mini-grid}
-<div><strong>Data sparsity</strong><br><span>How many observations are available in each ordinal category?</span></div>
-<div><strong>Category collapsing</strong><br><span>Does combining sparse categories recover stability, or alter what misfit looks like?</span></div>
-<div><strong>Estimator behavior</strong><br><span>Do estimators respond differently to sparse categories and collapsed scales?</span></div>
-<div><strong>Decision calibration</strong><br><span>Which cutoffs balance detection of misfit against false rejection?</span></div>
+<div><strong>Fit indices</strong><br><span>RMSEA · SRMR · CFI · TLI</span></div>
+<div><strong>Estimators</strong><br><span>WLSMV · MLR · MLMV</span></div>
+<div><strong>Misspecification</strong><br><span>omitted cross-loading · combined correlated factors</span></div>
+<div><strong>Information conditions</strong><br><span>sample size, loadings, sparsity, sparse items, collapsing intensity</span></div>
 :::
+
+A no-collapse baseline makes it possible to separate the effect of **sparse response structure itself** from the additional information loss introduced by category collapsing. ROC analysis evaluates both overall diagnostic separation through AUC and condition-specific operating points through sensitivity and specificity.
 
 ## Key Findings {#key-findings}
 
-- **Collapsing categories can change both fit-index values and their ability to detect model misspecification.** This means category collapsing is not a purely data-cleaning decision.
-- **Conventional universal cutoffs are not equally informative across sparse ordinal conditions.** Their operating characteristics depend on the response pattern and analytic configuration.
-- **Subtle misspecification remains difficult to detect in some conditions even when the original categories are retained.** Preserving categories is therefore not a guarantee of adequate fit detection.
-- **Condition-specific calibration is preferable to mechanical cutoff use.** Companion work develops scenario-specific thresholds and composite rules to make that calibration more practical.
+- **Discrimination varied substantially across conditions.** Fit-index performance cannot be summarized well by a single universal cutoff.
+- **Local misspecification was harder to detect.** Detection weakened under moderate loadings, smaller samples, and aggressive category collapsing.
+- **Structural misspecification was generally easier to detect.** Performance remained strong in many conditions, with notable deterioration under extreme sparsity and aggressive collapsing.
+- **Mild and moderate collapsing produced relatively small average changes from the original response scale.** The largest losses were concentrated in more aggressive collapsing and difficult information conditions.
+- **A cutoff is meaningful only when the index has adequate discrimination.** The paper therefore treats ROC-derived cutoffs as condition-specific operating points rather than new universal rules.
 
-## Applied illustration
+## Ongoing extension
 
-The broader research program includes applications to short ordinal measures in field data, where sparse categories are common because some experiences or response options are infrequent. These applications help connect simulation-based guidance to real measurement decisions.
+Companion work develops **scenario-specific cutoffs and composite decision rules** for sparse ordinal CFA, extending the published discrimination results into practical model-fit guidance for applied researchers.
 
 ## Contribution to my research program
 
-This project anchors my work on **measurement under sparse and heterogeneous data**. Related studies extend the framework to scenario-specific cutoffs, composite fit rules, estimator comparisons, category collapsing, and cross-context measurement decisions.
+This project anchors my work on **measurement under sparse and heterogeneous data**. The broader program studies how response sparsity, estimator choice, category collapsing, and model-fit calibration affect the quality of measurement decisions.
 
 [← All methodological projects](index.qmd){.back-link}

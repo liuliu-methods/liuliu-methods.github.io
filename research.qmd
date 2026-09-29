@@ -37,35 +37,9 @@ A second line of research examines what happens when measurement data are sparse
 
 Applied research serves as both a testing ground and a source of methodological questions. I work on quantitative design, measurement, analysis, and evaluation in educational and social research, including causal inference for observational evaluation, explainable machine learning with PISA, complex surveys, cross-context measurement, and responsible uses of machine learning and NLP in assessment.
 
-## Research Pipeline
+## Current Proposal Activity
 
-::: {.pipeline-grid}
-::: {.pipeline-col}
-<div class="pipeline-title">Bayesian Modeling</div>
-Prior calibration  
-Small-sample inference  
-Random effects  
-Longitudinal models
-:::
-
-::: {.pipeline-col}
-<div class="pipeline-title">Measurement</div>
-Sparse ordinal CFA  
-Model-fit calibration  
-IRT  
-Invariance & DIF
-:::
-
-::: {.pipeline-col}
-<div class="pipeline-title">Data Science & Evaluation</div>
-Causal inference  
-Explainable AI  
-Complex surveys  
-Program evaluation
-:::
-:::
-
-[Browse all methodological project pages →](projects/index.qmd){.text-link}
+**Subaward Principal Investigator, NSF ECR:Core Level II proposal (in preparation).** *Computational Experiences in Introductory Mathematics: A Longitudinal Study of Mathematical Agency and STEM Progression.* I lead the University of Georgia component and provide methodological leadership in measurement, psychometrics, and longitudinal modeling.
 
 ## Long-Term Agenda
 
