@@ -631,7 +631,6 @@ body:has(.projects-intro) #quarto-content main.content {
   .mini-grid > div:last-child { border-bottom: 0; }
 }
 
-
 /* v4: homepage simplification and hierarchy refinements */
 .hero-shell {
   padding-top: 5.6rem;
