@@ -1438,3 +1438,34 @@ body:has(.projects-intro) #quarto-content main.content {
     border-top: 1px solid var(--line);
   }
 }
+
+
+/* v6.1: methods-first homepage hierarchy */
+.interest-grid {
+  grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr) minmax(0, 1fr);
+}
+
+.hero-links a {
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--line-dark);
+  padding: .28rem 0;
+  color: var(--navy);
+}
+
+.hero-links a:hover {
+  background: transparent;
+  border-color: var(--warm);
+  color: var(--warm);
+}
+
+.hero-links .orcid-mini {
+  border-bottom: 0;
+}
+
+
+@media (max-width: 850px) {
+  .interest-grid {
+    grid-template-columns: 1fr;
+  }
+}
