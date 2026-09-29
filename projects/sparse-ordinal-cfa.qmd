@@ -16,7 +16,7 @@ Sparse ordinal categories can affect not only estimation, but also whether globa
 <div class="resource-bar">
 <a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Paper ↗</a>
 <a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Supplement ↗</a>
-<a class="resource-link muted-link" href="#code">Code</a>
+<a class="resource-link" href="https://osf.io/b7atw/" target="_blank">Code ↗</a>
 <a class="resource-link" href="#simulation-design">Simulation Design</a>
 <a class="resource-link" href="#key-findings">Key Findings</a>
 </div>
@@ -33,7 +33,11 @@ Using a Monte Carlo simulation-cum-ROC framework, the study evaluates how RMSEA,
 
 ## Code {#code}
 
-The simulation workflow includes data generation, estimator-specific model fitting, convergence and improper-solution screening, fit-index extraction, and ROC-based discrimination summaries. A public code repository will be linked here when consolidated for release.
+All results are based on simulated data. Analysis code for the simulation study is available on OSF:
+
+[OSF Code Repository ↗](https://osf.io/b7atw/){.paper-button}
+
+The repository contains code supporting the simulation workflow, including data generation, model fitting, fit-index extraction, and ROC-based evaluation.
 
 ## Simulation Design {#simulation-design}
 
