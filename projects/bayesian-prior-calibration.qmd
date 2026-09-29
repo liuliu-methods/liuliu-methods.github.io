@@ -1,0 +1,72 @@
+---
+title: "Calibrating Informative Priors Across Models and Software"
+subtitle: "Bayesian multilevel IRT, benchmark information, and parameterization-aware prior construction"
+---
+
+<div class="project-status-row">
+<span class="status-pill active">Active program</span>
+<span class="status-text">Bayesian calibration · Measurement · Reproducibility</span>
+</div>
+
+::: {.project-lede}
+This research program asks how an informative prior should be constructed when useful information exists, but the target model, software, or parameterization differs from the setting in which that information was obtained.
+:::
+
+<div class="resource-bar">
+<a class="resource-link" href="#papers">Papers</a>
+<a class="resource-link muted-link" href="#supplement">Supplement</a>
+<a class="resource-link muted-link" href="#code">R / Stan Code</a>
+<a class="resource-link" href="#calibration-design">Calibration Design</a>
+<a class="resource-link" href="#research-questions">Research Questions</a>
+</div>
+
+## Program Overview {#abstract}
+
+The project extends informative-prior research from variance components in general multilevel models to measurement and cross-software settings. The methodological problem is one of **transporting information without transporting hidden assumptions**. A prior calibrated in one sample or software environment must be translated onto the target parameter scale, and its strength should be evaluated relative to the amount of information in the target data.
+
+## Papers {#papers}
+
+::: {.project-paper}
+<div class="paper-label">UNDER REVIEW · APPLIED MEASUREMENT IN EDUCATION</div>
+### Calibrating informative variance priors in Bayesian multilevel item-response models: A practical evaluation using PISA 2018
+
+Extends variance-prior calibration to Bayesian multilevel item-response models and evaluates the practical consequences of prior choices in large-scale assessment settings.
+:::
+
+::: {.project-paper}
+<div class="paper-label">UNDER REVIEW · METHODOLOGY</div>
+### Benchmark-based calibration of scalar variance priors across Bayesian multilevel software
+
+Examines how conceptually comparable variance priors should be translated when Bayesian software packages use different parameterizations or default scales.
+:::
+
+## Supplement {#supplement}
+
+Public supplementary materials are not yet available. The planned materials will document calibration formulas, software-specific parameter mappings, and reproducible sensitivity-analysis workflows.
+
+## R / Stan Code {#code}
+
+Code will be released with the public versions of the papers. The intended structure is modular so that a researcher can separate four steps: obtain benchmark information, transform it to the target scale, encode the prior in the target software, and compare sensitivity specifications.
+
+## Calibration Design {#calibration-design}
+
+::: {.calibration-flow}
+<div><span>1</span><strong>Reference information</strong><p>Identify a defensible source of information, such as a larger benchmark sample or prior study.</p></div>
+<div><span>2</span><strong>Target parameter</strong><p>Define the variance-related quantity that the target model actually estimates.</p></div>
+<div><span>3</span><strong>Scale translation</strong><p>Map reference information to the target parameterization, including variance, SD, precision, or transformed scales.</p></div>
+<div><span>4</span><strong>Prior construction</strong><p>Choose hyperparameters so the prior expresses the intended location and strength on that scale.</p></div>
+<div><span>5</span><strong>Sensitivity analysis</strong><p>Vary prior strength and plausible alternatives to distinguish robust conclusions from prior-dependent results.</p></div>
+:::
+
+## Research Questions {#research-questions}
+
+- When does benchmark information improve estimation enough to justify an informative prior?
+- How much does prior behavior change when the same conceptual prior is expressed in a different software parameterization?
+- Which aspects of a prior should be held constant when translating across models: mode, median, mean, quantiles, or another interpretable feature?
+- How should researchers report calibration and sensitivity so that the prior can be reconstructed and evaluated independently?
+
+## Contribution to my research program
+
+This work connects **Bayesian methodology, psychometrics, and reproducible practice**. It treats prior calibration as a methodological design problem rather than a single hyperparameter choice.
+
+[← All methodological projects](index.qmd){.back-link}

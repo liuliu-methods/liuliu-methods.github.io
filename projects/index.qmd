@@ -1,0 +1,79 @@
+---
+title: "Methodological Projects"
+subtitle: "Research programs, publication pages, simulation designs, and reproducible resources"
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+::: {.projects-intro}
+<div class="section-kicker">RESEARCH PORTFOLIO</div>
+
+# Methodological research programs
+
+My methodological work is organized around a recurring problem: **how should researchers make quantitative decisions when the data provide limited information about the parameters, constructs, or model features they care about?** The projects below connect individual papers to broader research programs, simulation designs, and practical guidance.
+:::
+
+::: {.project-grid}
+::: {.project-card}
+<div class="project-tag">BAYESIAN METHODS · ACCEPTED</div>
+## Variance priors for Bayesian multilevel models
+
+Informative prior specification for variance components when higher-level sample sizes are limited, including simulation-based evaluation and practical calibration guidance.
+
+<div class="project-meta">Multivariate Behavioral Research · Sole-authored</div>
+
+[View project →](bayesian-variance-priors.qmd){.project-link}
+:::
+
+::: {.project-card}
+<div class="project-tag">BAYESIAN PRACTICE · ACCEPTED</div>
+## Selecting, translating, and reporting variance priors
+
+A practical framework for choosing variance priors, translating them across parameterizations and software, conducting sensitivity analyses, and reporting prior decisions transparently.
+
+<div class="project-meta">Behavior Research Methods · Sole-authored</div>
+
+[View project →](bayesian-prior-guidance.qmd){.project-link}
+:::
+
+::: {.project-card}
+<div class="project-tag">PSYCHOMETRICS · PUBLISHED</div>
+## Sparse ordinal CFA and model-fit decisions
+
+How sparse response categories and category collapsing change fit-index behavior, model-fit decisions, and the calibration of practical decision rules.
+
+<div class="project-meta">Structural Equation Modeling · First-authored</div>
+
+[View project →](sparse-ordinal-cfa.qmd){.project-link}
+:::
+
+::: {.project-card}
+<div class="project-tag">BAYESIAN CALIBRATION · ACTIVE PROGRAM</div>
+## Calibrating informative priors across models and software
+
+Extending prior calibration to Bayesian multilevel IRT and cross-software settings, with an emphasis on reproducibility, parameterization, and benchmark-based prior construction.
+
+<div class="project-meta">Applied Measurement in Education · Methodology</div>
+
+[View project →](bayesian-prior-calibration.qmd){.project-link}
+:::
+
+::: {.project-card}
+<div class="project-tag">LONGITUDINAL METHODS · ACTIVE PROGRAM</div>
+## Dyadic multilevel modeling with limited information
+
+A connected program on role parameterization, small numbers of dyads, random effects, estimands, and post-estimation for longitudinal distinguishable dyads.
+
+<div class="project-meta">Behavior Research Methods · Multivariate Behavioral Research · Methods in Psychology</div>
+
+[View project →](dyadic-modeling.qmd){.project-link}
+:::
+:::
+
+::: {.project-note}
+### Reproducible materials
+
+Project pages distinguish between materials that are already public and materials that are still being prepared for release. I do not link to non-public accepted manuscripts or code repositories until they are ready to share.
+:::

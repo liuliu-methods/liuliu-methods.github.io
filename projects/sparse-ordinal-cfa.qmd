@@ -1,0 +1,68 @@
+---
+title: "Sparse Ordinal CFA and Model-Fit Decisions"
+subtitle: "Category sparsity, category collapsing, and simulation-cum-ROC calibration"
+---
+
+<div class="project-status-row">
+<span class="status-pill published">Published</span>
+<span class="status-text">Structural Equation Modeling: A Multidisciplinary Journal</span>
+<span class="status-text">Liu, L., Liu, J., Yi, H., & Okech, D.</span>
+</div>
+
+::: {.project-lede}
+Ordinal measurement models are often evaluated with fit-index cutoffs developed under conditions that assume more information than sparse response patterns actually provide. This project studies how sparsity and category collapsing change the operating characteristics of common CFA fit indices.
+:::
+
+<div class="resource-bar">
+<a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Paper ↗</a>
+<a class="resource-link muted-link" href="#supplement">Supplement</a>
+<a class="resource-link muted-link" href="#code">R / Mplus Code</a>
+<a class="resource-link" href="#simulation-design">Simulation Design</a>
+<a class="resource-link" href="#key-findings">Key Findings</a>
+</div>
+
+## Abstract {#abstract}
+
+This project evaluates confirmatory factor analysis fit decisions when ordinal response categories are sparse or collapsed. The central question is not only whether category collapsing changes a fit index numerically, but whether it changes that index's ability to distinguish correctly specified from misspecified models. A simulation-cum-ROC framework treats model-fit evaluation as a classification problem and examines the sensitivity and false-rejection behavior of conventional and empirically calibrated decision rules under realistic sparse-response conditions.
+
+## Paper {#paper}
+
+**Liu, L., Liu, J., Yi, H., & Okech, D.** (2026). *Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing*. **Structural Equation Modeling: A Multidisciplinary Journal**, 1–12.
+
+[DOI / Publisher page ↗](https://doi.org/10.1080/10705511.2026.2691170){.paper-button}
+
+## Supplement {#supplement}
+
+Companion work extends the published study by developing **scenario-specific cutoffs and composite decision rules** for sparse ordinal CFA. Public supplementary files will be linked here as they become available.
+
+## R / Mplus Code {#code}
+
+The simulation workflow is being consolidated for public release. It will include data-generation scripts, estimator-specific model fitting, convergence and improper-solution screening, fit-index extraction, ROC calibration, and decision-rule summaries.
+
+## Simulation Design {#simulation-design}
+
+The project varies the features that determine how much information ordinal CFA has available for model-fit evaluation, including category sparsity, collapsing decisions, estimator choice, model misspecification, and sample conditions. The analysis separates four issues that are often conflated:
+
+::: {.mini-grid}
+<div><strong>Data sparsity</strong><br><span>How many observations are available in each ordinal category?</span></div>
+<div><strong>Category collapsing</strong><br><span>Does combining sparse categories recover stability, or alter what misfit looks like?</span></div>
+<div><strong>Estimator behavior</strong><br><span>Do estimators respond differently to sparse categories and collapsed scales?</span></div>
+<div><strong>Decision calibration</strong><br><span>Which cutoffs balance detection of misfit against false rejection?</span></div>
+:::
+
+## Key Findings {#key-findings}
+
+- **Collapsing categories can change both fit-index values and their ability to detect model misspecification.** This means category collapsing is not a purely data-cleaning decision.
+- **Conventional universal cutoffs are not equally informative across sparse ordinal conditions.** Their operating characteristics depend on the response pattern and analytic configuration.
+- **Subtle misspecification remains difficult to detect in some conditions even when the original categories are retained.** Preserving categories is therefore not a guarantee of adequate fit detection.
+- **Condition-specific calibration is preferable to mechanical cutoff use.** Companion work develops scenario-specific thresholds and composite rules to make that calibration more practical.
+
+## Applied illustration
+
+The broader research program includes applications to short ordinal measures in field data, where sparse categories are common because some experiences or response options are infrequent. These applications help connect simulation-based guidance to real measurement decisions.
+
+## Contribution to my research program
+
+This project anchors my work on **measurement under sparse and heterogeneous data**. Related studies extend the framework to scenario-specific cutoffs, composite fit rules, estimator comparisons, category collapsing, and cross-context measurement decisions.
+
+[← All methodological projects](index.qmd){.back-link}

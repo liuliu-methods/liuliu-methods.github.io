@@ -1,0 +1,64 @@
+---
+title: "Selecting, Translating, and Reporting Variance Priors"
+subtitle: "A practical framework for Bayesian multilevel modeling across software and parameterizations"
+---
+
+<div class="project-status-row">
+<span class="status-pill">Accepted</span>
+<span class="status-text">Behavior Research Methods</span>
+<span class="status-text">Liu, L.</span>
+</div>
+
+::: {.project-lede}
+Bayesian prior choice is not only a distributional decision. It is also a parameterization, software, scale, sensitivity, and reporting decision. This project turns those linked choices into a reproducible workflow for applied multilevel researchers.
+:::
+
+<div class="resource-bar">
+<a class="resource-link muted-link" href="#paper">Paper</a>
+<a class="resource-link muted-link" href="#supplement">Supplement</a>
+<a class="resource-link muted-link" href="#code">R / Stan Code</a>
+<a class="resource-link" href="#workflow">Workflow</a>
+<a class="resource-link" href="#key-takeaways">Key Takeaways</a>
+</div>
+
+## Abstract {#abstract}
+
+This tutorial addresses a recurring practical problem in Bayesian multilevel analysis: researchers may select priors using one scale or software system, then fit a model using another parameterization in which the same numerical values no longer imply the same prior information. The paper organizes prior specification around a sequence of decisions: identify the variance quantity of interest, choose a prior family, calibrate its scale to plausible parameter values, translate the prior correctly across software and parameterizations, assess sensitivity, and report enough information for the analysis to be reproduced and critiqued.
+
+## Paper {#paper}
+
+**Liu, L.** (accepted). *A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models*. **Behavior Research Methods**.
+
+The article is accepted. A public manuscript link will be added when a shareable version is available.
+
+## Supplement {#supplement}
+
+The planned public supplement will collect parameterization notes, prior-conversion examples, and reproducible reporting templates in one place.
+
+## R / Stan Code {#code}
+
+A companion code repository is planned to demonstrate equivalent prior ideas across common Bayesian multilevel workflows, including direct variance, standard-deviation, and precision parameterizations.
+
+## Practical Workflow {#workflow}
+
+::: {.workflow-list}
+<div><span>01</span><strong>Define the variance quantity.</strong><p>Be explicit about whether the model is parameterized in variance, standard deviation, precision, or a transformed scale.</p></div>
+<div><span>02</span><strong>Choose a prior family.</strong><p>Match the prior family to the inferential goal and to the support of the parameter.</p></div>
+<div><span>03</span><strong>Calibrate the scale.</strong><p>Use plausible values, benchmark information, or transparent weakly informative assumptions rather than arbitrary constants.</p></div>
+<div><span>04</span><strong>Translate correctly.</strong><p>Check how the target software defines and transforms the parameter before reusing numerical prior values.</p></div>
+<div><span>05</span><strong>Stress-test the conclusion.</strong><p>Conduct sensitivity analyses that vary prior strength and, when useful, prior family.</p></div>
+<div><span>06</span><strong>Report for reproducibility.</strong><p>Document the parameterization, distribution, hyperparameters, calibration logic, and sensitivity results.</p></div>
+:::
+
+## Key Takeaways {#key-takeaways}
+
+- A prior that looks identical numerically can imply different information under different parameterizations.
+- Prior calibration is easier to defend when researchers state the target parameter scale and the substantive or empirical logic behind the hyperparameters.
+- Sensitivity analysis is part of prior specification, not an optional afterthought.
+- Reporting should make the prior recoverable by another analyst, including enough detail to reconstruct any scale transformations.
+
+## Contribution to my research program
+
+This tutorial is the translational component of my Bayesian methods program. It connects simulation findings on prior performance to the practical decisions researchers make when moving across models, software packages, and reporting conventions.
+
+[← All methodological projects](index.qmd){.back-link}

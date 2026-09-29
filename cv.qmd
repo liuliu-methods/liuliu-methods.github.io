@@ -1,0 +1,60 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Quantitative methodology, measurement, and educational statistics"
+format:
+  html:
+    toc: false
+---
+
+<div class="cv-actions">
+<a class="primary-link" href="files/Liu_Liu_CV.pdf" target="_blank">Download full CV (PDF)</a>
+<a href="https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en" target="_blank">Google Scholar</a>
+<a href="https://orcid.org/0000-0001-6900-9829" target="_blank">ORCID</a>
+</div>
+
+## Academic Appointments
+
+**Assistant Research Scientist**, University of Georgia, School of Social Work  
+*October 2024 to present*
+
+**Faculty Affiliate**, Owens Institute for Behavioral Research  
+*2025 to present*
+
+## Education
+
+**Ph.D., Measurement and Statistics**, University of Washington, 2024  
+Dissertation: *Informative Variance Priors for Bayesian Multilevel Models*
+
+**M.A., Educational Statistics and Research Methods**, University of Delaware, 2021
+
+**M.S., Statistics, Measurement, Assessment, and Research Technology**, University of Pennsylvania, 2018
+
+**B.A., English Education**, Fuyang Normal University, 2016
+
+## Research and Teaching Interests
+
+**Methodological research:** Bayesian multilevel modeling and prior specification for small samples; measurement modeling for sparse and imbalanced data.
+
+**Applied research:** Quantitative methods for measurement and program evaluation in education and social research.
+
+**Teaching:** Multilevel modeling; Bayesian data analysis; applied measurement; quantitative research methods.
+
+## Grants and Sponsored Projects
+
+**Principal Investigator.** Bayesian Multilevel Modeling for Social Work Research. University of Georgia School of Social Work Seed Grant, 2025. $5,600.
+
+**Co-Investigator.** Delta Air Lines-University of Georgia Center on Human Trafficking Research Collaboration Project. University of Georgia, 2025. $80,000.
+
+**Statistical Consultant.** REBOOT Award. New York University, 2025.
+
+## Professional Service
+
+- Secretary/Treasurer, AERA Special Interest Group: Multiple Linear Regression and General Linear Models, 2025 to 2028.
+- Consulting Editor, *Teaching Educational Research Methods*.
+- Ad hoc reviewer for 40+ journal manuscripts.
+- Conference reviewer for 80+ submissions, including AERA, NCME, and the International Test Commission Conference.
+- Session Chair, AERA 2026.
+
+## Full CV
+
+<iframe class="cv-frame" src="files/Liu_Liu_CV.pdf" width="100%" height="920px"></iframe>

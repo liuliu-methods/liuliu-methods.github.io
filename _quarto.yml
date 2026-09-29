@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Liu Liu"
+  site-url: "https://YOUR-USERNAME.github.io"
+  description: "Liu Liu, Ph.D. | Quantitative methodology, measurement, Bayesian modeling, and educational statistics."
+  favicon: assets/favicon.svg
+  navbar:
+    background: light
+    foreground: dark
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+    right:
+      - href: research.qmd
+        text: Research
+      - href: projects/index.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+      - text: Scholar
+        href: "https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en"
+      - text: ORCID
+        href: "https://orcid.org/0000-0001-6900-9829"
+  page-footer:
+    left: "© 2026 Liu Liu"
+    center: "Quantitative Methodology · Measurement · Educational Statistics"
+    right: "Built with Quarto"
+  search: false
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+    code-overflow: wrap
+
+execute:
+  freeze: auto

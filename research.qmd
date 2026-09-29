@@ -1,0 +1,72 @@
+---
+title: "Research"
+subtitle: "Quantitative methodology, measurement, and statistical decision making under limited information"
+---
+
+::: {.page-lede}
+My research develops and evaluates quantitative methods for situations in which samples are small, response patterns are sparse, or conventional large-sample guidance is not sufficient. Across projects, I focus on a common problem: **what conclusions can the available data actually support, and how should analysts make their assumptions visible and defensible?**
+:::
+
+## Research Program
+
+My methodological work is organized around two tightly connected programs, with educational and social-science applications providing both test cases and new methodological questions.
+
+### Bayesian multilevel and longitudinal methods
+
+My primary line of research studies prior specification, calibration, random effects, and inference when higher-level information is limited. My dissertation, *Informative Variance Priors for Bayesian Multilevel Models*, developed this program through simulation and large-scale assessment applications. It now extends to prior translation across software, Bayesian multilevel item-response models, random-slope covariance structures, and longitudinal dyadic models.
+
+::: {.research-links}
+[Variance priors in Bayesian multilevel models →](projects/bayesian-variance-priors.qmd)
+
+[Selecting, translating, and reporting variance priors →](projects/bayesian-prior-guidance.qmd)
+
+[Calibrating informative priors across models and software →](projects/bayesian-prior-calibration.qmd)
+
+[Longitudinal dyadic modeling with limited numbers of dyads →](projects/dyadic-modeling.qmd)
+:::
+
+### Measurement, psychometrics, and SEM
+
+A second line of research examines what happens when measurement data are sparse, imbalanced, or heterogeneous across groups and contexts. I study fit-index behavior, category collapsing, condition-specific decision rules, item response theory, measurement invariance, differential item functioning, and assessment fairness.
+
+::: {.research-links}
+[Sparse ordinal CFA and model-fit decisions →](projects/sparse-ordinal-cfa.qmd)
+:::
+
+## Applied quantitative research
+
+Applied research serves as both a testing ground and a source of methodological questions. I work on quantitative design, measurement, analysis, and evaluation in educational and social research, including causal inference for observational evaluation, explainable machine learning with PISA, complex surveys, cross-context measurement, and responsible uses of machine learning and NLP in assessment.
+
+## Research Pipeline
+
+::: {.pipeline-grid}
+::: {.pipeline-col}
+<div class="pipeline-title">Bayesian Modeling</div>
+Prior calibration  
+Small-sample inference  
+Random effects  
+Longitudinal models
+:::
+
+::: {.pipeline-col}
+<div class="pipeline-title">Measurement</div>
+Sparse ordinal CFA  
+Model-fit calibration  
+IRT  
+Invariance & DIF
+:::
+
+::: {.pipeline-col}
+<div class="pipeline-title">Data Science & Evaluation</div>
+Causal inference  
+Explainable AI  
+Complex surveys  
+Program evaluation
+:::
+:::
+
+[Browse all methodological project pages →](projects/index.qmd){.text-link}
+
+## Long-Term Agenda
+
+Over the next five to ten years, I plan to continue developing quantitative methods that remain reliable when samples are limited, response patterns are sparse, or study designs restrict the information available for estimation. I am especially interested in methodological work that produces not only statistical findings, but also practical guidance, reproducible code, and training materials for researchers and graduate students.

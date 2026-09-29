@@ -1,0 +1,78 @@
+---
+title: "Longitudinal Dyadic Modeling with Limited Numbers of Dyads"
+subtitle: "Role parameterization, multilevel actor-partner models, and information limits in distinguishable dyads"
+---
+
+<div class="project-status-row">
+<span class="status-pill active">Active program</span>
+<span class="status-text">Longitudinal methods · Multilevel models · Dyadic data</span>
+</div>
+
+::: {.project-lede}
+Longitudinal dyadic models must represent dependence across time and between partners while often being estimated from a modest number of dyads. This program studies how parameterization, sample size, repeated measurements, random effects, and post-estimation choices shape what can be learned from those data.
+:::
+
+<div class="resource-bar">
+<a class="resource-link" href="#papers">Papers</a>
+<a class="resource-link muted-link" href="#supplement">Supplement</a>
+<a class="resource-link muted-link" href="#code">R / Mplus Code</a>
+<a class="resource-link" href="#design">Research Design</a>
+<a class="resource-link" href="#key-contributions">Key Contributions</a>
+</div>
+
+## Program Overview {#abstract}
+
+This research develops practical guidance for longitudinal models of distinguishable dyads, with a particular focus on settings where the number of dyads is limited but each dyad contributes repeated observations. The work separates questions that are often combined: how to code distinguishable roles, how fixed and random effects map to actor and partner processes, how repeated measurements contribute information differently from additional dyads, and how post-estimation should recover substantively meaningful trajectories and contrasts.
+
+## Papers {#papers}
+
+::: {.project-paper}
+<div class="paper-label">UNDER REVIEW · BEHAVIOR RESEARCH METHODS</div>
+### Role parameterization in longitudinal models for distinguishable dyads: A practical framework for fixed effects, random effects, and post-estimation
+
+A tutorial-style framework for role coding, within- and between-dyad parameterization, random slopes and covariances, residual dependence, and post-estimation.
+:::
+
+::: {.project-paper}
+<div class="paper-label">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
+### How dyad sample size and repeated measurements shape the performance of multilevel actor-partner growth models for longitudinal distinguishable dyads
+
+A methodological evaluation of how information from additional dyads differs from information contributed by additional repeated observations.
+:::
+
+::: {.project-paper}
+<div class="paper-label">UNDER REVIEW · METHODS IN PSYCHOLOGY</div>
+### Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure
+
+A design-oriented treatment of what can and cannot be stabilized when the number of independent dyads is limited.
+:::
+
+## Supplement {#supplement}
+
+Public supplements are not yet available. Planned materials include role-coding templates, parameter maps, worked post-estimation examples, and model-comparison checklists.
+
+## R / Mplus Code {#code}
+
+The planned repository will emphasize **transparent parameterization**. Rather than offering a single black-box model, it will show how different coding choices change the meaning of intercepts, slopes, interactions, actor-partner contrasts, and random-effect terms.
+
+## Research Design {#design}
+
+::: {.mini-grid}
+<div><strong>Independent information</strong><br><span>How much does the number of dyads constrain higher-level variance and covariance estimation?</span></div>
+<div><strong>Within-dyad information</strong><br><span>What improves when each dyad contributes more repeated observations?</span></div>
+<div><strong>Role structure</strong><br><span>How should distinguishable members be coded so coefficients map cleanly to substantive estimands?</span></div>
+<div><strong>Dependence</strong><br><span>How should random effects and residual association represent partner and longitudinal dependence?</span></div>
+:::
+
+## Key Contributions {#key-contributions}
+
+- Distinguishes the information gained from **more dyads** from the information gained from **more repeated measurements per dyad**.
+- Makes the mapping between role coding and substantive estimands explicit, reducing ambiguity in actor, partner, and trajectory interpretations.
+- Extends the practical framework beyond fixed effects to random slopes, random-effect covariance, residual association, and post-estimation.
+- Emphasizes model specification that reflects the actual independent sampling units rather than treating a large number of repeated records as equivalent to a large number of dyads.
+
+## Contribution to my research program
+
+This program extends my broader work on **multilevel inference under limited higher-level information** into longitudinal and interpersonal data structures. It also provides a bridge between methodological development and applied family, health, and social-science research.
+
+[← All methodological projects](index.qmd){.back-link}

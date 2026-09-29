@@ -1,0 +1,133 @@
+---
+title: "Publications"
+subtitle: "Methodological research, applied measurement, and quantitative social science"
+---
+
+::: {.page-lede}
+My publication program spans Bayesian methodology, psychometrics and measurement, structural equation modeling, causal and computational methods, and applications in education and social science. **Methodological papers are foregrounded below.**
+:::
+
+<div class="profile-links">[Google Scholar](https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6900-9829)</div>
+
+## Accepted and In Press
+
+::: {.bib-entry}
+**Liu, L.** (accepted). Mode-matched inverse gamma priors for variance components in Bayesian multilevel models. *Multivariate Behavioral Research*.  
+[Project page](projects/bayesian-variance-priors.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L.** (accepted). A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models. *Behavior Research Methods*.  
+[Project page](projects/bayesian-prior-guidance.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L., & Dai, R.** (in press). Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018. *Large-scale Assessments in Education*.
+:::
+
+::: {.bib-entry}
+**Liu, L., Okech, D., & Cody, A.** (in press). Household and child correlates of child trafficking indicators in Eastern Sierra Leone. *PLOS ONE*.
+:::
+
+## Peer-Reviewed Journal Articles
+
+::: {.bib-entry}
+**Liu, L., Liu, J., Yi, H., & Okech, D.** (2026). Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing. *Structural Equation Modeling: A Multidisciplinary Journal*, 1–12.  
+[DOI](https://doi.org/10.1080/10705511.2026.2691170) · [Project page](projects/sparse-ordinal-cfa.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L., Okech, D., Cody, A., & Konteh, F.** (2026). Human-centered child trafficking prevalence: A latent class analysis of exploitation sectors. *International Journal on Child Maltreatment: Research, Policy and Practice*, 1–30.  
+[DOI](https://doi.org/10.1007/s42448-026-00266-2)
+:::
+
+::: {.bib-entry}
+**Okech, D., Liu, L., Cody, A., Hwang, E., & Konteh, F.** (2026). Sex trafficking and commercial sex: Outcomes in suicide ideation and economic strain among young women. *Frontiers in Psychiatry, 17*, Article 1843240.  
+[DOI](https://doi.org/10.3389/fpsyt.2026.1843240)
+:::
+
+::: {.bib-entry}
+**Yi, H., Liu, X., Okech, D., Clay-Warner, J., Liu, L., & Deng, X.** (2026). New perspectives on respondent-driven sampling with application to sex-trafficked population in Senegal. *Journal of Statistical Theory and Practice, 20*(3), Article 84.  
+[DOI](https://doi.org/10.1007/s42519-026-00612-0)
+:::
+
+::: {.bib-entry}
+**Liu, L., Joseph, G. E., Taylor, J. M., Hassairi, N., & Soderberg, J. S.** (2025). Early childhood educators pay equity: A dream deferred. *Early Childhood Education Journal, 53*(2), 463–476.  
+[DOI](https://doi.org/10.1007/s10643-023-01600-w)
+:::
+
+::: {.bib-entry}
+**Berridge, C., Turner, N. R., Liu, L., Fredriksen-Goldsen, K. I., Lyons, K. S., Demiris, G., ... & Lober, W. B.** (2023). Preliminary efficacy of Let's Talk Tech: Technology use planning for dementia care dyads. *Innovation in Aging, 7*(3), igad018.  
+[DOI](https://doi.org/10.1093/geroni/igad018)
+:::
+
+::: {.bib-entry}
+**Collier, Z. K., Zhang, H., & Liu, L.** (2022). Explained: Artificial intelligence for propensity score estimation in multilevel educational settings. *Practical Assessment, Research, and Evaluation, 27*(1), 3.  
+[DOI](https://doi.org/10.7275/0dpq-eq84)
+:::
+
+::: {.bib-entry}
+**Berridge, C., Turner, N. R., Liu, L., Karras, S. W., Chen, A., Fredriksen-Goldsen, K., & Demiris, G.** (2022). Advance planning for technology use in dementia care: Development, design, and feasibility of a novel self-administered decision-making tool. *JMIR Aging, 5*(3), e39335.  
+[DOI](https://doi.org/10.2196/39335)
+:::
+
+## Book Chapter
+
+::: {.bib-entry}
+**Lü, C., Pace, A. E., & Liu, L.** (2023). Student-level variables and academic achievement in a Mandarin dual language immersion program. In D. Zhang & R. T. Miller (Eds.), *Crossing boundaries in researching, understanding, and improving language education* (pp. 213–229). Springer.  
+[DOI](https://doi.org/10.1007/978-3-031-24078-2_10)
+:::
+
+## Selected Methodological Manuscripts in the Pipeline
+
+::: {.bib-entry}
+**Liu, L.** (2026). Calibrating informative variance priors in Bayesian multilevel item-response models: A practical evaluation using PISA 2018. *Applied Measurement in Education*, under review.  
+[Project page](projects/bayesian-prior-calibration.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L.** (2026). Benchmark-based calibration of scalar variance priors across Bayesian multilevel software. *Methodology*, under review.  
+[Project page](projects/bayesian-prior-calibration.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L.** (2026). Role parameterization in longitudinal models for distinguishable dyads: A practical framework for fixed effects, random effects, and post-estimation. *Behavior Research Methods*, under review.  
+[Project page](projects/dyadic-modeling.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L.** (2026). How dyad sample size and repeated measurements shape the performance of multilevel actor-partner growth models for longitudinal distinguishable dyads. *Multivariate Behavioral Research*, under review.  
+[Project page](projects/dyadic-modeling.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L.** (2026). Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure. *Methods in Psychology*, under review.  
+[Project page](projects/dyadic-modeling.qmd)
+:::
+
+::: {.bib-entry}
+**Liu, L., & Collier, Z.** (2026). A DoWhy-assisted causal workflow for observational educational evaluation: An applied charter school enrollment case. *Studies in Educational Evaluation*, under revision.
+:::
+
+::: {.bib-entry}
+**Liu, L., Liu, J., & Okech, D.** (2026). Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and composite rules. *Behavior Research Methods*, under revision.
+:::
+
+::: {.bib-entry}
+**Liu, J., Liu, L., Jiang, W., Wang, X., & Kellam, H.** (2026). When collapsing sparse categories alters model decisions: Evidence from confirmatory factor analysis across estimators. *Behavior Research Methods*, under review.
+:::
+
+## Stakeholder-Facing Research Reports
+
+::: {.bib-entry}
+**Okech, D., Kinnish, K., Liu, L., Dockweiler, H., Cody, A., Hwang, E. M., & Caplan, S.** (2026). *Aviation-connected human trafficking landscape and stakeholder ecosystem in Atlanta, Georgia*. University of Georgia Center on Human Trafficking Research and Outreach.
+:::
+
+::: {.bib-entry}
+**Okech, D., Kinnish, K., Cody, A., Dockweiler, H., & Liu, L.** (2026, July). *Preliminary stakeholder perspectives on human trafficking and aviation: Implications for awareness, identification, response, and collaboration* [Technical report]. University of Georgia Center on Human Trafficking Research and Outreach.
+:::
+
+::: {.bib-entry}
+**Okech, D., Cody, A. M., Clay-Warner, J., Balch, A., Yi, H., Callands, T., Bolton, C., Konteh, F., Jalloh, A., Dockweiler, H., Goulart, P., Schroeder, E., Liu, L., Eng, C., Waswa, A., & Fofanah, U.** (2025). *Assessing changes in child trafficking and the worst forms of child labor in Sierra Leone from 2019–2024*. University of Georgia Center on Human Trafficking Research and Outreach.  
+[DOI](https://doi.org/10.71927/UGA.27593)
+:::

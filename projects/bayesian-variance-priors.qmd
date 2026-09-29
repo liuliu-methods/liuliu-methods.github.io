@@ -1,0 +1,80 @@
+---
+title: "Variance Priors for Bayesian Multilevel Models"
+subtitle: "Mode-matched inverse-gamma priors for variance components when higher-level sample sizes are limited"
+---
+
+<div class="project-status-row">
+<span class="status-pill">Accepted</span>
+<span class="status-text">Multivariate Behavioral Research</span>
+<span class="status-text">Liu, L.</span>
+</div>
+
+::: {.project-lede}
+Bayesian multilevel models can be especially sensitive to prior specification when the number of higher-level units is small. This project evaluates informative variance priors designed to stabilize estimation without hiding the assumptions that make that stabilization possible.
+:::
+
+<div class="resource-bar">
+<a class="resource-link muted-link" href="#paper">Paper</a>
+<a class="resource-link muted-link" href="#supplement">Supplement</a>
+<a class="resource-link muted-link" href="#code">R / Stan Code</a>
+<a class="resource-link" href="#simulation-design">Simulation Design</a>
+<a class="resource-link" href="#key-findings">Key Findings</a>
+</div>
+
+## Abstract {#abstract}
+
+This study examines prior distributions for variance components in Bayesian multilevel models when higher-level sample sizes are limited. The central strategy is to calibrate inverse-gamma priors so that their mode corresponds to a substantively meaningful or empirically informed variance value, rather than relying on a fixed default prior across research settings. Simulation studies evaluate how alternative prior choices affect estimation and uncertainty across combinations of cluster size, number of clusters, intraclass correlation, explained variance, and outcome type. Empirical illustrations using international large-scale assessment data show how information from a separate reference sample can be used to construct an informative prior for a smaller target analysis.
+
+## Paper {#paper}
+
+**Liu, L.** (accepted). *Mode-matched inverse gamma priors for variance components in Bayesian multilevel models*. **Multivariate Behavioral Research**.
+
+The article is accepted. A public manuscript link will be added when an author-accepted or publisher version is available for sharing.
+
+## Supplement {#supplement}
+
+The project includes simulation and empirical components. Supplementary materials will be linked here when the public version is available.
+
+## R / Stan Code {#code}
+
+Reproducible code is being organized for public release. The planned repository will include simulation generation, model fitting, convergence checks, performance summaries, and empirical calibration examples.
+
+## Simulation Design {#simulation-design}
+
+::: {.design-grid}
+::: {.design-box}
+<div class="design-label">Higher-level units</div>
+<div class="design-value">10 · 30 · 100</div>
+:::
+
+::: {.design-box}
+<div class="design-label">Cluster size</div>
+<div class="design-value">5 · 30</div>
+:::
+
+::: {.design-box}
+<div class="design-label">ICC</div>
+<div class="design-value">.01 · .20 · .40</div>
+:::
+
+::: {.design-box}
+<div class="design-label">Level-1 / Level-2 R²</div>
+<div class="design-value">0 · .20 · .40</div>
+:::
+:::
+
+The simulation crosses small to large numbers of higher-level units with small and larger cluster sizes, multiple intraclass-correlation conditions, different amounts of explained variance, and both continuous and binary outcomes. The evaluation emphasizes variance-component recovery, uncertainty, and robustness to prior choice.
+
+## Key Findings {#key-findings}
+
+- **Mode-matched informative inverse-gamma priors were comparatively stable across conditions.** Their performance was especially useful when the data provided limited information about higher-level variance components.
+- **A fixed IG(.01, .01) default could behave poorly in small-
+  \(J\) settings.** The results support calibrating priors to the problem rather than treating a single numerical prior as universally weak or noninformative.
+- **Fixed-effect estimates were generally less sensitive than variance components.** The practical implication is that prior sensitivity should be evaluated at the parameter level rather than described globally for the entire model.
+- **External or benchmark information can be used transparently.** The empirical workflow shows how a separate reference sample can inform a target analysis while keeping the source and strength of prior information explicit.
+
+## Contribution to my research program
+
+This paper anchors my broader research program on **Bayesian calibration under limited information**. Current extensions examine multilevel item-response models, cross-software prior translation, random-slope covariance structures, and longitudinal models in which higher-level information is similarly constrained.
+
+[← All methodological projects](index.qmd){.back-link}

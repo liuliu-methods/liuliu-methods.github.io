@@ -1,0 +1,60 @@
+---
+title: "Teaching"
+subtitle: "From fitting models to making defensible quantitative decisions"
+---
+
+::: {.page-lede}
+My teaching goal is to help students move from applying statistical procedures to making **defensible research decisions**. I organize quantitative instruction around the full research process: question, design, measurement, model choice, diagnostics, uncertainty, interpretation, and reproducible communication.
+:::
+
+## Teaching Philosophy
+
+Effective quantitative work combines technical execution with judgment about what a design and dataset can support. Software and formulas matter, but I embed them within a broader sequence of inquiry: define the research question, understand the data structure, choose a model the data can support, examine assumptions and diagnostics, interpret uncertainty, and communicate conclusions responsibly.
+
+## Courses I Am Prepared to Teach
+
+::: {.course-grid}
+<div>Quantitative Research Methods</div>
+<div>Introductory & Intermediate Statistics</div>
+<div>Multilevel Modeling</div>
+<div>Bayesian Data Analysis</div>
+<div>Structural Equation Modeling</div>
+<div>Psychometrics & Educational Measurement</div>
+<div>Item Response Theory</div>
+<div>Longitudinal Data Analysis</div>
+<div>Causal Inference</div>
+<div>Applied Data Science</div>
+<div>Program Evaluation</div>
+<div>Survey Methods</div>
+:::
+
+## Teaching Experience
+
+### University of Washington
+
+**Teaching Assistant, EDPSY 576: Multilevel Modeling**  
+*September to December 2023*
+
+Led weekly R-based laboratories on model specification, diagnostics, interpretation, and reproducible reporting. Developed reusable templates for data preparation, model fitting, visualization, and reporting, and provided individual methodological consultation to more than 30 graduate students.
+
+### University of Georgia
+
+**Invited Guest Lecturer, SOWK 8307: Doctoral Research Practicum II**  
+*April 2026*
+
+Delivered a doctoral seminar on the quantitative research process, including research questions, study design, measurement, data analysis, interpretation, and responsible reporting.
+
+### Research Methods Mentoring
+
+I mentor graduate students and research trainees on study design, measurement, analysis planning, model selection, diagnostics, interpretation, and reproducible documentation. My mentoring approach gradually shifts responsibility to the student as they gain methodological independence.
+
+## Teaching Approach
+
+### Authentic Inquiry
+I use real research problems to connect statistical technique with substantive reasoning. Code is a tool for quantitative thinking, not an end in itself.
+
+### Scaffolding and Feedback
+Students enter methods courses with different levels of statistical preparation and programming experience. I use conceptual explanations, worked examples, annotated code, structured decision prompts, and iterative feedback while maintaining common expectations for methodological reasoning.
+
+### Reproducible Practice
+Students should leave a methods course able to produce an analysis that another researcher can understand, reproduce, and critique. I emphasize transparent workflows, diagnostic checks, and clear reporting of assumptions and uncertainty.
