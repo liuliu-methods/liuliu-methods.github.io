@@ -17,7 +17,7 @@ My methodological work is organized around a recurring problem: **how should res
 
 ::: {.project-grid}
 ::: {.project-card}
-<div class="project-tag">BAYESIAN METHODS · ACCEPTED</div>
+<div class="project-tag">BAYESIAN METHODS · ACCEPTED · DOI ASSIGNED</div>
 ## Variance priors for Bayesian multilevel models
 
 Informative prior specification for variance components when higher-level sample sizes are limited, including simulation-based evaluation and practical calibration guidance.
@@ -61,12 +61,12 @@ Extending prior calibration to Bayesian multilevel IRT and cross-software settin
 :::
 
 ::: {.project-card}
-<div class="project-tag">LONGITUDINAL METHODS · ACTIVE PROGRAM</div>
+<div class="project-tag">LONGITUDINAL METHODS · ACCEPTED + ACTIVE PROGRAM</div>
 ## Dyadic multilevel modeling with limited information
 
 A connected program on role parameterization, small numbers of dyads, random effects, estimands, and post-estimation for longitudinal distinguishable dyads.
 
-<div class="project-meta">Behavior Research Methods · Multivariate Behavioral Research · Methods in Psychology</div>
+<div class="project-meta">Methods in Psychology · Behavior Research Methods · Multivariate Behavioral Research</div>
 
 [View project →](dyadic-modeling.qmd){.project-link}
 :::
