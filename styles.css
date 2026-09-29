@@ -1313,3 +1313,128 @@ body:has(.projects-intro) #quarto-content main.content {
     padding-left: 0;
   }
 }
+
+
+/* v6: faculty-site balance across methods, applications, teaching, and service */
+.interests-section {
+  padding-top: 3.5rem;
+  padding-bottom: 3.6rem;
+}
+
+.interest-grid,
+.applied-grid,
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  margin: 2rem 0 .4rem;
+}
+
+.interest-card,
+.applied-card {
+  min-width: 0;
+  padding: 1.5rem 1.5rem 1.55rem 0;
+}
+
+.interest-card + .interest-card,
+.applied-card + .applied-card {
+  border-left: 1px solid var(--line);
+  padding-left: 1.5rem;
+}
+
+.interest-label,
+.service-label {
+  color: var(--warm);
+  font-size: .69rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.interest-card h3,
+.applied-card h3,
+.service-card h3 {
+  color: var(--navy);
+  font-size: 1.18rem;
+  line-height: 1.3;
+  margin: .5rem 0 .65rem;
+}
+
+.interest-card p,
+.applied-card p,
+.service-card p {
+  color: #4b5660;
+  font-size: .9rem;
+  line-height: 1.62;
+  margin-bottom: 0;
+}
+
+.research-map-branches.two-stream {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.project-section-heading {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 1.2rem 28px 1rem;
+}
+
+.project-section-heading h2 {
+  margin: .45rem 0 0;
+  color: var(--navy);
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+}
+
+.project-section-heading.applied-heading {
+  padding-top: 3.3rem;
+}
+
+.applied-project-grid {
+  padding-bottom: 1rem;
+}
+
+.service-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1.4rem;
+}
+
+.service-card {
+  min-width: 0;
+  padding: 1.35rem 1.5rem 1.5rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.service-card:nth-child(even) {
+  border-left: 1px solid var(--line);
+  padding-left: 1.5rem;
+}
+
+.service-card:nth-last-child(-n+2) {
+  border-bottom: 0;
+}
+
+@media (max-width: 850px) {
+  .interest-grid,
+  .applied-grid,
+  .service-grid,
+  .research-map-branches.two-stream {
+    grid-template-columns: 1fr;
+  }
+
+  .interest-card + .interest-card,
+  .applied-card + .applied-card,
+  .service-card:nth-child(even) {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding-left: 0;
+  }
+
+  .service-card {
+    border-bottom: 0;
+  }
+
+  .service-card + .service-card {
+    border-top: 1px solid var(--line);
+  }
+}

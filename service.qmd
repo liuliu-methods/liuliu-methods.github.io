@@ -1,0 +1,59 @@
+---
+title: "Service"
+subtitle: "Editorial service, peer review, and professional leadership"
+---
+
+::: {.page-lede}
+I contribute to the quantitative methods and interdisciplinary research communities through **editorial service, peer review, professional leadership, and conference service**. These activities complement my research and teaching by keeping me engaged with emerging methodological work and the standards used to evaluate it.
+:::
+
+## Editorial and Reviewing Service
+
+::: {.service-grid}
+::: {.service-card}
+<div class="service-label">EDITORIAL REVIEW BOARD</div>
+### Journal of Applied Educational Research and Evaluation
+**2026 to present**
+
+Editorial review board service supporting peer review and manuscript evaluation in educational research and evaluation.
+:::
+
+::: {.service-card}
+<div class="service-label">CONSULTING EDITOR</div>
+### Teaching Educational Research Methods
+**2025 to present**
+
+Editorial service focused on scholarship in the teaching and learning of educational research methods.
+:::
+
+::: {.service-card}
+<div class="service-label">JOURNAL PEER REVIEW</div>
+### 40+ journal manuscripts
+Ad hoc reviewer for journals including *Methodology*, *Structural Equation Modeling: A Multidisciplinary Journal*, *Journal of Psychoeducational Assessment*, *Early Childhood Education Journal*, and *Education Sciences*.
+:::
+
+::: {.service-card}
+<div class="service-label">CONFERENCE REVIEW</div>
+### 80+ conference submissions
+Reviewer for conferences including AERA, NCME, and the International Test Commission Conference.
+:::
+:::
+
+## Professional Leadership
+
+**Secretary/Treasurer**, AERA Special Interest Group: Multiple Linear Regression and General Linear Models  
+*2025 to 2028*
+
+**Campus Representative**, AERA Graduate Student Council  
+*2020 to 2023*
+
+## Conference Service
+
+**Session Chair**, AERA 2026  
+Multiple Linear Regression/General Linear Models SIG and Educational Statisticians SIG
+
+**Discussant**, AERA Division D, 2021; National Council on Measurement in Education, 2021
+
+## Service Philosophy
+
+I view professional service as part of the infrastructure of quantitative research. Reviewing, editorial work, and professional leadership help sustain rigorous methodological standards while also creating opportunities to support researchers and students working across substantive fields.

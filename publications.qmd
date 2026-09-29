@@ -4,7 +4,7 @@ subtitle: "Methodological research, applied measurement, and quantitative social
 ---
 
 ::: {.page-lede}
-My publication program spans Bayesian methodology, psychometrics and measurement, structural equation modeling, causal and computational methods, and applications in education and social science. **Methodological papers are foregrounded below.**
+My publication program has two connected strands: **methodological research** in Bayesian modeling, psychometrics, measurement, and statistical decision making, and **applied quantitative research** in education and social science. Applied studies often motivate the methodological questions I pursue, while methodological work informs how I design, analyze, and interpret substantive studies.
 :::
 
 <div class="profile-links">[Google Scholar](https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6900-9829)</div>

@@ -1,6 +1,6 @@
 ---
-title: "Methodological Projects"
-subtitle: "Research programs, publication pages, simulation designs, and reproducible resources"
+title: "Research Projects"
+subtitle: "Methodological research programs and applied quantitative studies"
 page-layout: full
 format:
   html:
@@ -10,9 +10,14 @@ format:
 ::: {.projects-intro}
 <div class="section-kicker">RESEARCH PORTFOLIO</div>
 
-# Methodological research programs
+# Methods and applications
 
-My methodological work is organized around a recurring problem: **how should researchers make quantitative decisions when the data provide limited information about the parameters, constructs, or model features they care about?** The projects below connect individual papers to broader research programs, simulation designs, and practical guidance.
+My research portfolio includes both **methodological programs** and **applied quantitative studies**. The two are intentionally connected: applied work provides substantive questions and difficult data structures, while methodological work develops tools and guidance that can travel back to practice.
+:::
+
+::: {.project-section-heading}
+<div class="section-kicker">METHODOLOGICAL RESEARCH PROGRAMS</div>
+## Developing and evaluating quantitative methods
 :::
 
 ::: {.project-grid}
@@ -69,6 +74,46 @@ A connected program on role parameterization, small numbers of dyads, random eff
 <div class="project-meta">Methods in Psychology · Behavior Research Methods · Multivariate Behavioral Research</div>
 
 [View project →](dyadic-modeling.qmd){.project-link}
+:::
+:::
+
+::: {.project-section-heading .applied-heading}
+<div class="section-kicker">APPLIED RESEARCH PROGRAMS</div>
+## Quantitative methods in substantive research
+:::
+
+::: {.project-grid .applied-project-grid}
+::: {.project-card}
+<div class="project-tag">EDUCATION · ASSESSMENT · COMPUTATIONAL METHODS</div>
+## Educational measurement, learning, and evaluation
+
+Applications of measurement, causal inference, and explainable machine learning to mathematics achievement, large-scale assessment, educational evaluation, and computational learning experiences.
+
+<div class="project-meta">PISA · educational evaluation · NSF ECR proposal activity</div>
+
+[Explore applied research →](../research.qmd#applied-research){.project-link}
+:::
+
+::: {.project-card}
+<div class="project-tag">SOCIAL RESEARCH · MEASUREMENT · PROGRAM EVALUATION</div>
+## Human trafficking measurement and evaluation
+
+Quantitative work on child trafficking prevalence, correlates, latent constructs, complex surveys, cross-context measurement, and intervention or program evaluation.
+
+<div class="project-meta">Sierra Leone · Malawi · Zambia · Senegal</div>
+
+[Explore applied research →](../research.qmd#applied-research){.project-link}
+:::
+
+::: {.project-card}
+<div class="project-tag">COMPLEX SURVEYS · CROSS-CONTEXT MEASUREMENT</div>
+## Sampling, comparability, and measurement across settings
+
+Applied studies using respondent-driven sampling, link-tracing designs, measurement validation, and cross-context comparisons to evaluate what quantitative conclusions are supportable across populations and settings.
+
+<div class="project-meta">Complex sampling · measurement validity · invariance</div>
+
+[View publications →](../publications.qmd){.project-link}
 :::
 :::
 

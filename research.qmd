@@ -1,21 +1,21 @@
 ---
 title: "Research"
-subtitle: "Quantitative methodology, measurement, and statistical decision making under limited information"
+subtitle: "Methodological research grounded in applied problems in education and social science"
 ---
 
 ::: {.page-lede}
-My research develops and evaluates quantitative methods for situations in which samples are small, response patterns are sparse, or conventional large-sample guidance is not sufficient. Across projects, I focus on a common problem: **what conclusions can the available data actually support, and how should analysts make their assumptions visible and defensible?**
+My research has two connected strands: **methodological research** in quantitative modeling and measurement, and **applied research** in education and social science. The relationship is reciprocal. Applied studies reveal where existing methods are fragile or incomplete; methodological studies then develop, test, and translate better quantitative guidance for practice.
 :::
 
 ## Research Program
 
-My methodological work is organized around two tightly connected programs, with educational and social-science applications providing both test cases and new methodological questions.
+<div class="research-map" role="img" aria-label="Research program map showing two connected strands: methodological research and applied research, joined by a cycle in which applied problems motivate methodological questions and methodological advances return to practice."><div class="research-map-hub"><span>RESEARCH LOGIC</span><strong>Applied problems ↔ methodological questions</strong></div><div class="research-map-branches two-stream"><div class="research-map-card"><span class="research-map-number">01</span><strong>Methodological Research</strong><small>Bayesian multilevel & longitudinal modeling · prior calibration · psychometrics · CFA / SEM · IRT · fit evaluation</small></div><div class="research-map-card"><span class="research-map-number">02</span><strong>Applied Research</strong><small>Education & assessment · causal and computational evaluation · complex surveys · human trafficking measurement · program evaluation</small></div></div><div class="research-map-foundation">Applied settings generate methodological questions · methodological advances return to applied practice</div></div>
 
-<div class="research-map" role="img" aria-label="Research program map showing reliable inference under limited information connected to Bayesian multilevel and longitudinal methods, measurement psychometrics and SEM, and educational and social research, all supported by simulation, reproducibility, and practical guidance."><div class="research-map-hub"><span>CORE QUESTION</span><strong>Reliable inference when information is limited</strong></div><div class="research-map-branches"><div class="research-map-card"><span class="research-map-number">01</span><strong>Bayesian Multilevel &amp; Longitudinal</strong><small>Prior specification · variance components · small-sample inference · dyadic models</small></div><div class="research-map-card"><span class="research-map-number">02</span><strong>Measurement, Psychometrics &amp; SEM</strong><small>Sparse ordinal data · CFA / SEM · IRT · fit calibration</small></div><div class="research-map-card"><span class="research-map-number">03</span><strong>Educational &amp; Social Research</strong><small>Causal inference · complex surveys · explainable AI · evaluation</small></div></div><div class="research-map-foundation">Simulation · Reproducibility · Practical guidance</div></div>
+## Methodological Research
 
 ### Bayesian multilevel and longitudinal methods
 
-My primary line of research studies prior specification, calibration, random effects, and inference when higher-level information is limited. My dissertation, *Informative Variance Priors for Bayesian Multilevel Models*, developed this program through simulation and large-scale assessment applications. It now extends to prior translation across software, Bayesian multilevel item-response models, random-slope covariance structures, and longitudinal dyadic models.
+My primary methodological line studies prior specification, calibration, random effects, and inference when higher-level information is limited. My dissertation, *Informative Variance Priors for Bayesian Multilevel Models*, developed this program through simulation and large-scale assessment applications. It now extends to prior translation across software, Bayesian multilevel item-response models, random-slope covariance structures, and longitudinal dyadic models.
 
 ::: {.research-links}
 [Variance priors in Bayesian multilevel models →](projects/bayesian-variance-priors.qmd)
@@ -29,15 +29,39 @@ My primary line of research studies prior specification, calibration, random eff
 
 ### Measurement, psychometrics, and SEM
 
-A second line of research examines what happens when measurement data are sparse, imbalanced, or heterogeneous across groups and contexts. I study fit-index behavior, category collapsing, condition-specific decision rules, item response theory, measurement invariance, differential item functioning, and assessment fairness.
+A second methodological line examines what happens when measurement data are sparse, imbalanced, or heterogeneous across groups and contexts. I study fit-index behavior, category collapsing, condition-specific decision rules, item response theory, measurement invariance, differential item functioning, and assessment fairness.
 
 ::: {.research-links}
 [Sparse ordinal CFA and model-fit decisions →](projects/sparse-ordinal-cfa.qmd)
 :::
 
-## Applied quantitative research
+## Applied Research
 
-Applied research serves as both a testing ground and a source of methodological questions. I work on quantitative design, measurement, analysis, and evaluation in educational and social research, including causal inference for observational evaluation, explainable machine learning with PISA, complex surveys, cross-context measurement, and responsible uses of machine learning and NLP in assessment.
+My applied work uses quantitative methods to answer substantive questions while also identifying problems that motivate new methodological research.
+
+::: {.applied-grid}
+::: {.applied-card}
+<div class="interest-label">EDUCATION & ASSESSMENT</div>
+### Learning, measurement, and evaluation
+Large-scale assessment, mathematics achievement, educational measurement, observational evaluation, and explainable machine learning. Current and recent work includes PISA-based prediction and interpretation, causal evaluation in educational settings, and longitudinal work on computational experiences in undergraduate mathematics.
+:::
+
+::: {.applied-card}
+<div class="interest-label">SOCIAL RESEARCH & HUMAN TRAFFICKING</div>
+### Measurement, prevalence, and program evaluation
+Survey design, prevalence estimation, latent-variable measurement, complex sampling, and program evaluation in research on child trafficking and related social outcomes. This work includes studies in Sierra Leone, Malawi, Zambia, Senegal, and other settings.
+:::
+
+::: {.applied-card}
+<div class="interest-label">CROSS-CONTEXT QUANTITATIVE RESEARCH</div>
+### When measurement and design meet substantive questions
+Cross-context measurement, respondent-driven and link-tracing sampling, measurement invariance, and reproducible quantitative workflows for interdisciplinary research. These applications often expose the small-sample, sparsity, and comparability problems that feed back into my methodological work.
+:::
+:::
+
+## From Applied Problems to Methods
+
+Several of my methodological projects began with recurring problems in applied analysis. Sparse ordinal response patterns motivated work on **category collapsing and fit-index calibration**. Limited higher-level sample sizes motivated research on **informative variance priors and prior calibration**. Longitudinal studies with relatively few independent dyads motivated work on **estimand-information alignment and random-effect support**. This applied-to-methods pathway is central to how I define my research program.
 
 ## Current Proposal Activity
 
@@ -45,4 +69,4 @@ Applied research serves as both a testing ground and a source of methodological 
 
 ## Long-Term Agenda
 
-Over the next five to ten years, I plan to continue developing quantitative methods that remain reliable when samples are limited, response patterns are sparse, or study designs restrict the information available for estimation. I am especially interested in methodological work that produces not only statistical findings, but also practical guidance, reproducible code, and training materials for researchers and graduate students.
+Over the next five to ten years, I plan to continue developing quantitative methods that remain reliable when samples are limited, response patterns are sparse, or study designs restrict the information available for estimation. I am especially interested in methodological work that grows from substantive research problems and produces not only statistical findings, but also practical guidance, reproducible code, and training materials for researchers and graduate students.
