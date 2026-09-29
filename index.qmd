@@ -12,9 +12,9 @@ format:
 
 # Liu Liu, Ph.D.
 
-## Quantitative Methodologist & Measurement Scientist
+## Quantitative Methodologist · Measurement & Educational Statistics
 
-I develop and evaluate quantitative methods for research settings in which information is limited, response patterns are sparse, or conventional large-sample guidance is unreliable. My work centers on **Bayesian multilevel modeling, psychometrics and measurement, structural equation modeling, and quantitative methods for educational and social science research**.
+I develop and evaluate quantitative methods for research settings where data are **limited, sparse, or complex**. My work focuses on **Bayesian multilevel modeling, psychometrics and measurement, and quantitative methods for educational and social science research**.
 
 I am an Assistant Research Scientist at the University of Georgia and a Faculty Affiliate of the Owens Institute for Behavioral Research. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
 
@@ -22,8 +22,6 @@ I am an Assistant Research Scientist at the University of Georgia and a Faculty 
 <a class="primary-link" href="research.html">Research</a>
 <a href="publications.html">Publications</a>
 <a href="files/Liu_Liu_CV.pdf" target="_blank">CV</a>
-<a href="https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en" target="_blank">Google Scholar</a>
-<a href="https://orcid.org/0000-0001-6900-9829" target="_blank">ORCID</a>
 </div>
 :::
 
@@ -42,74 +40,55 @@ Faculty Affiliate, Owens Institute
 <div class="section-kicker">RESEARCH PROGRAM</div>
 ## Methods for reliable inference when information is limited
 
-My research is organized around a common question: **what can the available data support, and how should quantitative assumptions be calibrated, diagnosed, and communicated?** Applied problems in assessment, evaluation, and social research often reveal where standard statistical guidance is too general. I use those problems to motivate methodological studies, simulation work, and practical guidance.
+My research asks how quantitative assumptions and decisions should change when the available data provide limited information. I use problems from measurement, assessment, evaluation, and social research to motivate methodological studies, simulation work, and practical guidance.
 
 ::: {.research-strands}
 ::: {.strand}
 <div class="strand-number">01</div>
 ### Bayesian Multilevel & Longitudinal Methods
-Prior specification, variance components, small-sample inference, random effects, Bayesian IRT, and longitudinal and dyadic multilevel models.
+Prior specification, variance components, small-sample inference, and longitudinal multilevel models.
 :::
 
 ::: {.strand}
 <div class="strand-number">02</div>
 ### Measurement, Psychometrics & SEM
-Sparse ordinal CFA, model-fit calibration, item response theory, measurement invariance, differential item functioning, and assessment fairness.
+Sparse ordinal data, CFA/SEM, IRT, measurement invariance, and model-fit calibration.
 :::
 
 ::: {.strand}
 <div class="strand-number">03</div>
 ### Quantitative Methods for Educational & Social Research
-Causal inference, complex surveys, explainable AI, program evaluation, and responsible data science for consequential decisions.
+Causal inference, complex surveys, explainable AI, and program evaluation.
 :::
 :::
 
 [Explore the research program →](research.qmd){.text-link}
 :::
 
-::: {.home-section .selected-work}
+::: {.home-section .selected-work .compact-work}
 <div class="section-kicker">SELECTED METHODOLOGICAL WORK</div>
 ## Recent and featured research
 
-::: {.pub-item}
-<div class="pub-status">ACCEPTED · MULTIVARIATE BEHAVIORAL RESEARCH</div>
-### [Mode-matched inverse-gamma priors for variance components in Bayesian multilevel models](projects/bayesian-variance-priors.qmd)
-<div class="pub-authors"><strong>Liu, L.</strong></div>
-<div class="pub-note">Informative prior specification and calibration for variance components when higher-level sample sizes are limited. <a href="projects/bayesian-variance-priors.html">Project page →</a></div>
+::: {.compact-pub}
+<div class="pub-status">ACCEPTED · MBR · DOI ASSIGNED</div>
+### [Mode-matched inverse gamma priors for variance components in Bayesian multilevel models](https://doi.org/10.1080/00273171.2026.2740827)
+<div class="compact-meta"><strong>Liu, L.</strong> · [Paper](https://doi.org/10.1080/00273171.2026.2740827) · [Project](projects/bayesian-variance-priors.qmd)</div>
 :::
 
-::: {.pub-item}
-<div class="pub-status">ACCEPTED · BEHAVIOR RESEARCH METHODS</div>
-### [A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models](projects/bayesian-prior-guidance.qmd)
-<div class="pub-authors"><strong>Liu, L.</strong></div>
-<div class="pub-note">A practical framework for choosing, translating, evaluating, and reporting variance priors across Bayesian multilevel modeling settings. <a href="projects/bayesian-prior-guidance.html">Project page →</a></div>
+::: {.compact-pub}
+<div class="pub-status">ACCEPTED · METHODS IN PSYCHOLOGY</div>
+### [Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure](projects/dyadic-modeling.qmd)
+<div class="compact-meta"><strong>Liu, L.</strong> · [Project](projects/dyadic-modeling.qmd)</div>
 :::
 
-::: {.pub-item}
+::: {.compact-pub}
 <div class="pub-status">2026 · STRUCTURAL EQUATION MODELING</div>
-### [Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing](projects/sparse-ordinal-cfa.qmd)
-<div class="pub-authors"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D.</div>
-<div class="pub-note">How sparse response categories and category collapsing affect fit-index behavior and model-fit decisions. <a href="projects/sparse-ordinal-cfa.html">Project page →</a></div>
+### [Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing](https://doi.org/10.1080/10705511.2026.2691170)
+<div class="compact-meta"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. · [Paper](https://doi.org/10.1080/10705511.2026.2691170) · [Project](projects/sparse-ordinal-cfa.qmd)</div>
 :::
 
-[Explore methodological projects →](projects/index.qmd){.text-link}  
+<div class="selected-links">
+[Explore projects →](projects/index.qmd){.text-link}
 [View all publications →](publications.qmd){.text-link}
-:::
-
-::: {.home-section .methods-band}
-<div>
-<div class="section-kicker">METHODS</div>
-## Areas of expertise
-</div>
-<div class="method-list">
-<span>Bayesian modeling</span>
-<span>Multilevel & longitudinal models</span>
-<span>CFA / SEM</span>
-<span>Item response theory</span>
-<span>Measurement invariance & DIF</span>
-<span>Simulation studies</span>
-<span>Complex surveys</span>
-<span>Causal inference</span>
-<span>Machine learning & NLP</span>
 </div>
 :::
