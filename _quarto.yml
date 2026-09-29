@@ -31,7 +31,7 @@ website:
     center: "Quantitative Methodology · Measurement · Educational Statistics"
     right: "[Email](mailto:liuuil@uga.edu) · [Scholar](https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6900-9829)"
   search: false
-  back-to-top-navigation: true
+  back-to-top-navigation: false
 
 format:
   html:
