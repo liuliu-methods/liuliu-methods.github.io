@@ -11,30 +11,7 @@ My research develops and evaluates quantitative methods for situations in which 
 
 My methodological work is organized around two tightly connected programs, with educational and social-science applications providing both test cases and new methodological questions.
 
-<div class="research-map" role="img" aria-label="Research program map showing reliable inference under limited information connected to Bayesian multilevel and longitudinal methods, measurement psychometrics and SEM, and educational and social research, all supported by simulation, reproducibility, and practical guidance.">
-  <div class="research-map-hub">
-    <span>CORE QUESTION</span>
-    <strong>Reliable inference when information is limited</strong>
-  </div>
-  <div class="research-map-branches">
-    <div class="research-map-card">
-      <span class="research-map-number">01</span>
-      <strong>Bayesian Multilevel &amp; Longitudinal</strong>
-      <small>Prior specification · variance components · small-sample inference · dyadic models</small>
-    </div>
-    <div class="research-map-card">
-      <span class="research-map-number">02</span>
-      <strong>Measurement, Psychometrics &amp; SEM</strong>
-      <small>Sparse ordinal data · CFA / SEM · IRT · fit calibration</small>
-    </div>
-    <div class="research-map-card">
-      <span class="research-map-number">03</span>
-      <strong>Educational &amp; Social Research</strong>
-      <small>Causal inference · complex surveys · explainable AI · evaluation</small>
-    </div>
-  </div>
-  <div class="research-map-foundation">Simulation · Reproducibility · Practical guidance</div>
-</div>
+<div class="research-map" role="img" aria-label="Research program map showing reliable inference under limited information connected to Bayesian multilevel and longitudinal methods, measurement psychometrics and SEM, and educational and social research, all supported by simulation, reproducibility, and practical guidance."><div class="research-map-hub"><span>CORE QUESTION</span><strong>Reliable inference when information is limited</strong></div><div class="research-map-branches"><div class="research-map-card"><span class="research-map-number">01</span><strong>Bayesian Multilevel &amp; Longitudinal</strong><small>Prior specification · variance components · small-sample inference · dyadic models</small></div><div class="research-map-card"><span class="research-map-number">02</span><strong>Measurement, Psychometrics &amp; SEM</strong><small>Sparse ordinal data · CFA / SEM · IRT · fit calibration</small></div><div class="research-map-card"><span class="research-map-number">03</span><strong>Educational &amp; Social Research</strong><small>Causal inference · complex surveys · explainable AI · evaluation</small></div></div><div class="research-map-foundation">Simulation · Reproducibility · Practical guidance</div></div>
 
 ### Bayesian multilevel and longitudinal methods
 
