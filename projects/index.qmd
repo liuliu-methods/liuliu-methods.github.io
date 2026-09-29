@@ -15,10 +15,10 @@ format:
 My research portfolio includes both **methodological programs** and **applied quantitative studies**. The two are intentionally connected: applied work provides substantive questions and difficult data structures, while methodological work develops tools and guidance that can travel back to practice.
 :::
 
-<div class="project-section-heading">
+::: {.project-section-heading}
 <div class="section-kicker">METHODOLOGICAL RESEARCH PROGRAMS</div>
 ## Developing and evaluating quantitative methods
-</div>
+:::
 
 ::: {.project-grid}
 ::: {.project-card}
@@ -77,10 +77,10 @@ A connected program on role parameterization, small numbers of dyads, random eff
 :::
 :::
 
-<div class="project-section-heading applied-heading">
+::: {.project-section-heading .applied-heading}
 <div class="section-kicker">APPLIED RESEARCH PROGRAMS</div>
 ## Quantitative methods in substantive research
-</div>
+:::
 
 ::: {.project-grid .applied-project-grid}
 ::: {.project-card}
