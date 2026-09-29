@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - googlea7d81b655a1c8310.html
 
 website:
   title: "Liu Liu"
