@@ -18,12 +18,13 @@ format:
 
 I develop and evaluate quantitative methods for research settings where data are **limited, sparse, or complex**. My work focuses on **Bayesian multilevel modeling, psychometrics and measurement, and quantitative methods for educational and social science research**.
 
-I am an Assistant Research Scientist at the University of Georgia and a Faculty Affiliate of the Owens Institute for Behavioral Research. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
+I am an Assistant Research Scientist at the Center on Human Trafficking Research & Outreach (CenHTRO), University of Georgia, and a Faculty Affiliate of the Owens Institute for Behavioral Research. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
 
 <div class="hero-links">
 <a class="primary-link" href="research.html">Research</a>
 <a href="publications.html">Publications</a>
 <a href="files/Liu_Liu_CV.pdf" target="_blank">CV</a>
+<a class="orcid-mini" href="https://orcid.org/0000-0001-6900-9829" target="_blank" aria-label="ORCID profile" title="ORCID"><span class="orcid-mark">iD</span></a>
 </div>
 :::
 
@@ -31,10 +32,9 @@ I am an Assistant Research Scientist at the University of Georgia and a Faculty 
 ![](assets/liu-liu-headshot.jpg){fig-alt="Professional headshot of Liu Liu"}
 
 <div class="photo-caption">
-<strong>University of Georgia</strong><br>
-Assistant Research Scientist<br>
-Faculty Affiliate<br>
-Owens Institute for Behavioral Research
+<strong><a href="https://ssw.uga.edu/team_member/liu-liu/" target="_blank">University of Georgia</a></strong><br>
+Assistant Research Scientist, <a href="https://cenhtro.uga.edu/" target="_blank">CenHTRO</a><br>
+Faculty Affiliate, <a href="https://oibr.uga.edu/" target="_blank">Owens Institute for Behavioral Research</a>
 </div>
 :::
 :::
