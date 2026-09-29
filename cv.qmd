@@ -41,6 +41,8 @@ Dissertation: *Informative Variance Priors for Bayesian Multilevel Models*
 
 ## Grants and Sponsored Projects
 
+**Subaward Principal Investigator.** *Computational Experiences in Introductory Mathematics: A Longitudinal Study of Mathematical Agency and STEM Progression.* NSF ECR:Core Level II, 2026. In preparation.
+
 **Principal Investigator.** Bayesian Multilevel Modeling for Social Work Research. University of Georgia School of Social Work Seed Grant, 2025. $5,600.
 
 **Co-Investigator.** Delta Air Lines-University of Georgia Center on Human Trafficking Research Collaboration Project. University of Georgia, 2025. $80,000.
