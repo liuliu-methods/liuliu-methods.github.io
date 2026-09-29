@@ -25,6 +25,21 @@ When higher-level sample sizes are small, variance components can be weakly iden
 
 The paper proposes a mode-matched inverse-gamma strategy for variance components in Bayesian multilevel models. A substantively plausible or empirically grounded variance value is used as the target prior mode, while a separate shape parameter controls prior concentration. The method was evaluated in a Monte Carlo study and in a disjoint reference-sample illustration using TIMSS 2019 U.S. Grade 8 data. The broader goal is not to prescribe a universal prior, but to make prior location, prior strength, calibration source, and sensitivity explicit.
 
+<div class="visual-panel prior-visual" role="img" aria-label="Conceptual workflow from reference information to variance target, mode-matched prior, target multilevel model, and sensitivity and recovery checks.">
+  <div class="visual-caption">PRIOR CALIBRATION WORKFLOW</div>
+  <div class="flow-row five-step">
+    <div class="flow-node"><span>01</span><strong>Reference information</strong><small>Prior studies or separated benchmark data</small></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-node"><span>02</span><strong>Variance target</strong><small>Interpretable location for the prior mode</small></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-node prior-node"><span>03</span><strong>Mode-matched prior</strong><small>Location and concentration specified separately</small><svg class="density-mini" viewBox="0 0 120 34" aria-hidden="true"><path d="M4 29 C22 29, 26 9, 47 7 C67 5, 71 21, 91 25 C102 27, 111 28, 116 29" fill="none" stroke="currentColor" stroke-width="2"/><line x1="47" y1="4" x2="47" y2="31" stroke="currentColor" stroke-width="1" stroke-dasharray="3 3"/></svg></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-node"><span>04</span><strong>Target model</strong><small>Bayesian multilevel estimation</small></div>
+    <div class="flow-arrow">→</div>
+    <div class="flow-node"><span>05</span><strong>Check robustness</strong><small>Recovery, intervals, and sensitivity</small></div>
+  </div>
+</div>
+
 ## Paper {#paper}
 
 **Liu, L.** (2026). *Mode-matched inverse gamma priors for variance components in Bayesian multilevel models*. **Multivariate Behavioral Research**. DOI assigned. [https://doi.org/10.1080/00273171.2026.2740827](https://doi.org/10.1080/00273171.2026.2740827)

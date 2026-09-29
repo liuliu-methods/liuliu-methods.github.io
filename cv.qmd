@@ -8,8 +8,6 @@ format:
 
 <div class="cv-actions">
 <a class="primary-link" href="files/Liu_Liu_CV.pdf" target="_blank">Download full CV (PDF)</a>
-<a href="https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en" target="_blank">Google Scholar</a>
-<a href="https://orcid.org/0000-0001-6900-9829" target="_blank">ORCID</a>
 </div>
 
 ## Academic Appointments

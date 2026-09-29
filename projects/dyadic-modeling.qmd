@@ -27,6 +27,34 @@ Repeated observations and independent dyads contribute different kinds of inform
 
 The paper develops an **estimand-information alignment** framework: each target dyadic estimand should be evaluated in relation to the level of the design that supplies its statistical information. The study distinguishes fixed-effect precision, repeated-sampling calibration, model completion, optimizer convergence, and support for random-effect structure rather than treating them as a single notion of model performance.
 
+<div class="visual-panel dyad-visual" role="img" aria-label="Longitudinal dyadic information structure showing repeated observations within partners and independent dyads, plus a comparison showing 42 percent reduction in within-person interval width and 6 percent reduction in between-person interval width when occasions increase from 7 to 21.">
+  <div class="visual-caption">WHERE THE INFORMATION COMES FROM</div>
+  <div class="dyad-layout">
+    <div class="dyad-timeline">
+      <div class="dyad-group">
+        <strong>Dyad 1</strong>
+        <div class="person-track"><span class="person-label">A</span><i></i><i></i><i></i><i></i><i></i></div>
+        <div class="person-track"><span class="person-label">B</span><i></i><i></i><i></i><i></i><i></i></div>
+      </div>
+      <div class="dyad-group">
+        <strong>Dyad 2</strong>
+        <div class="person-track"><span class="person-label">A</span><i></i><i></i><i></i><i></i><i></i></div>
+        <div class="person-track"><span class="person-label">B</span><i></i><i></i><i></i><i></i><i></i></div>
+      </div>
+      <div class="info-source-grid">
+        <div><strong>Repeated occasions</strong><small>Primarily add information for within-person estimands</small></div>
+        <div><strong>Independent dyads</strong><small>Primarily add information for between-dyad parameters and random effects</small></div>
+      </div>
+    </div>
+    <div class="precision-visual">
+      <small>7 → 21 occasions</small>
+      <div class="precision-row"><span>Within-person CI width</span><div class="bar-track"><div class="bar-fill bar-42"></div></div><strong>−42%</strong></div>
+      <div class="precision-row"><span>Between-person CI width</span><div class="bar-track"><div class="bar-fill bar-6"></div></div><strong>−6%</strong></div>
+      <p>More repeated observations do not substitute for more independent dyads.</p>
+    </div>
+  </div>
+</div>
+
 ## Research Design {#design}
 
 The accepted study combines three complementary components.
