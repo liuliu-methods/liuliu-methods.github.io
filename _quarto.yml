@@ -10,7 +10,7 @@ project:
 website:
   title: "Liu Liu"
   site-url: "https://liuuil6218-tech.github.io"
-  description: "Liu Liu, Ph.D., quantitative methodologist at the University of Georgia specializing in Bayesian multilevel modeling, psychometrics, measurement, and educational statistics."
+  description: "Liu Liu, Ph.D., quantitative methodologist at the University of Georgia whose work connects Bayesian multilevel modeling, psychometrics, measurement, educational statistics, and applied quantitative research in education and social science."
   favicon: assets/favicon.svg
   open-graph: true
   twitter-card: true
@@ -27,8 +27,8 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
-      - href: cv.qmd
-        text: CV
+      - href: service.qmd
+        text: Service
       - text: Google Scholar
         href: "https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en"
   page-footer:
