@@ -1462,3 +1462,10 @@ body:has(.projects-intro) #quarto-content main.content {
 .hero-links .orcid-mini {
   border-bottom: 0;
 }
+
+
+@media (max-width: 850px) {
+  .interest-grid {
+    grid-template-columns: 1fr;
+  }
+}
