@@ -20,3 +20,5 @@ This repository includes `.github/workflows/publish.yml`. GitHub Actions renders
 GitHub Pages should use **Settings → Pages → Source: GitHub Actions**.
 
 Live site: https://liuuil6218-tech.github.io
+
+- v5.2 methodological visualizations use Quarto-safe raw HTML blocks for responsive rendering.
