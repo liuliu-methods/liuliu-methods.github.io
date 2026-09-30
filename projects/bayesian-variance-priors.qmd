@@ -1,6 +1,8 @@
 ---
 title: "Variance Priors for Bayesian Multilevel Models"
 subtitle: "Mode-matched inverse-gamma priors for variance components when higher-level sample sizes are limited"
+pagetitle: "Variance Priors for Bayesian Multilevel Models | Liu Liu, Ph.D."
+description: "Mode-matched inverse-gamma priors for variance components in Bayesian multilevel models, with simulation evidence and practical calibration guidance."
 ---
 
 <div class="project-status-row">

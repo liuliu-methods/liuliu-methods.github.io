@@ -1,12 +1,13 @@
 ---
 title: ""
 pagetitle: "Liu Liu, Ph.D. | Quantitative Methodology, Measurement & Applied Research"
-description: "Liu Liu, Ph.D., is a quantitative methodologist at the University of Georgia whose work connects Bayesian multilevel modeling, psychometrics, measurement, educational statistics, and applied quantitative research in education and social science."
+description: "Liu Liu, Ph.D., is a quantitative methodologist at the University of Georgia whose work spans Bayesian multilevel modeling, psychometrics, measurement, educational statistics, and applied quantitative research."
 page-layout: full
 format:
   html:
     toc: false
     include-in-header: seo-home.html
+image: "assets/liu-liu-headshot.jpg"
 ---
 
 ::: {.hero-shell}

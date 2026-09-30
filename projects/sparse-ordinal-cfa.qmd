@@ -1,6 +1,8 @@
 ---
 title: "Sparse Ordinal CFA and Model-Fit Decisions"
 subtitle: "Category sparsity, category collapsing, and simulation-cum-ROC evaluation"
+pagetitle: "Sparse Ordinal CFA and Model-Fit Decisions | Liu Liu, Ph.D."
+description: "Simulation and ROC-based evaluation of sparse ordinal CFA, category collapsing, fit indices, estimators, and condition-specific model-fit decisions."
 ---
 
 <div class="project-status-row">

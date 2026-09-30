@@ -1,6 +1,8 @@
 ---
 title: "Teaching"
 subtitle: "From fitting models to making defensible quantitative decisions"
+pagetitle: "Teaching | Liu Liu, Ph.D. | Quantitative Methodologist"
+description: "Teaching profile of Liu Liu, including multilevel modeling, Bayesian data analysis, psychometrics, SEM, longitudinal analysis, and quantitative research methods."
 ---
 
 ::: {.page-lede}
