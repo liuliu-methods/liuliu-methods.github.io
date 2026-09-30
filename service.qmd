@@ -1,6 +1,8 @@
 ---
 title: "Service"
 subtitle: "Editorial service, peer review, and professional leadership"
+pagetitle: "Service | Liu Liu, Ph.D. | Quantitative Methodologist"
+description: "Professional service by Liu Liu, including editorial appointments, journal and conference peer review, AERA leadership, and conference service."
 ---
 
 ::: {.page-lede}
