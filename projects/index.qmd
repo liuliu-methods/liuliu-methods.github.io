@@ -18,6 +18,7 @@ My research is **methods-first and applications-grounded**. Methodological progr
 
 ::: {.project-grid}
 ::: {.project-card}
+<div class="project-index">01</div>
 <div class="project-tag">BAYESIAN METHODS · ACCEPTED</div>
 ## Variance priors for Bayesian multilevel models
 
@@ -29,6 +30,7 @@ Informative prior specification for variance components when higher-level sample
 :::
 
 ::: {.project-card}
+<div class="project-index">02</div>
 <div class="project-tag">BAYESIAN PRACTICE · ACCEPTED</div>
 ## Selecting, translating, and reporting variance priors
 
@@ -40,6 +42,7 @@ A practical framework for choosing variance priors, translating them across para
 :::
 
 ::: {.project-card}
+<div class="project-index">03</div>
 <div class="project-tag">PSYCHOMETRICS · PUBLISHED</div>
 ## Sparse ordinal CFA and model-fit decisions
 
@@ -51,6 +54,7 @@ How sparse response categories and category collapsing change fit-index behavior
 :::
 
 ::: {.project-card}
+<div class="project-index">04</div>
 <div class="project-tag">BAYESIAN CALIBRATION · ACTIVE PROGRAM</div>
 ## Calibrating informative priors across models and software
 
@@ -62,6 +66,7 @@ Extending prior calibration to Bayesian multilevel IRT and cross-software settin
 :::
 
 ::: {.project-card .project-card-wide}
+<div class="project-index">05</div>
 <div class="project-tag">LONGITUDINAL METHODS · ACCEPTED + ACTIVE PROGRAM</div>
 ## Dyadic multilevel modeling with limited information
 
@@ -80,6 +85,7 @@ A connected program on role parameterization, small numbers of dyads, random eff
 
 ::: {.project-grid .applied-project-grid}
 ::: {.project-card}
+<div class="project-index">A</div>
 <div class="project-tag">EDUCATION · ASSESSMENT</div>
 ## Educational measurement, learning, and evaluation
 
@@ -91,6 +97,7 @@ Applications of measurement, causal inference, and explainable machine learning 
 :::
 
 ::: {.project-card}
+<div class="project-index">B</div>
 <div class="project-tag">SOCIAL RESEARCH · EVALUATION</div>
 ## Human trafficking measurement and evaluation
 
@@ -102,6 +109,7 @@ Quantitative work on child trafficking prevalence, correlates, latent constructs
 :::
 
 ::: {.project-card}
+<div class="project-index">C</div>
 <div class="project-tag">COMPLEX SURVEYS · MEASUREMENT</div>
 ## Sampling, comparability, and measurement across settings
 
