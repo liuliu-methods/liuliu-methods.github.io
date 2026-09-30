@@ -1485,3 +1485,78 @@ body:has(.projects-intro) #quarto-content main.content {
   margin-top: 0;
   border-top-color: var(--line);
 }
+
+
+/* v6.3: final homepage readability polish */
+.interests-section {
+  padding-top: 2.95rem;
+  padding-bottom: 2.85rem;
+}
+
+.interests-section .interest-grid {
+  margin-bottom: 0;
+}
+
+.interest-card {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+}
+
+.research-program-section {
+  padding-top: 3.65rem;
+  padding-bottom: 2.45rem;
+}
+
+.research-program-section > p {
+  max-width: 980px;
+}
+
+.research-program-section .strand {
+  min-height: 172px;
+  padding-top: 1.35rem;
+  padding-bottom: 1.35rem;
+}
+
+.research-program-section .method-strand h3 {
+  font-weight: 600;
+}
+
+.research-program-section .method-strand .strand-number {
+  color: var(--warm);
+}
+
+.research-program-section .applied-strand h3 {
+  font-weight: 500;
+}
+
+.research-program-section .applied-strand .strand-number {
+  color: #9ba5ad;
+}
+
+.selected-work {
+  padding-top: 2.65rem;
+  padding-bottom: 3.65rem;
+}
+
+.selected-work .compact-pub {
+  padding-top: 1.15rem;
+  padding-bottom: 1.2rem;
+}
+
+.selected-work .pub-status {
+  font-size: .68rem;
+  letter-spacing: .10em;
+  line-height: 1.45;
+}
+
+@media (max-width: 900px) {
+  .research-program-section,
+  .selected-work {
+    padding-top: 2.8rem;
+    padding-bottom: 2.8rem;
+  }
+
+  .research-program-section .strand {
+    min-height: auto;
+  }
+}
