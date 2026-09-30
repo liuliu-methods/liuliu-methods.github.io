@@ -2044,3 +2044,158 @@ body:has(.teaching-areas) h2 {
     background: transparent;
   }
 }
+
+
+/* v6.9: publications page hierarchy and scanability */
+body:has(.accepted-grid) .page-lede {
+  max-width: 930px;
+}
+
+body:has(.accepted-grid) h2 {
+  margin-top: 2.55rem;
+}
+
+.profile-links {
+  margin-top: .8rem;
+  font-size: .9rem;
+}
+
+.accepted-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  margin-top: 1rem;
+}
+
+.accepted-card {
+  min-width: 0;
+  padding: 1.25rem 1.5rem 1.35rem 0;
+}
+
+.accepted-card:nth-child(even) {
+  border-left: 1px solid var(--line);
+  padding-left: 1.5rem;
+}
+
+.accepted-card:nth-child(n+3) {
+  border-top: 1px solid var(--line);
+}
+
+.accepted-card h3 {
+  color: var(--navy);
+  font-size: 1.18rem;
+  line-height: 1.35;
+  margin: .45rem 0 .55rem;
+}
+
+.pub-authors,
+.pub-venue,
+.pub-actions {
+  font-size: .86rem;
+  line-height: 1.5;
+}
+
+.pub-authors {
+  color: #36414a;
+}
+
+.pub-venue {
+  color: var(--muted);
+  margin-top: .12rem;
+}
+
+.pub-actions {
+  margin-top: .55rem;
+}
+
+.pub-year {
+  color: var(--warm);
+  font-size: .78rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  margin: 1.55rem 0 .25rem;
+}
+
+.journal-list,
+.pipeline-list,
+.report-list {
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+}
+
+.journal-row,
+.pipeline-row,
+.report-row {
+  padding: .95rem 0 1rem;
+}
+
+.journal-row + .journal-row,
+.pipeline-row + .pipeline-row,
+.report-row + .report-row {
+  border-top: 1px solid var(--line);
+}
+
+.journal-title,
+.pipeline-title,
+.report-title {
+  color: var(--navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.03rem;
+  line-height: 1.42;
+}
+
+.journal-citation,
+.pipeline-meta,
+.report-citation {
+  color: #4b5660;
+  font-size: .86rem;
+  line-height: 1.55;
+  margin-top: .25rem;
+}
+
+.journal-actions,
+.report-actions {
+  font-size: .82rem;
+  margin-top: .35rem;
+}
+
+.pipeline-status {
+  color: var(--warm);
+  font-size: .66rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  line-height: 1.45;
+  margin-bottom: .28rem;
+}
+
+.pipeline-title {
+  font-size: 1rem;
+}
+
+.report-list {
+  border-bottom-color: var(--line);
+}
+
+.report-title {
+  font-size: .98rem;
+}
+
+.report-citation {
+  font-size: .82rem;
+}
+
+@media (max-width: 850px) {
+  .accepted-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .accepted-card:nth-child(even) {
+    border-left: 0;
+    padding-left: 0;
+  }
+
+  .accepted-card + .accepted-card {
+    border-top: 1px solid var(--line);
+  }
+}
