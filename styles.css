@@ -1701,3 +1701,132 @@ body:has(.projects-lede) .anchorjs-link {
     padding-right: 2rem;
   }
 }
+
+
+/* v6.6: research page readability and methods-first hierarchy */
+.methods-first-map {
+  grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
+}
+
+.methods-first-map .method-core {
+  background: #fbfbfa;
+}
+
+.methods-first-map .method-core .research-map-number {
+  color: var(--warm);
+}
+
+.methods-first-map .method-core strong {
+  font-weight: 600;
+}
+
+.methods-first-map .applied-context strong {
+  font-weight: 500;
+}
+
+.compact-research-links {
+  margin-top: 1rem;
+}
+
+.compact-research-links p {
+  margin: .3rem 0;
+}
+
+.research-applied-grid {
+  margin-top: 1.35rem;
+}
+
+.research-applied-grid .applied-card {
+  min-height: 250px;
+  padding-top: 1.25rem;
+  padding-bottom: 1.35rem;
+}
+
+.research-applied-grid .applied-card p {
+  line-height: 1.55;
+}
+
+.methods-origin-grid {
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  margin: 1.35rem 0 1rem;
+}
+
+.methods-origin-row {
+  display: grid;
+  grid-template-columns: minmax(0, .9fr) 36px minmax(0, 1.6fr);
+  align-items: center;
+  gap: .4rem;
+  padding: .8rem 0;
+}
+
+.methods-origin-row + .methods-origin-row {
+  border-top: 1px solid var(--line);
+}
+
+.origin-problem {
+  color: var(--navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.origin-arrow {
+  color: #9ba5ad;
+  text-align: center;
+}
+
+.origin-method {
+  color: #43505a;
+  font-size: .9rem;
+  line-height: 1.45;
+}
+
+.current-work-callout {
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  padding: 1.2rem 0 1.3rem;
+  margin: 1rem 0 .4rem;
+}
+
+.current-work-callout .interest-label {
+  margin-bottom: .55rem;
+}
+
+.current-work-callout p {
+  max-width: 900px;
+  margin-bottom: .6rem;
+}
+
+.current-work-callout p:last-child {
+  margin-bottom: 0;
+}
+
+body:has(.research-map) h2 {
+  margin-top: 2.5rem;
+}
+
+body:has(.research-map) #long-term-agenda + p {
+  max-width: 930px;
+}
+
+@media (max-width: 850px) {
+  .methods-first-map {
+    grid-template-columns: 1fr;
+  }
+
+  .methods-origin-row {
+    grid-template-columns: 1fr;
+    gap: .25rem;
+  }
+
+  .origin-arrow {
+    text-align: left;
+    transform: rotate(90deg);
+    width: 20px;
+  }
+
+  .research-applied-grid .applied-card {
+    min-height: auto;
+  }
+}
