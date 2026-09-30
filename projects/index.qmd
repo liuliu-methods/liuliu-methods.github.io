@@ -5,6 +5,8 @@ page-layout: full
 format:
   html:
     toc: false
+pagetitle: "Research Projects | Liu Liu, Ph.D. | Quantitative Methodologist"
+description: "Research projects by Liu Liu on Bayesian variance priors, sparse ordinal CFA, longitudinal dyadic modeling, psychometrics, and applied quantitative research."
 ---
 
 ::: {.projects-lede}
