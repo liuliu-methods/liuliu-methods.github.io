@@ -46,7 +46,6 @@ Faculty Affiliate, <a href="https://oibr.uga.edu/" target="_blank">Owens Institu
 
 ::: {.home-section .interests-section}
 <div class="section-kicker">RESEARCH & TEACHING INTERESTS</div>
-## Methodological depth, applied questions, and quantitative training
 
 ::: {.interest-grid}
 ::: {.interest-card}

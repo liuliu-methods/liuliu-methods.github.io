@@ -1469,3 +1469,19 @@ body:has(.projects-intro) #quarto-content main.content {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* v6.2: tighter research & teaching interests section */
+.interests-section {
+  padding-top: 3.15rem;
+  padding-bottom: 3.2rem;
+}
+
+.interests-section .section-kicker {
+  margin-bottom: .85rem;
+}
+
+.interests-section .interest-grid {
+  margin-top: 0;
+  border-top-color: var(--line);
+}
