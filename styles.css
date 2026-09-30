@@ -2199,3 +2199,47 @@ body:has(.accepted-grid) h2 {
     border-top: 1px solid var(--line);
   }
 }
+
+
+/* v6.10: selected conference presentations */
+.conference-list {
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  margin-top: 1rem;
+}
+
+.conference-row {
+  padding: .9rem 0 .95rem;
+}
+
+.conference-row + .conference-row {
+  border-top: 1px solid var(--line);
+}
+
+.conference-meta {
+  color: var(--warm);
+  font-size: .66rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  line-height: 1.4;
+  margin-bottom: .28rem;
+}
+
+.conference-title {
+  color: var(--navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  line-height: 1.42;
+}
+
+.conference-authors,
+.conference-venue {
+  color: #4b5660;
+  font-size: .84rem;
+  line-height: 1.5;
+  margin-top: .18rem;
+}
+
+.conference-venue {
+  color: var(--muted);
+}
