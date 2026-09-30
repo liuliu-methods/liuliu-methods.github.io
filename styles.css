@@ -1905,3 +1905,142 @@ body:has(.service-appointments) h2 {
     white-space: normal;
   }
 }
+
+
+/* v6.8: teaching page hierarchy and scanability */
+body:has(.teaching-areas) .page-lede {
+  max-width: 900px;
+}
+
+body:has(.teaching-areas) h2 {
+  margin-top: 2.45rem;
+}
+
+.teaching-areas {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr);
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  margin-top: 1rem;
+}
+
+.teaching-area-block {
+  min-width: 0;
+  padding: 1.2rem 1.5rem 1.25rem 0;
+}
+
+.teaching-area-block + .teaching-area-block {
+  border-left: 1px solid var(--line);
+  padding-left: 1.5rem;
+}
+
+.teaching-area-core {
+  background: #fbfbfa;
+}
+
+.teaching-area-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-top: .55rem;
+}
+
+.teaching-area-list > div {
+  padding: .45rem 0;
+  border-top: 1px solid var(--line);
+  color: #2f3942;
+  font-size: .92rem;
+  line-height: 1.4;
+}
+
+.teaching-area-list > div:first-child {
+  border-top: 0;
+}
+
+.teaching-experience {
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  margin-top: 1rem;
+}
+
+.teaching-experience-row {
+  padding: 1rem 0 1.05rem;
+}
+
+.teaching-experience-row + .teaching-experience-row {
+  border-top: 1px solid var(--line);
+}
+
+.teaching-experience-main > strong {
+  display: block;
+  color: var(--navy);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.08rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin-top: .3rem;
+}
+
+.teaching-experience-date {
+  color: var(--muted);
+  font-size: .82rem;
+  font-style: italic;
+  margin-top: .15rem;
+}
+
+.teaching-experience-main p {
+  max-width: 900px;
+  margin: .55rem 0 0;
+  color: #43505a;
+  font-size: .92rem;
+  line-height: 1.6;
+}
+
+.teaching-approach-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 1px solid var(--line-dark);
+  border-bottom: 1px solid var(--line-dark);
+  margin-top: 1rem;
+}
+
+.teaching-approach-card {
+  min-width: 0;
+  padding: 1.2rem 1.4rem 1.3rem 0;
+}
+
+.teaching-approach-card + .teaching-approach-card {
+  border-left: 1px solid var(--line);
+  padding-left: 1.4rem;
+}
+
+.teaching-approach-card h3 {
+  color: var(--navy);
+  font-size: 1.15rem;
+  line-height: 1.3;
+  margin: .42rem 0 .55rem;
+}
+
+.teaching-approach-card p {
+  margin: 0;
+  color: #43505a;
+  font-size: .9rem;
+  line-height: 1.58;
+}
+
+@media (max-width: 850px) {
+  .teaching-areas,
+  .teaching-approach-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .teaching-area-block + .teaching-area-block,
+  .teaching-approach-card + .teaching-approach-card {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+    padding-left: 0;
+  }
+
+  .teaching-area-core {
+    background: transparent;
+  }
+}
