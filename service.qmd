@@ -4,16 +4,16 @@ subtitle: "Editorial service, peer review, and professional leadership"
 ---
 
 ::: {.page-lede}
-I contribute to the quantitative methods and interdisciplinary research communities through **editorial service, peer review, professional leadership, and conference service**. These activities complement my research and teaching by keeping me engaged with emerging methodological work and the standards used to evaluate it.
+I contribute to the quantitative methods and interdisciplinary research communities through editorial service, peer review, and professional leadership.
 :::
 
-## Editorial and Reviewing Service
+## Editorial Appointments
 
-::: {.service-grid}
+::: {.service-grid .service-appointments}
 ::: {.service-card}
 <div class="service-label">EDITORIAL REVIEW BOARD</div>
 ### Journal of Applied Educational Research and Evaluation
-**2026 to present**
+<div class="service-date">2026–Present</div>
 
 Editorial review board service supporting peer review and manuscript evaluation in educational research and evaluation.
 :::
@@ -21,11 +21,15 @@ Editorial review board service supporting peer review and manuscript evaluation 
 ::: {.service-card}
 <div class="service-label">CONSULTING EDITOR</div>
 ### Teaching Educational Research Methods
-**2025 to present**
+<div class="service-date">2025–Present</div>
 
 Editorial service focused on scholarship in the teaching and learning of educational research methods.
 :::
+:::
 
+## Peer Review
+
+::: {.service-grid .service-review-grid}
 ::: {.service-card}
 <div class="service-label">JOURNAL PEER REVIEW</div>
 ### 40+ journal manuscripts
@@ -41,19 +45,26 @@ Reviewer for conferences including AERA, NCME, and the International Test Commis
 
 ## Professional Leadership
 
-**Secretary/Treasurer**, AERA Special Interest Group: Multiple Linear Regression and General Linear Models  
-*2025 to 2028*
+::: {.service-list}
+::: {.service-list-row}
+<div><strong>Secretary/Treasurer</strong>, AERA Special Interest Group: Multiple Linear Regression and General Linear Models</div>
+<div class="service-list-date">2025–2028</div>
+:::
 
-**Campus Representative**, AERA Graduate Student Council  
-*2020 to 2023*
+::: {.service-list-row}
+<div><strong>Campus Representative</strong>, AERA Graduate Student Council</div>
+<div class="service-list-date">2020–2023</div>
+:::
+:::
 
 ## Conference Service
 
-**Session Chair**, AERA 2026  
-Multiple Linear Regression/General Linear Models SIG and Educational Statisticians SIG
+::: {.service-list}
+::: {.service-list-row}
+<div><strong>Session Chair</strong>, AERA 2026<br><span class="service-list-detail">Multiple Linear Regression/General Linear Models SIG and Educational Statisticians SIG</span></div>
+:::
 
-**Discussant**, AERA Division D, 2021; National Council on Measurement in Education, 2021
-
-## Service Philosophy
-
-I view professional service as part of the infrastructure of quantitative research. Reviewing, editorial work, and professional leadership help sustain rigorous methodological standards while also creating opportunities to support researchers and students working across substantive fields.
+::: {.service-list-row}
+<div><strong>Discussant</strong>, AERA Division D, 2021; National Council on Measurement in Education, 2021</div>
+:::
+:::
