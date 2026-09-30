@@ -173,6 +173,52 @@ My publication program has two connected strands: **methodological research** in
 :::
 :::
 
+## Selected Conference Presentations
+
+::: {.conference-list}
+::: {.conference-row}
+<div class="conference-meta">2027 · SSWR · SAN FRANCISCO</div>
+<div class="conference-title">Are human trafficking severity scores comparable across contexts? Evidence from Malawi and Zambia</div>
+<div class="conference-authors"><strong>Liu, L.</strong>, Okech, D., Cody, A., & Goulart, P.</div>
+<div class="conference-venue">Society for Social Work and Research Annual Conference</div>
+:::
+
+::: {.conference-row}
+<div class="conference-meta">2026 · MODERN MODELING METHODS · NEW YORK</div>
+<div class="conference-title">Scenario-specific fit-index cutoffs for sparse ordinal CFA: Monte Carlo calibration across estimators and category collapsing</div>
+<div class="conference-authors"><strong>Liu, L.</strong>, Liu, J., & Okech, D.</div>
+<div class="conference-venue">Modern Modeling Methods Conference</div>
+:::
+
+::: {.conference-row}
+<div class="conference-meta">2026 · AERA · LOS ANGELES</div>
+<div class="conference-title">Assessing the performance of Bayesian and traditional estimators in confirmatory factor analysis with sparse Likert-scale data</div>
+<div class="conference-authors">Liu, J., <strong>Liu, L.</strong>, & Jiang, W.</div>
+<div class="conference-venue">American Educational Research Association Annual Meeting</div>
+:::
+
+::: {.conference-row}
+<div class="conference-meta">2025 · JSM · NASHVILLE</div>
+<div class="conference-title">Informative variance priors for Bayesian multilevel modeling with large and small samples</div>
+<div class="conference-authors"><strong>Liu, L.</strong>, Okech, D., & Yi, H.</div>
+<div class="conference-venue">Joint Statistical Meetings</div>
+:::
+
+::: {.conference-row}
+<div class="conference-meta">2024 · NCME · PHILADELPHIA</div>
+<div class="conference-title">Informative inverse-gamma variance priors for Bayesian multilevel item response model precision</div>
+<div class="conference-authors"><strong>Liu, L.</strong> & Sanders, E. A.</div>
+<div class="conference-venue">National Council on Measurement in Education Annual Meeting</div>
+:::
+
+::: {.conference-row}
+<div class="conference-meta">2023 · PSYCHOMETRIC SOCIETY · COLLEGE PARK</div>
+<div class="conference-title">Bayesian variance component priors for small-sample multilevel models</div>
+<div class="conference-authors"><strong>Liu, L.</strong> & Sanders, E. A.</div>
+<div class="conference-venue">International Meeting of the Psychometric Society</div>
+:::
+:::
+
 ## Research Reports & Technical Publications
 
 ::: {.report-list}
