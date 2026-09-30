@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 subtitle: "Methodological research, applied measurement, and quantitative social science"
+pagetitle: "Publications | Liu Liu, Ph.D. | Quantitative Methodologist"
+description: "Publications by Liu Liu in Bayesian modeling, psychometrics, measurement, educational statistics, causal evaluation, and quantitative social science."
 ---
 
 ::: {.page-lede}
