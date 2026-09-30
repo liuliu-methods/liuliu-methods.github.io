@@ -2243,3 +2243,23 @@ body:has(.accepted-grid) h2 {
 .conference-venue {
   color: var(--muted);
 }
+
+
+/* v6.11: homepage contact line */
+.hero-contact {
+  margin-top: .7rem;
+  font-size: .9rem;
+  line-height: 1.4;
+}
+
+.hero-contact a {
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .08rem;
+}
+
+.hero-contact a:hover {
+  color: var(--warm);
+  border-color: var(--warm);
+}
