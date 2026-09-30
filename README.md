@@ -11,7 +11,7 @@ A Quarto faculty-job-market website focused on quantitative methodology, measure
 - Added permanent DOI links for the Multivariate Behavioral Research paper and the PLOS ONE paper, while labeling both as accepted / DOI assigned rather than fully published.
 - Added the NSF ECR:Core Level II proposal in preparation, with Liu Liu listed as Subaward Principal Investigator and lead for the UGA methodological component.
 - Updated the downloadable CV PDF and DOCX.
-- Updated the GitHub Pages workflow and site URL for `liuuil6218-tech.github.io`.
+- Updated the GitHub Pages workflow and site URL for `liuliu-methods.github.io`.
 
 ## Publish without installing Quarto locally
 
@@ -19,6 +19,6 @@ This repository includes `.github/workflows/publish.yml`. GitHub Actions renders
 
 GitHub Pages should use **Settings → Pages → Source: GitHub Actions**.
 
-Live site: https://liuuil6218-tech.github.io
+Live site: https://liuliu-methods.github.io
 
 - v5.2 methodological visualizations use Quarto-safe raw HTML blocks for responsive rendering.
