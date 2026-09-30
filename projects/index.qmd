@@ -1,18 +1,14 @@
 ---
 title: "Research Projects"
-subtitle: "Methodological research programs and applied quantitative studies"
+subtitle: "Methodological research programs grounded in applied quantitative work"
 page-layout: full
 format:
   html:
     toc: false
 ---
 
-::: {.projects-intro}
-<div class="section-kicker">RESEARCH PORTFOLIO</div>
-
-# Methods and applications
-
-My research portfolio includes both **methodological programs** and **applied quantitative studies**. The two are intentionally connected: applied work provides substantive questions and difficult data structures, while methodological work develops tools and guidance that can travel back to practice.
+::: {.projects-lede}
+My research is **methods-first and applications-grounded**. Methodological programs form the core of my work, while applied studies in education and social research generate substantive questions, difficult data structures, and recurring problems that motivate new quantitative research.
 :::
 
 ::: {.project-section-heading}
@@ -22,7 +18,7 @@ My research portfolio includes both **methodological programs** and **applied qu
 
 ::: {.project-grid}
 ::: {.project-card}
-<div class="project-tag">BAYESIAN METHODS · ACCEPTED · DOI ASSIGNED</div>
+<div class="project-tag">BAYESIAN METHODS · ACCEPTED</div>
 ## Variance priors for Bayesian multilevel models
 
 Informative prior specification for variance components when higher-level sample sizes are limited, including simulation-based evaluation and practical calibration guidance.
@@ -65,7 +61,7 @@ Extending prior calibration to Bayesian multilevel IRT and cross-software settin
 [View project →](bayesian-prior-calibration.qmd){.project-link}
 :::
 
-::: {.project-card}
+::: {.project-card .project-card-wide}
 <div class="project-tag">LONGITUDINAL METHODS · ACCEPTED + ACTIVE PROGRAM</div>
 ## Dyadic multilevel modeling with limited information
 
@@ -79,12 +75,12 @@ A connected program on role parameterization, small numbers of dyads, random eff
 
 ::: {.project-section-heading .applied-heading}
 <div class="section-kicker">APPLIED RESEARCH PROGRAMS</div>
-## Quantitative methods in substantive research
+## Applications in education and social research
 :::
 
 ::: {.project-grid .applied-project-grid}
 ::: {.project-card}
-<div class="project-tag">EDUCATION · ASSESSMENT · COMPUTATIONAL METHODS</div>
+<div class="project-tag">EDUCATION · ASSESSMENT</div>
 ## Educational measurement, learning, and evaluation
 
 Applications of measurement, causal inference, and explainable machine learning to mathematics achievement, large-scale assessment, educational evaluation, and computational learning experiences.
@@ -95,7 +91,7 @@ Applications of measurement, causal inference, and explainable machine learning 
 :::
 
 ::: {.project-card}
-<div class="project-tag">SOCIAL RESEARCH · MEASUREMENT · PROGRAM EVALUATION</div>
+<div class="project-tag">SOCIAL RESEARCH · EVALUATION</div>
 ## Human trafficking measurement and evaluation
 
 Quantitative work on child trafficking prevalence, correlates, latent constructs, complex surveys, cross-context measurement, and intervention or program evaluation.
@@ -106,7 +102,7 @@ Quantitative work on child trafficking prevalence, correlates, latent constructs
 :::
 
 ::: {.project-card}
-<div class="project-tag">COMPLEX SURVEYS · CROSS-CONTEXT MEASUREMENT</div>
+<div class="project-tag">COMPLEX SURVEYS · MEASUREMENT</div>
 ## Sampling, comparability, and measurement across settings
 
 Applied studies using respondent-driven sampling, link-tracing designs, measurement validation, and cross-context comparisons to evaluate what quantitative conclusions are supportable across populations and settings.
@@ -115,10 +111,4 @@ Applied studies using respondent-driven sampling, link-tracing designs, measurem
 
 [View publications →](../publications.qmd){.project-link}
 :::
-:::
-
-::: {.project-note}
-### Reproducible materials
-
-Project pages distinguish between materials that are already public and materials that are still being prepared for release. I do not link to non-public accepted manuscripts or code repositories until they are ready to share.
 :::
