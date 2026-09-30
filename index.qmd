@@ -23,7 +23,6 @@ I develop quantitative methods and apply them to substantive questions in **educ
 
 I am an Assistant Research Scientist at the Center on Human Trafficking Research & Outreach (CenHTRO) in the School of Social Work at the University of Georgia, and a Faculty Affiliate of the Owens Institute for Behavioral Research. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
 
-<div class="hero-contact"><a href="mailto:liuuil@uga.edu">liuuil@uga.edu</a></div>
 
 <div class="hero-links">
 <a href="research.html">Research</a>
@@ -39,9 +38,9 @@ I am an Assistant Research Scientist at the Center on Human Trafficking Research
 
 <div class="photo-caption">
 <strong>University of Georgia</strong><br>
-<a href="https://ssw.uga.edu/team_member/liu-liu/" target="_blank">School of Social Work</a><br>
-Assistant Research Scientist, <a href="https://cenhtro.uga.edu/" target="_blank">CenHTRO</a><br>
-Faculty Affiliate, <a href="https://oibr.uga.edu/" target="_blank">Owens Institute for Behavioral Research</a>
+Assistant Research Scientist · <a href="https://ssw.uga.edu/team_member/liu-liu/" target="_blank">School of Social Work</a> / <a href="https://cenhtro.uga.edu/" target="_blank">CenHTRO</a><br>
+Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank">Owens Institute for Behavioral Research</a><br>
+<a class="photo-email" href="mailto:liuuil@uga.edu">liuuil@uga.edu</a>
 </div>
 :::
 :::
