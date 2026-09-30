@@ -2,7 +2,7 @@
 title: "Longitudinal Dyadic Modeling with Limited Numbers of Dyads"
 subtitle: "Aligning estimands, information sources, and multilevel structure"
 pagetitle: "Longitudinal Dyadic Modeling with Limited Numbers of Dyads | Liu Liu, Ph.D."
-description: "Longitudinal dyadic modeling with limited numbers of dyads, focusing on estimands, information sources, random effects, role parameterization, and design."
+description-meta: "Longitudinal dyadic modeling with limited numbers of dyads, focusing on estimands, information sources, random effects, role parameterization, and design."
 ---
 
 <div class="project-status-row">

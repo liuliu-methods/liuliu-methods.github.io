@@ -2,7 +2,7 @@
 title: "Selecting, Translating, and Reporting Variance Priors"
 subtitle: "A practical workflow for scalar variance components in Bayesian multilevel models"
 pagetitle: "Selecting, Translating, and Reporting Variance Priors | Liu Liu, Ph.D."
-description: "Practical guidance for selecting, translating, checking, and reporting variance priors across Bayesian multilevel model parameterizations and software."
+description-meta: "Practical guidance for selecting, translating, checking, and reporting variance priors across Bayesian multilevel model parameterizations and software."
 ---
 
 <div class="project-status-row">

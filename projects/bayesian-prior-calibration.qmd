@@ -2,7 +2,7 @@
 title: "Calibrating Informative Priors Across Models and Software"
 subtitle: "Bayesian multilevel IRT, benchmark information, and parameterization-aware prior construction"
 pagetitle: "Calibrating Informative Priors Across Models and Software | Liu Liu, Ph.D."
-description: "Research on calibrating informative variance priors across Bayesian multilevel IRT models, benchmark data, software, and parameterizations."
+description-meta: "Research on calibrating informative variance priors across Bayesian multilevel IRT models, benchmark data, software, and parameterizations."
 ---
 
 <div class="project-status-row">

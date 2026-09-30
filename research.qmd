@@ -2,7 +2,7 @@
 title: "Research"
 subtitle: "Methodological research grounded in applied problems in education and social science"
 pagetitle: "Research | Liu Liu, Ph.D. | Quantitative Methodologist"
-description: "Liu Liu’s research in Bayesian multilevel and longitudinal modeling, psychometrics, measurement, SEM, causal evaluation, and applied quantitative methods."
+description-meta: "Liu Liu’s research in Bayesian multilevel and longitudinal modeling, psychometrics, measurement, SEM, causal evaluation, and applied quantitative methods."
 ---
 
 ::: {.page-lede}
