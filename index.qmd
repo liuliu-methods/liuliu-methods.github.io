@@ -21,7 +21,7 @@ format:
 
 I develop quantitative methods and apply them to substantive questions in **education and social research**. My methodological work focuses on **Bayesian multilevel and longitudinal modeling, psychometrics and measurement, and statistical decision making under limited information**. Many of these questions emerge directly from applied studies, where design, measurement, or data limitations reveal gaps in existing quantitative guidance.
 
-I am an Assistant Research Scientist at the Center on Human Trafficking Research & Outreach (CenHTRO) in the School of Social Work at the University of Georgia, and a Faculty Affiliate of the Owens Institute for Behavioral Research. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
+I am an Assistant Research Scientist at the Center on Human Trafficking Research & Outreach (CenHTRO) in the School of Social Work at the University of Georgia. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
 
 
 <div class="hero-links">
