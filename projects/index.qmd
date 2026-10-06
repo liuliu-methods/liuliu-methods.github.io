@@ -93,7 +93,7 @@ A connected program on role parameterization, small numbers of dyads, random eff
 
 Applications of measurement, causal inference, and explainable machine learning to mathematics achievement, large-scale assessment, educational evaluation, and computational learning experiences.
 
-<div class="project-meta">PISA · educational evaluation · NSF ECR proposal activity</div>
+<div class="project-meta">PISA · educational evaluation · NSF ECR:Core Level II submitted · $250,000 UGA subaward request</div>
 
 [Explore applied research →](../research.qmd#applied-research){.project-link}
 :::
