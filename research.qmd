@@ -88,11 +88,11 @@ This applied-to-methods pathway is central to how I define my research program.
 ## Current & Emerging Work
 
 ::: {.current-work-callout}
-<div class="interest-label">NSF ECR:CORE LEVEL II · SUBAWARD PI · IN PREPARATION</div>
+<div class="interest-label">NSF ECR:CORE LEVEL II · SUBAWARD PI · SUBMITTED</div>
 
 **Computational Experiences in Introductory Mathematics: A Longitudinal Study of Mathematical Agency and STEM Progression**
 
-I lead the University of Georgia component and provide methodological leadership in measurement, psychometrics, and longitudinal modeling.
+I lead the University of Georgia component and provide methodological leadership in measurement, psychometrics, and longitudinal modeling. The submitted UGA subaward request is **$250,000**.
 :::
 
 ## Long-Term Agenda
