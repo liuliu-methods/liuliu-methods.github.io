@@ -13,7 +13,7 @@ My publication program has two connected strands: **methodological research** in
 
 ## Accepted
 
-::: {.accepted-grid}
+::: {.accepted-grid .accepted-grid-three}
 ::: {.accepted-card}
 <div class="pub-status">METHODS · BRM · ACCEPTED</div>
 ### A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models
@@ -38,13 +38,6 @@ My publication program has two connected strands: **methodological research** in
 <div class="pub-actions">[DOI](https://doi.org/10.1080/00273171.2026.2740827) · [Project →](projects/bayesian-variance-priors.qmd)</div>
 :::
 
-::: {.accepted-card}
-<div class="pub-status">APPLIED · PLOS ONE · ACCEPTED</div>
-### Household and child correlates of child trafficking indicators in Eastern Sierra Leone
-<div class="pub-authors"><strong>Liu, L., Okech, D., & Cody, A.</strong></div>
-<div class="pub-venue"><em>PLOS ONE</em></div>
-<div class="pub-actions">[DOI](https://doi.org/10.1371/journal.pone.0347898)</div>
-:::
 :::
 
 ## Peer-Reviewed Journal Articles
@@ -52,6 +45,12 @@ My publication program has two connected strands: **methodological research** in
 <div class="pub-year">2026</div>
 
 ::: {.journal-list}
+::: {.journal-row}
+<div class="journal-title">Household and child correlates of child trafficking indicators in Eastern Sierra Leone</div>
+<div class="journal-citation"><strong>Liu, L., Okech, D., & Cody, A.</strong> <em>PLOS ONE, 21</em>(10), e0347898.</div>
+<div class="journal-actions">[DOI](https://doi.org/10.1371/journal.pone.0347898)</div>
+:::
+
 ::: {.journal-row}
 <div class="journal-title">Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018</div>
 <div class="journal-citation"><strong>Liu, L., & Dai, R.</strong> <em>Large-scale Assessments in Education, 14</em>, Article 46.</div>
