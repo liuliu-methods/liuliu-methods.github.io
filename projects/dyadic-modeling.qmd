@@ -6,7 +6,7 @@ description-meta: "Longitudinal dyadic modeling with limited numbers of dyads, f
 ---
 
 <div class="project-status-row">
-<span class="status-pill">Accepted paper + active program</span>
+<span class="status-pill">Published paper + active program</span>
 <span class="status-text">Methods in Psychology</span>
 <span class="status-text">Liu, L.</span>
 </div>
@@ -16,16 +16,16 @@ Repeated observations and independent dyads contribute different kinds of inform
 :::
 
 <div class="resource-bar">
-<a class="resource-link" href="#accepted-paper">Accepted Paper</a>
+<a class="resource-link" href="#published-paper">Published Paper</a>
 <a class="resource-link" href="#design">Design</a>
 <a class="resource-link" href="#key-findings">Key Findings</a>
 <a class="resource-link" href="#related-work">Related Work</a>
 <a class="resource-link muted-link" href="#code">Code</a>
 </div>
 
-## Accepted Paper {#accepted-paper}
+## Published Paper {#published-paper}
 
-**Liu, L.** (accepted). *Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure*. **Methods in Psychology**.
+**Liu, L.** (2026). *Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure*. **Methods in Psychology, 15**, 100281. [DOI](https://doi.org/10.1016/j.metip.2026.100281)
 
 The paper develops an **estimand-information alignment** framework: each target dyadic estimand should be evaluated in relation to the level of the design that supplies its statistical information. The study distinguishes fixed-effect precision, repeated-sampling calibration, model completion, optimizer convergence, and support for random-effect structure rather than treating them as a single notion of model performance.
 
@@ -33,7 +33,7 @@ The paper develops an **estimand-information alignment** framework: each target 
 
 ## Research Design {#design}
 
-The accepted study combines three complementary components.
+The published study combines three complementary components.
 
 ::: {.design-grid}
 ::: {.design-box}
@@ -88,7 +88,7 @@ A complementary methodological evaluation of how dyad count and repeated occasio
 
 ## Code {#code}
 
-The accepted article includes a public simulated pedagogical benchmark and supplementary analysis materials. I will link the final public data/code location here once the journal version and repository are released.
+The published article includes a public simulated pedagogical benchmark and supplementary analysis materials. [View the article](https://doi.org/10.1016/j.metip.2026.100281) · [OSF materials](https://osf.io/5ngx2/)
 
 ## Contribution to my research program
 

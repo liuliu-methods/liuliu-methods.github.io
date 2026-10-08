@@ -69,7 +69,7 @@ Extending prior calibration to Bayesian multilevel IRT and cross-software settin
 
 ::: {.project-card .project-card-wide}
 <div class="project-index">05</div>
-<div class="project-tag">LONGITUDINAL METHODS · ACCEPTED + ACTIVE PROGRAM</div>
+<div class="project-tag">LONGITUDINAL METHODS · PUBLISHED + ACTIVE PROGRAM</div>
 ## Dyadic multilevel modeling with limited information
 
 A connected program on role parameterization, small numbers of dyads, random effects, estimands, and post-estimation for longitudinal distinguishable dyads.
