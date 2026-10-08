@@ -6,9 +6,8 @@ description-meta: "Simulation and ROC-based evaluation of sparse ordinal CFA, ca
 ---
 
 <div class="project-status-row">
-<span class="status-pill published">Published online · 2026</span>
-<span class="status-text">Structural Equation Modeling: A Multidisciplinary Journal</span>
-<span class="status-text">Liu, L., Liu, J., Yi, H., & Okech, D.</span>
+<span class="status-pill published">Published SEM paper + accepted BRM extension</span>
+<span class="status-text">Sparse ordinal CFA research program</span>
 </div>
 
 ::: {.project-lede}
@@ -19,6 +18,7 @@ Sparse ordinal categories can affect not only estimation, but also whether globa
 <a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Paper ↗</a>
 <a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Supplement ↗</a>
 <a class="resource-link" href="https://osf.io/b7atw/" target="_blank">Code ↗</a>
+<a class="resource-link" href="#accepted-extension">Accepted Extension</a>
 <a class="resource-link" href="#simulation-design">Simulation Design</a>
 <a class="resource-link" href="#key-findings">Key Findings</a>
 </div>
@@ -62,9 +62,11 @@ A no-collapse baseline makes it possible to separate the effect of **sparse resp
 - **Mild and moderate collapsing produced relatively small average changes from the original response scale.** The largest losses were concentrated in more aggressive collapsing and difficult information conditions.
 - **A cutoff is meaningful only when the index has adequate discrimination.** The paper therefore treats ROC-derived cutoffs as condition-specific operating points rather than new universal rules.
 
-## Ongoing extension
+## Accepted Extension {#accepted-extension}
 
-Companion work develops **scenario-specific cutoffs and composite decision rules** for sparse ordinal CFA, extending the published discrimination results into practical model-fit guidance for applied researchers.
+**Liu, L., Liu, J., & Okech, D.** (accepted). *Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics*. **Behavior Research Methods**.
+
+This companion paper translates the discrimination results from the published SEM study into **scenario-specific fit-index thresholds and operating characteristics** for sparse ordinal CFA. The manuscript was accepted on October 7, 2026 and has entered Springer production.
 
 ## Contribution to my research program
 
