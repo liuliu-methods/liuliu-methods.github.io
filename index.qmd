@@ -116,9 +116,9 @@ Large-scale educational assessment, causal and computational evaluation, complex
 :::
 
 ::: {.compact-pub}
-<div class="pub-status">METHODS · METHODS IN PSYCHOLOGY</div>
-### [Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure](projects/dyadic-modeling.qmd)
-<div class="compact-meta"><strong>Liu, L.</strong> · [Project](projects/dyadic-modeling.qmd)</div>
+<div class="pub-status">METHODS · METHODS IN PSYCHOLOGY · 2026</div>
+### [Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure](https://doi.org/10.1016/j.metip.2026.100281)
+<div class="compact-meta"><strong>Liu, L.</strong> · [Paper](https://doi.org/10.1016/j.metip.2026.100281) · [Project](projects/dyadic-modeling.qmd)</div>
 :::
 
 ::: {.compact-pub}
