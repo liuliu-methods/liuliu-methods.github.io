@@ -13,7 +13,7 @@ My publication program has two connected strands: **methodological research** in
 
 ## Accepted
 
-::: {.accepted-grid}
+::: {.accepted-grid .accepted-grid-three}
 ::: {.accepted-card}
 <div class="pub-status">METHODS · BRM · ACCEPTED</div>
 ### A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models
@@ -28,6 +28,14 @@ My publication program has two connected strands: **methodological research** in
 <div class="pub-authors"><strong>Liu, L.</strong></div>
 <div class="pub-venue"><em>Multivariate Behavioral Research</em></div>
 <div class="pub-actions">[DOI](https://doi.org/10.1080/00273171.2026.2740827) · [Project →](projects/bayesian-variance-priors.qmd)</div>
+:::
+
+::: {.accepted-card}
+<div class="pub-status">METHODS · BRM · ACCEPTED</div>
+### Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics
+<div class="pub-authors"><strong>Liu, L., Liu, J., & Okech, D.</strong></div>
+<div class="pub-venue"><em>Behavior Research Methods</em></div>
+<div class="pub-actions">[Project →](projects/sparse-ordinal-cfa.qmd)</div>
 :::
 
 :::
@@ -151,12 +159,6 @@ My publication program has two connected strands: **methodological research** in
 <div class="pipeline-status">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
 <div class="pipeline-title">How dyad sample size and repeated measurements shape the performance of multilevel actor-partner growth models for longitudinal distinguishable dyads</div>
 <div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/dyadic-modeling.qmd)</div>
-:::
-
-::: {.pipeline-row}
-<div class="pipeline-status">UNDER REVISION · BEHAVIOR RESEARCH METHODS</div>
-<div class="pipeline-title">Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and composite rules</div>
-<div class="pipeline-meta"><strong>Liu, L., Liu, J., & Okech, D.</strong></div>
 :::
 
 ::: {.pipeline-row}
