@@ -110,9 +110,9 @@ Large-scale educational assessment, causal and computational evaluation, complex
 :::
 
 ::: {.compact-pub}
-<div class="pub-status">METHODS · SPARSE ORDINAL CFA · 2026</div>
+<div class="pub-status">METHODS · SEM · 2026</div>
 ### [Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing](https://doi.org/10.1080/10705511.2026.2691170)
-<div class="compact-meta"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. · [Paper](https://doi.org/10.1080/10705511.2026.2691170) · [Project](projects/sparse-ordinal-cfa.qmd) · <strong>BRM companion accepted</strong></div>
+<div class="compact-meta"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. · [Paper](https://doi.org/10.1080/10705511.2026.2691170) · [Project](projects/sparse-ordinal-cfa.qmd)</div>
 :::
 
 ::: {.compact-pub}
