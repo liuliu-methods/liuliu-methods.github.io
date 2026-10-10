@@ -35,7 +35,7 @@ Editorial service focused on scholarship in the teaching and learning of educati
 ::: {.service-card}
 <div class="service-label">JOURNAL PEER REVIEW</div>
 ### 40+ journal manuscripts
-Ad hoc reviewer for journals including *Methodology*, *Structural Equation Modeling: A Multidisciplinary Journal*, *Journal of Psychoeducational Assessment*, *Early Childhood Education Journal*, and *Education Sciences*.
+Ad hoc reviewer for journals including *Methodology*, *Structural Equation Modeling: A Multidisciplinary Journal*, *Acta Psychologica*, *Journal of Psychoeducational Assessment*, *Early Childhood Education Journal*, and *Education Sciences*.
 :::
 
 ::: {.service-card}
