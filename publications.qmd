@@ -231,13 +231,8 @@ My publication program has two connected strands: **methodological research** in
 
 ::: {.report-list}
 ::: {.report-row}
-<div class="report-title">Aviation-connected human trafficking landscape and stakeholder ecosystem in Atlanta, Georgia</div>
-<div class="report-citation"><strong>Okech, D., Kinnish, K., Liu, L., Dockweiler, H., Cody, A., Hwang, E. M., & Caplan, S.</strong> (2026). University of Georgia Center on Human Trafficking Research and Outreach.</div>
-:::
-
-::: {.report-row}
-<div class="report-title">Preliminary stakeholder perspectives on human trafficking and aviation: Implications for awareness, identification, response, and collaboration</div>
-<div class="report-citation"><strong>Okech, D., Kinnish, K., Cody, A., Dockweiler, H., & Liu, L.</strong> (2026, July). Technical report. University of Georgia Center on Human Trafficking Research and Outreach.</div>
+<div class="report-title">Air travel linkages to Atlanta’s human trafficking landscape: The intersections of human trafficking and the aviation industry in the state of Georgia—A scoping study</div>
+<div class="report-citation"><strong>Okech, D., Kinnish, K., Dockweiler, H., Cody, A., Liu, L., Hwang, E. M., Tinsley, K., & Caplan, S.</strong> (2026). University of Georgia Center on Human Trafficking Research & Outreach.</div>
 :::
 
 ::: {.report-row}
