@@ -185,6 +185,13 @@ My publication program has two connected strands: **methodological research** in
 :::
 
 ::: {.conference-row}
+<div class="conference-meta">2026 · TIP GLOBAL PRACTICE SUMMIT · MEXICO CITY</div>
+<div class="conference-title">Bayesian multilevel modelling for policy-usable prevalence estimates: Pooling information across settings and data sources</div>
+<div class="conference-authors">Okech, D., <strong>Liu, L.</strong>, & Cody, A.</div>
+<div class="conference-venue">TIP Global Practice Summit · September 23–25, 2026</div>
+:::
+
+::: {.conference-row}
 <div class="conference-meta">2026 · MODERN MODELING METHODS · NEW YORK</div>
 <div class="conference-title">Scenario-specific fit-index cutoffs for sparse ordinal CFA: Monte Carlo calibration across estimators and category collapsing</div>
 <div class="conference-authors"><strong>Liu, L.</strong>, Liu, J., & Okech, D.</div>
