@@ -75,18 +75,14 @@ Developing and evaluating informative prior calibration across Bayesian multilev
 
 ::: {.project-card .project-card-wide}
 <div class="project-index">05</div>
-<div class="wide-project-body">
-<div class="wide-project-summary">
-<div class="project-tag">LONGITUDINAL METHODS · PUBLISHED + ACTIVE PROGRAM</div>
-<h2>Dyadic multilevel modeling with limited information</h2>
-<p>A connected program on role parameterization, small numbers of dyads, random effects, estimands, and post-estimation for longitudinal distinguishable dyads.</p>
-</div>
-<div class="wide-project-details">
-<div class="wide-project-details-label">RESEARCH OUTPUTS</div>
-<div class="project-meta">Methods in Psychology · Behavior Research Methods · Multivariate Behavioral Research</div>
-<a class="project-link" href="dyadic-modeling.qmd">View project →</a>
-</div>
-</div>
+<div class="project-tag">LONGITUDINAL METHODS · PUBLISHED + ACTIVE RESEARCH</div>
+## Dyadic multilevel modeling with limited information
+
+A connected research program addressing role parameterization, small numbers of dyads, random effects, estimands, and post-estimation in longitudinal dyadic models.
+
+<div class="project-meta">Published in <em>Methods in Psychology</em> · Additional methodological work in progress</div>
+
+[View project →](dyadic-modeling.qmd){.project-link}
 :::
 :::
 
