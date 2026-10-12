@@ -2324,3 +2324,151 @@ body:has(.accepted-grid) h2 {
   .photo-profile-links { gap: .45rem; }
   .photo-profile-links a { padding: .43rem .52rem; font-size: .72rem; }
 }
+
+
+/* v6.15: Projects page. Balanced, centered research portfolio */
+body:has(.projects-lede) #quarto-content main.content {
+  width: min(100% - 64px, 1160px);
+  max-width: 1160px !important;
+  margin-inline: auto;
+  padding: 2.25rem 0 5rem;
+}
+body:has(.projects-lede) .quarto-title-block,
+body:has(.projects-lede) #title-block-header {
+  width: min(100% - 64px, 1160px);
+  max-width: 1160px;
+  margin-inline: auto;
+}
+body:has(.projects-lede) .projects-lede,
+body:has(.projects-lede) .project-grid {
+  max-width: none;
+  padding-left: 0;
+  padding-right: 0;
+}
+body:has(.projects-lede) .projects-lede {
+  padding-top: .3rem;
+  padding-bottom: 1.2rem;
+}
+body:has(.projects-lede) .projects-lede p {
+  max-width: 850px;
+  font-size: 1.04rem;
+  line-height: 1.75;
+}
+body:has(.projects-lede) .project-section-heading {
+  padding-top: 2.15rem;
+  padding-bottom: 1.15rem;
+}
+body:has(.projects-lede) .project-section-heading h2 {
+  max-width: 850px;
+  font-size: clamp(1.75rem, 3vw, 2.3rem);
+  line-height: 1.2;
+}
+body:has(.projects-lede) .project-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  padding-bottom: 1.4rem;
+}
+body:has(.projects-lede) .project-card {
+  min-width: 0;
+  padding: 1.8rem 2.1rem 1.85rem 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+body:has(.projects-lede) .project-grid:not(.applied-project-grid) .project-card:nth-child(even) {
+  padding-left: 2.1rem;
+}
+body:has(.projects-lede) .project-card h2 {
+  font-size: clamp(1.35rem, 2vw, 1.65rem);
+  line-height: 1.24;
+  max-width: 450px;
+}
+body:has(.projects-lede) .project-card p {
+  font-size: .94rem;
+  line-height: 1.68;
+  max-width: 480px;
+}
+body:has(.projects-lede) .project-card .project-meta {
+  margin-top: auto;
+  padding-top: 1.1rem;
+  line-height: 1.55;
+}
+body:has(.projects-lede) .project-card .project-link {
+  display: inline-block;
+  margin-top: .15rem;
+}
+body:has(.projects-lede) .project-card-wide {
+  grid-column: 1 / -1;
+  padding-right: 0;
+}
+body:has(.projects-lede) .project-card-wide h2,
+body:has(.projects-lede) .project-card-wide p { max-width: 780px; }
+body:has(.projects-lede) .applied-project-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+body:has(.projects-lede) .applied-project-grid .project-card {
+  padding-right: 1.55rem;
+}
+body:has(.projects-lede) .applied-project-grid .project-card:nth-child(n+2) {
+  padding-left: 1.55rem;
+  border-left: 1px solid var(--line);
+}
+body:has(.projects-lede) .applied-project-grid .project-card h2 {
+  font-size: clamp(1.28rem, 1.85vw, 1.52rem);
+}
+.projects-overview {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin: .8rem 0 1.15rem;
+  background: #fafbfb;
+}
+.overview-item {
+  padding: .95rem 1.2rem .95rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: .22rem;
+}
+.overview-item + .overview-item {
+  border-left: 1px solid var(--line);
+  padding-left: 1.2rem;
+}
+.overview-count {
+  color: var(--warm);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .07em;
+}
+.overview-label {
+  color: var(--navy);
+  font-size: .87rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+@media (max-width: 850px) {
+  body:has(.projects-lede) #quarto-content main.content,
+  body:has(.projects-lede) .quarto-title-block,
+  body:has(.projects-lede) #title-block-header {
+    width: min(100% - 40px, 720px);
+  }
+  body:has(.projects-lede) .project-grid,
+  body:has(.projects-lede) .applied-project-grid {
+    grid-template-columns: 1fr;
+  }
+  body:has(.projects-lede) .project-card,
+  body:has(.projects-lede) .project-grid:not(.applied-project-grid) .project-card:nth-child(even),
+  body:has(.projects-lede) .applied-project-grid .project-card:nth-child(n+2) {
+    padding: 1.5rem 0;
+    border-left: 0;
+    border-bottom: 1px solid var(--line);
+  }
+  body:has(.projects-lede) .project-card h2,
+  body:has(.projects-lede) .project-card p { max-width: none; }
+  .projects-overview { grid-template-columns: 1fr; }
+  .overview-item, .overview-item + .overview-item {
+    border-left: 0;
+    padding: .75rem .85rem;
+  }
+  .overview-item + .overview-item { border-top: 1px solid var(--line); }
+}
