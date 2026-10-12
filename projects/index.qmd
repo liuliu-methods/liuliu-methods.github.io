@@ -14,9 +14,9 @@ My research is **methods-first and applications-grounded**. Methodological progr
 :::
 
 <div class="projects-overview" aria-label="Research program overview">
-  <div class="overview-item"><span class="overview-count">01–02, 04</span><span class="overview-label">Bayesian methods &amp; prior calibration</span></div>
-  <div class="overview-item"><span class="overview-count">03</span><span class="overview-label">Psychometrics &amp; measurement</span></div>
-  <div class="overview-item"><span class="overview-count">05</span><span class="overview-label">Longitudinal &amp; dyadic methods</span></div>
+  <div class="overview-item"><span class="overview-label">Bayesian methods &amp; prior calibration</span><span class="overview-description">Variance priors, specification, and calibration</span></div>
+  <div class="overview-item"><span class="overview-label">Psychometrics &amp; measurement</span><span class="overview-description">Sparse ordinal data and model-fit decisions</span></div>
+  <div class="overview-item"><span class="overview-label">Longitudinal &amp; dyadic methods</span><span class="overview-description">Multilevel modeling with limited information</span></div>
 </div>
 
 ::: {.project-section-heading}
@@ -75,14 +75,18 @@ Developing and evaluating informative prior calibration across Bayesian multilev
 
 ::: {.project-card .project-card-wide}
 <div class="project-index">05</div>
+<div class="wide-project-body">
+<div class="wide-project-summary">
 <div class="project-tag">LONGITUDINAL METHODS · PUBLISHED + ACTIVE PROGRAM</div>
-## Dyadic multilevel modeling with limited information
-
-A connected program on role parameterization, small numbers of dyads, random effects, estimands, and post-estimation for longitudinal distinguishable dyads.
-
+<h2>Dyadic multilevel modeling with limited information</h2>
+<p>A connected program on role parameterization, small numbers of dyads, random effects, estimands, and post-estimation for longitudinal distinguishable dyads.</p>
+</div>
+<div class="wide-project-details">
+<div class="wide-project-details-label">RESEARCH OUTPUTS</div>
 <div class="project-meta">Methods in Psychology · Behavior Research Methods · Multivariate Behavioral Research</div>
-
-[View project →](dyadic-modeling.qmd){.project-link}
+<a class="project-link" href="dyadic-modeling.qmd">View project →</a>
+</div>
+</div>
 :::
 :::
 
@@ -99,7 +103,7 @@ A connected program on role parameterization, small numbers of dyads, random eff
 
 Applications of measurement, causal inference, and explainable machine learning to mathematics achievement, large-scale assessment, educational evaluation, and computational learning experiences.
 
-<div class="project-meta">PISA · educational evaluation · NSF ECR:Core Level II submitted · $250,000 UGA subaward request</div>
+<div class="project-meta">PISA · Educational evaluation · NSF ECR:Core proposal submitted</div>
 
 [Explore applied research →](../research.qmd#applied-research){.project-link}
 :::
