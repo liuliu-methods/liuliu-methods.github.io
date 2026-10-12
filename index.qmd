@@ -25,13 +25,6 @@ I develop quantitative methods and apply them to substantive questions in **educ
 I am an Assistant Research Scientist at the Center on Human Trafficking Research & Outreach (CenHTRO) in the School of Social Work at the University of Georgia. I earned my Ph.D. in Measurement and Statistics from the University of Washington.
 
 
-<div class="hero-links">
-<a href="research.html">Research</a>
-<a href="publications.html">Publications</a>
-<a href="teaching.html">Teaching</a>
-<a href="service.html">Service</a>
-<a class="orcid-mini" href="https://orcid.org/0000-0001-6900-9829" target="_blank" aria-label="ORCID profile" title="ORCID"><span class="orcid-mark">iD</span></a>
-</div>
 :::
 
 ::: {.hero-photo}
@@ -39,9 +32,14 @@ I am an Assistant Research Scientist at the Center on Human Trafficking Research
 
 <div class="photo-caption">
 <strong>University of Georgia</strong><br>
-Assistant Research Scientist · <a href="https://ssw.uga.edu/team_member/liu-liu/" target="_blank">School of Social Work</a> / <a href="https://cenhtro.uga.edu/" target="_blank">CenHTRO</a><br>
-Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank">Owens Institute for Behavioral Research</a><br>
+Assistant Research Scientist<br>
+<a href="https://ssw.uga.edu/team_member/liu-liu/" target="_blank" rel="noopener noreferrer">School of Social Work</a> / <a href="https://cenhtro.uga.edu/" target="_blank" rel="noopener noreferrer">CenHTRO</a><br>
+Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank" rel="noopener noreferrer">Owens Institute for Behavioral Research</a><br>
 <a class="photo-email" href="mailto:liuuil@uga.edu">liuuil@uga.edu</a>
+</div>
+<div class="photo-profile-links" aria-label="Academic profiles">
+<a href="https://scholar.google.com/citations?user=nzeJHtIAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar <span aria-hidden="true">↗</span></a>
+<a href="https://orcid.org/0000-0001-6900-9829" target="_blank" rel="noopener noreferrer"><span class="orcid-profile-mark" aria-hidden="true">iD</span> ORCID <span aria-hidden="true">↗</span></a>
 </div>
 :::
 :::
