@@ -13,6 +13,12 @@ description-meta: "Research projects by Liu Liu on Bayesian variance priors, spa
 My research is **methods-first and applications-grounded**. Methodological programs form the core of my work, while applied studies in education and social research generate substantive questions, difficult data structures, and recurring problems that motivate new quantitative research.
 :::
 
+<div class="projects-overview" aria-label="Research program overview">
+  <div class="overview-item"><span class="overview-count">01–02, 04</span><span class="overview-label">Bayesian methods &amp; prior calibration</span></div>
+  <div class="overview-item"><span class="overview-count">03</span><span class="overview-label">Psychometrics &amp; measurement</span></div>
+  <div class="overview-item"><span class="overview-count">05</span><span class="overview-label">Longitudinal &amp; dyadic methods</span></div>
+</div>
+
 ::: {.project-section-heading}
 <div class="section-kicker">METHODOLOGICAL RESEARCH PROGRAMS</div>
 ## Developing and evaluating quantitative methods
@@ -57,12 +63,12 @@ How sparse response categories and category collapsing change fit-index behavior
 
 ::: {.project-card}
 <div class="project-index">04</div>
-<div class="project-tag">BAYESIAN CALIBRATION · ACTIVE PROGRAM</div>
+<div class="project-tag">BAYESIAN CALIBRATION · ACTIVE RESEARCH</div>
 ## Calibrating informative priors across models and software
 
-Extending prior calibration to Bayesian multilevel IRT and cross-software settings, with an emphasis on reproducibility, parameterization, and benchmark-based prior construction.
+Developing and evaluating informative prior calibration across Bayesian multilevel and item-response models, including work on borrowing strength, parameterization, and sensitivity to limited information.
 
-<div class="project-meta">Applied Measurement in Education · Methodology</div>
+<div class="project-meta">One manuscript under review · Additional studies in progress</div>
 
 [View project →](bayesian-prior-calibration.qmd){.project-link}
 :::
