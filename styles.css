@@ -2273,3 +2273,54 @@ body:has(.accepted-grid) h2 {
     grid-column: auto;
   }
 }
+
+
+/* v6.14: quiet academic profile links beneath homepage portrait */
+.photo-profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .65rem;
+  max-width: 330px;
+  margin-top: .95rem;
+  padding-top: .85rem;
+  border-top: 1px solid var(--line);
+}
+.photo-profile-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .32rem;
+  padding: .48rem .66rem;
+  border: 1px solid var(--line-dark);
+  border-radius: 7px;
+  color: var(--navy);
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .76rem;
+  font-weight: 600;
+  line-height: 1.3;
+  white-space: nowrap;
+  transition: border-color .15s ease, color .15s ease;
+}
+.photo-profile-links a:hover,
+.photo-profile-links a:focus-visible {
+  border-color: var(--warm);
+  color: var(--warm);
+}
+.orcid-profile-mark {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 1.13rem;
+  height: 1.13rem;
+  border-radius: 50%;
+  background: #a6ce39;
+  color: white;
+  font-size: .62rem;
+  font-weight: 700;
+}
+@media (max-width: 430px) {
+  .photo-profile-links { gap: .45rem; }
+  .photo-profile-links a { padding: .43rem .52rem; font-size: .72rem; }
+}
