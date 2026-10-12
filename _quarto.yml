@@ -29,8 +29,6 @@ website:
         text: Teaching
       - href: service.qmd
         text: Service
-      - text: Google Scholar
-        href: "https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en"
   page-footer:
     left: "© 2026 Liu Liu · University of Georgia"
     center: "Quantitative Methodology · Measurement · Educational Statistics"
