@@ -2542,3 +2542,27 @@ body:has(.projects-lede) .wide-project-details .project-link {
     gap: .5rem;
   }
 }
+
+
+/* Editorial appointments: feature the Academic Editor role, then two aligned cards. */
+.service-appointments .service-card:first-child {
+  grid-column: 1 / -1;
+  padding-right: 0;
+}
+.service-appointments .service-card:nth-child(2) {
+  border-left: 0;
+  padding-left: 0;
+}
+.service-appointments .service-card:nth-child(3) {
+  border-left: 1px solid var(--line);
+  padding-left: 1.5rem;
+}
+@media (max-width: 850px) {
+  .service-appointments .service-card:first-child {
+    grid-column: auto;
+  }
+  .service-appointments .service-card:nth-child(3) {
+    border-left: 0;
+    padding-left: 0;
+  }
+}
