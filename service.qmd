@@ -13,6 +13,14 @@ I contribute to the quantitative methods and interdisciplinary research communit
 
 ::: {.service-grid .service-appointments}
 ::: {.service-card}
+<div class="service-label">ACADEMIC EDITOR</div>
+### PLOS ONE
+<div class="service-date">2026–Present</div>
+
+Academic editorial service overseeing peer review and manuscript evaluation.
+:::
+
+::: {.service-card}
 <div class="service-label">EDITORIAL REVIEW BOARD</div>
 ### Journal of Applied Educational Research and Evaluation
 <div class="service-date">2026–Present</div>
