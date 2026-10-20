@@ -6,7 +6,7 @@ description-meta: "Practical guidance for selecting, translating, checking, and 
 ---
 
 <div class="project-status-row">
-<span class="status-pill">Accepted</span>
+<span class="status-pill">Published</span>
 <span class="status-text">Behavior Research Methods</span>
 <span class="status-text">Liu, L.</span>
 </div>
@@ -29,9 +29,9 @@ This tutorial provides a practical workflow for specifying scalar variance-compo
 
 ## Paper {#paper}
 
-**Liu, L.** (accepted). *A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models*. **Behavior Research Methods**.
+**Liu, L.** (2026). A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models. *Behavior Research Methods, 58*, Article 328.
 
-A public manuscript link will be added when the shareable accepted or publisher version is available.
+[Read the published article →](https://doi.org/10.3758/s13428-026-03201-y)
 
 ## Supplement {#supplement}
 
