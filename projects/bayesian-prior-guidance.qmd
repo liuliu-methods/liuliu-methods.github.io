@@ -35,22 +35,27 @@ This tutorial provides a practical workflow for specifying scalar variance-compo
 
 ## Supplement {#supplement}
 
-The accepted manuscript includes supplementary material and analysis code. I will link the public OSF materials here once the final public release is available.
+Supplementary tables and figures accompany the published article. They can be accessed through the [published article](https://doi.org/10.3758/s13428-026-03201-y). Reproducibility materials are also available in the [public OSF repository](https://osf.io/uvpt7/).
 
 ## Code {#code}
 
-Companion materials demonstrate prior construction and checking across variance, precision, and standard-deviation formulations. The public repository will be linked after release.
+Reproducibility code and supplementary materials for the TIMSS 2019 tutorial example are publicly available on [OSF →](https://osf.io/uvpt7/).
 
 ## Practical Workflow {#workflow}
 
+The published tutorial organizes variance-prior construction into **five steps**:
+
 ::: {.workflow-list}
-<div><span>01</span><strong>Identify the target variance component and implementation scale.</strong><p>Clarify whether the software expects a variance, precision, standard deviation, or transformed parameter.</p></div>
-<div><span>02</span><strong>Choose benchmark values and prior informativeness.</strong><p>Use substantive knowledge, prior studies, historical data, or a clearly separated reference sample when appropriate.</p></div>
-<div><span>03</span><strong>Calibrate a prior family on an interpretable scale.</strong><p>Relate plausible parameter magnitudes to gamma, inverse-gamma, half-t, or half-Cauchy hyperparameters.</p></div>
-<div><span>04</span><strong>Translate the prior into the estimation environment.</strong><p>Check the software parameterization before carrying numerical hyperparameters across programs.</p></div>
-<div><span>05</span><strong>Inspect and stress-test the prior.</strong><p>Use density inspection, prior predictive checking, posterior comparison, convergence assessment, and sensitivity analysis.</p></div>
-<div><span>06</span><strong>Report the rationale and robustness checks.</strong><p>Document the parameter scale, prior family, hyperparameters, source of benchmark information, and sensitivity results.</p></div>
+<div><span>01</span><strong>Identify the target variance components and implementation scale.</strong><p>Determine which variance component needs a prior and whether the estimation software specifies it on the variance, precision, or standard-deviation scale.</p></div>
+<div><span>02</span><strong>Choose benchmark values and a level of prior informativeness.</strong><p>Anchor plausible magnitudes in prior evidence or a suitable reference sample, and make the intended prior concentration explicit.</p></div>
+<div><span>03</span><strong>Calibrate priors on the variance or precision scale.</strong><p>Use gamma and inverse-gamma relationships to connect benchmark information to interpretable variance- or precision-scale specifications.</p></div>
+<div><span>04</span><strong>Calibrate priors on the standard-deviation scale.</strong><p>Construct software-compatible specifications, including half-t and half-Cauchy alternatives, using an explicit calibration target such as a prior median.</p></div>
+<div><span>05</span><strong>Inspect the implied prior, assess sensitivity, and report transparently.</strong><p>Evaluate prior densities, prior predictive implications, posterior comparisons, convergence, and sensitivity to reasonable alternative choices.</p></div>
 :::
+
+## Worked Example: TIMSS 2019
+
+A two-level model of science achievement illustrates the workflow using a **non-overlapping reference sample** (7,408 students in 233 schools) and a smaller **worked-example sample** (400 students in 40 schools). The comparison examines priors for the between-school random-intercept and within-school residual standard deviations. Gamma, inverse-gamma, half-t, and half-Cauchy priors are calibrated to common benchmark medians on the standard-deviation scale and then evaluated using prior predictive checks, posterior comparisons, diagnostics, and sensitivity analysis.
 
 ## Practical Safeguards {#practical-safeguards}
 
@@ -70,6 +75,6 @@ Companion materials demonstrate prior construction and checking across variance,
 
 ## Contribution to my research program
 
-This tutorial is the translational component of my Bayesian methods program. It turns simulation-based findings on prior performance into an applied workflow researchers can use when moving across models, prior families, parameterizations, and software environments.
+This tutorial complements my simulation-based research on variance-prior performance by providing an applied workflow for calibrating, checking, and reporting priors across model parameterizations and software environments.
 
 [← All methodological projects](index.qmd){.back-link}
