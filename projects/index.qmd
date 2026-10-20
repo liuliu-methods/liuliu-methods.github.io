@@ -39,7 +39,7 @@ Informative prior specification for variance components when higher-level sample
 
 ::: {.project-card}
 <div class="project-index">02</div>
-<div class="project-tag">BAYESIAN PRACTICE · ACCEPTED</div>
+<div class="project-tag">BAYESIAN PRACTICE · PUBLISHED</div>
 ## Selecting, translating, and reporting variance priors
 
 A practical framework for choosing variance priors, translating them across parameterizations and software, conducting sensitivity analyses, and reporting prior decisions transparently.
