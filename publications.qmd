@@ -13,15 +13,7 @@ My publication program has two connected strands: **methodological research** in
 
 ## Accepted
 
-::: {.accepted-grid .accepted-grid-three}
-::: {.accepted-card}
-<div class="pub-status">METHODS · BRM · ACCEPTED</div>
-### A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models
-<div class="pub-authors"><strong>Liu, L.</strong></div>
-<div class="pub-venue"><em>Behavior Research Methods</em></div>
-<div class="pub-actions">[Project →](projects/bayesian-prior-guidance.qmd)</div>
-:::
-
+::: {.accepted-grid}
 ::: {.accepted-card}
 <div class="pub-status">METHODS · MBR · ACCEPTED</div>
 ### Mode-matched inverse gamma priors for variance components in Bayesian multilevel models
@@ -45,6 +37,12 @@ My publication program has two connected strands: **methodological research** in
 <div class="pub-year">2026</div>
 
 ::: {.journal-list}
+::: {.journal-row}
+<div class="journal-title">A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models</div>
+<div class="journal-citation"><strong>Liu, L.</strong> <em>Behavior Research Methods, 58</em>, Article 328.</div>
+<div class="journal-actions">[DOI](https://doi.org/10.3758/s13428-026-03201-y) · [Project →](projects/bayesian-prior-guidance.qmd)</div>
+:::
+
 ::: {.journal-row}
 <div class="journal-title">Household and child correlates of child trafficking indicators in Eastern Sierra Leone</div>
 <div class="journal-citation"><strong>Liu, L., Okech, D., & Cody, A.</strong> <em>PLOS ONE, 21</em>(10), e0347898.</div>
