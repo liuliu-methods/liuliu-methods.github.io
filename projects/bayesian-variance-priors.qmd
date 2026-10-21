@@ -6,7 +6,7 @@ description-meta: "Mode-matched inverse-gamma priors for variance components in 
 ---
 
 <div class="project-status-row">
-<span class="status-pill">Accepted · DOI assigned</span>
+<span class="status-pill published">Published online · 2026</span>
 <span class="status-text">Multivariate Behavioral Research</span>
 <span class="status-text">Liu, L.</span>
 </div>
@@ -31,15 +31,17 @@ The paper proposes a mode-matched inverse-gamma strategy for variance components
 
 ## Paper {#paper}
 
-**Liu, L.** (2026). *Mode-matched inverse gamma priors for variance components in Bayesian multilevel models*. **Multivariate Behavioral Research**. DOI assigned. [https://doi.org/10.1080/00273171.2026.2740827](https://doi.org/10.1080/00273171.2026.2740827)
+**Liu, L.** (2026). Mode-matched inverse-gamma priors for variance components in Bayesian multilevel models. *Multivariate Behavioral Research*. Advance online publication. [Read the published article →](https://doi.org/10.1080/00273171.2026.2740827)
+
+Published online **October 21, 2026**.
 
 ## Supplement {#supplement}
 
-The manuscript includes supplementary material and implementation resources. I will link the public repository here once the shareable version is released.
+The published article includes online supplementary material with mathematical derivations, Mplus model specifications, extended simulation results, and TIMSS sensitivity analyses. [View supplementary material through the journal →](https://doi.org/10.1080/00273171.2026.2740827)
 
 ## Code {#code}
 
-The reproducible workflow covers simulation generation, model fitting, performance summaries, and reference-informed calibration. A public repository will be linked here when finalized.
+Mplus prior syntax and model specifications are documented in **Supplement S2**, available through the published article. A separate public code repository is not currently linked here.
 
 ## Simulation Design {#simulation-design}
 
@@ -65,7 +67,7 @@ The reproducible workflow covers simulation generation, model fitting, performan
 :::
 :::
 
-Crossing these factors produced **162 two-level random-intercept conditions**, with **200 replications per condition**. The study compared maximum likelihood, a Bayesian baseline prior, IG(0.01, 0.01), and mode-matched inverse-gamma priors. It included both an idealized true-mode benchmark and a disjoint reference-sample calibration illustration.
+Crossing these factors produced **162 two-level random-intercept conditions**, with **200 replications per condition**. Seven estimation approaches compared maximum likelihood, Bayesian baseline priors, IG(0.01, 0.01), mode-matched inverse-gamma priors, and corresponding fixed-effect prior benchmark combinations. The study included both an idealized true-mode benchmark and a disjoint reference-sample calibration illustration.
 
 ::: {.mini-grid}
 <div><strong>32,400</strong><br><span>generated simulation datasets</span></div>

@@ -2566,3 +2566,12 @@ body:has(.projects-lede) .wide-project-details .project-link {
     padding-left: 0;
   }
 }
+
+
+/* Show a single remaining accepted paper without an empty second column. */
+.accepted-grid-single {
+  grid-template-columns: minmax(0, 1fr);
+}
+.accepted-grid-single .accepted-card {
+  max-width: 780px;
+}

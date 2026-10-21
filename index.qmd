@@ -102,7 +102,7 @@ Large-scale educational assessment, causal and computational evaluation, complex
 ## Methods and selected applications
 
 ::: {.compact-pub}
-<div class="pub-status">METHODS · MBR · ACCEPTED</div>
+<div class="pub-status">METHODS · MBR · 2026</div>
 ### [Mode-matched inverse gamma priors for variance components in Bayesian multilevel models](https://doi.org/10.1080/00273171.2026.2740827)
 <div class="compact-meta"><strong>Liu, L.</strong> · [Paper](https://doi.org/10.1080/00273171.2026.2740827) · [Project](projects/bayesian-variance-priors.qmd)</div>
 :::
