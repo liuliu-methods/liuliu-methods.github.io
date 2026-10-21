@@ -27,7 +27,7 @@ My research is **methods-first and applications-grounded**. Methodological progr
 ::: {.project-grid}
 ::: {.project-card}
 <div class="project-index">01</div>
-<div class="project-tag">BAYESIAN METHODS · ACCEPTED</div>
+<div class="project-tag">BAYESIAN METHODS · PUBLISHED</div>
 ## Variance priors for Bayesian multilevel models
 
 Informative prior specification for variance components when higher-level sample sizes are limited, including simulation-based evaluation and practical calibration guidance.
