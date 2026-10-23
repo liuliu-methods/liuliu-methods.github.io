@@ -221,12 +221,12 @@ My publication program has two connected strands: **methodological research** in
 ::: {.report-list}
 ::: {.report-row}
 <div class="report-title">Air travel linkages to Atlanta’s human trafficking landscape: The intersections of human trafficking and the aviation industry in the state of Georgia—A scoping study</div>
-<div class="report-citation"><strong>Okech, D., Kinnish, K., Dockweiler, H., Cody, A., Liu, L., Hwang, E. M., Tinsley, K., & Caplan, S.</strong> (2026). University of Georgia Center on Human Trafficking Research & Outreach.</div>
+<div class="report-citation">Okech, D., Kinnish, K., Dockweiler, H., Cody, A., <strong>Liu, L.</strong>, Hwang, E. M., Tinsley, K., & Caplan, S. (2026). University of Georgia Center on Human Trafficking Research & Outreach.</div>
 :::
 
 ::: {.report-row}
 <div class="report-title">Assessing changes in child trafficking and the worst forms of child labor in Sierra Leone from 2019–2024</div>
-<div class="report-citation"><strong>Okech, D., Cody, A. M., Clay-Warner, J., Balch, A., Yi, H., Callands, T., Bolton, C., Konteh, F., Jalloh, A., Dockweiler, H., Goulart, P., Schroeder, E., Liu, L., Eng, C., Waswa, A., & Fofanah, U.</strong> (2025). University of Georgia Center on Human Trafficking Research and Outreach.</div>
+<div class="report-citation">Okech, D., Cody, A. M., Clay-Warner, J., Balch, A., Yi, H., Callands, T., Bolton, C., Konteh, F., Jalloh, A., Dockweiler, H., Goulart, P., Schroeder, E., <strong>Liu, L.</strong>, Eng, C., Waswa, A., & Fofanah, U. (2025). University of Georgia Center on Human Trafficking Research and Outreach.</div>
 <div class="report-actions">[DOI](https://doi.org/10.71927/UGA.27593)</div>
 :::
 :::
