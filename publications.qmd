@@ -17,7 +17,7 @@ My publication program has two connected strands: **methodological research** in
 ::: {.accepted-card}
 <div class="pub-status">METHODS · BRM · ACCEPTED</div>
 ### Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics
-<div class="pub-authors"><strong>Liu, L., Liu, J., & Okech, D.</strong></div>
+<div class="pub-authors"><strong>Liu, L.</strong>, Liu, J., & Okech, D.</div>
 <div class="pub-venue"><em>Behavior Research Methods</em></div>
 <div class="pub-actions">[Project →](projects/sparse-ordinal-cfa.qmd)</div>
 :::
@@ -118,7 +118,7 @@ My publication program has two connected strands: **methodological research** in
 ::: {.journal-list}
 ::: {.journal-row}
 <div class="journal-title">Student-level variables and academic achievement in a Mandarin dual language immersion program</div>
-<div class="journal-citation"><strong>Lü, C., Pace, A. E., & Liu, L.</strong> In D. Zhang & R. T. Miller (Eds.), <em>Crossing boundaries in researching, understanding, and improving language education</em> (pp. 213–229). Springer.</div>
+<div class="journal-citation">Lü, C., Pace, A. E., & <strong>Liu, L.</strong> In D. Zhang & R. T. Miller (Eds.), <em>Crossing boundaries in researching, understanding, and improving language education</em> (pp. 213–229). Springer.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1007/978-3-031-24078-2_10)</div>
 :::
 :::
@@ -153,13 +153,13 @@ My publication program has two connected strands: **methodological research** in
 ::: {.pipeline-row}
 <div class="pipeline-status">UNDER REVIEW · BEHAVIOR RESEARCH METHODS</div>
 <div class="pipeline-title">When collapsing sparse categories alters model decisions: Evidence from confirmatory factor analysis across estimators</div>
-<div class="pipeline-meta"><strong>Liu, J., Liu, L., Jiang, W., Wang, X., & Kellam, H.</strong></div>
+<div class="pipeline-meta">Liu, J., <strong>Liu, L.</strong>, Jiang, W., Wang, X., & Kellam, H.</div>
 :::
 
 ::: {.pipeline-row}
 <div class="pipeline-status">UNDER REVISION · STUDIES IN EDUCATIONAL EVALUATION</div>
 <div class="pipeline-title">A DoWhy-assisted causal workflow for observational educational evaluation: An applied charter school enrollment case</div>
-<div class="pipeline-meta"><strong>Liu, L., & Collier, Z.</strong></div>
+<div class="pipeline-meta"><strong>Liu, L.</strong>, & Collier, Z.</div>
 :::
 :::
 
