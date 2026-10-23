@@ -2581,6 +2581,33 @@ body:has(.projects-lede) .wide-project-details .project-link {
 .journal-category-heading {
   color: var(--navy);
   font-size: 1.14rem;
-  font-weight: 650;
+  font-weight: 500;
+  letter-spacing: -.018em;
   margin: 1.9rem 0 .45rem;
+}
+
+/* Keep Accepted, journal articles, and pipeline on one understated typographic scale. */
+body:has(.accepted-grid) .journal-title,
+body:has(.accepted-grid) .pipeline-title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  letter-spacing: -.018em;
+  line-height: 1.42;
+}
+body:has(.accepted-grid) .journal-title {
+  font-size: 1.08rem;
+}
+body:has(.accepted-grid) .pipeline-title {
+  font-size: 1.06rem;
+  margin-bottom: .25rem;
+}
+body:has(.accepted-grid) .accepted-card .pub-authors,
+body:has(.accepted-grid) .journal-citation,
+body:has(.accepted-grid) .pipeline-meta {
+  font-weight: 400;
+}
+body:has(.accepted-grid) .accepted-card .pub-authors strong,
+body:has(.accepted-grid) .journal-citation strong,
+body:has(.accepted-grid) .pipeline-meta strong {
+  font-weight: 650;
 }
