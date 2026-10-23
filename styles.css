@@ -2575,3 +2575,12 @@ body:has(.projects-lede) .wide-project-details .project-link {
 .accepted-grid-single .accepted-card {
   max-width: 780px;
 }
+
+
+/* Research-area subheadings within peer-reviewed publications. */
+.journal-category-heading {
+  color: var(--navy);
+  font-size: 1.14rem;
+  font-weight: 650;
+  margin: 1.9rem 0 .45rem;
+}
