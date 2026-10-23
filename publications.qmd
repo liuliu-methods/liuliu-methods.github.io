@@ -43,7 +43,7 @@ My publication program has two connected strands: **methodological research** in
 
 ::: {.journal-row}
 <div class="journal-title">Household and child correlates of child trafficking indicators in Eastern Sierra Leone</div>
-<div class="journal-citation"><strong>Liu, L., Okech, D., & Cody, A.</strong> <em>PLOS ONE, 21</em>(10), e0347898.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Okech, D., & Cody, A. <em>PLOS ONE, 21</em>(10), e0347898.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1371/journal.pone.0347898)</div>
 :::
 
@@ -55,31 +55,31 @@ My publication program has two connected strands: **methodological research** in
 
 ::: {.journal-row}
 <div class="journal-title">Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018</div>
-<div class="journal-citation"><strong>Liu, L., & Dai, R.</strong> <em>Large-scale Assessments in Education, 14</em>, Article 46.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, & Dai, R. <em>Large-scale Assessments in Education, 14</em>, Article 46.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1186/s40536-026-00320-y)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing</div>
-<div class="journal-citation"><strong>Liu, L., Liu, J., Yi, H., & Okech, D.</strong> <em>Structural Equation Modeling: A Multidisciplinary Journal</em>, 1–12.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. <em>Structural Equation Modeling: A Multidisciplinary Journal</em>, 1–12.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1080/10705511.2026.2691170) · [Project →](projects/sparse-ordinal-cfa.qmd)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">Human-centered child trafficking prevalence: A latent class analysis of exploitation sectors</div>
-<div class="journal-citation"><strong>Liu, L., Okech, D., Cody, A., & Konteh, F.</strong> <em>International Journal on Child Maltreatment: Research, Policy and Practice</em>, 1–30.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Okech, D., Cody, A., & Konteh, F. <em>International Journal on Child Maltreatment: Research, Policy and Practice</em>, 1–30.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1007/s42448-026-00266-2)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">Sex trafficking and commercial sex: Outcomes in suicide ideation and economic strain among young women</div>
-<div class="journal-citation"><strong>Okech, D., Liu, L., Cody, A., Hwang, E., & Konteh, F.</strong> <em>Frontiers in Psychiatry, 17</em>, Article 1843240.</div>
+<div class="journal-citation">Okech, D., <strong>Liu, L.</strong>, Cody, A., Hwang, E., & Konteh, F. <em>Frontiers in Psychiatry, 17</em>, Article 1843240.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.3389/fpsyt.2026.1843240)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">New perspectives on respondent-driven sampling with application to sex-trafficked population in Senegal</div>
-<div class="journal-citation"><strong>Yi, H., Liu, X., Okech, D., Clay-Warner, J., Liu, L., & Deng, X.</strong> <em>Journal of Statistical Theory and Practice, 20</em>(3), Article 84.</div>
+<div class="journal-citation">Yi, H., Liu, X., Okech, D., Clay-Warner, J., <strong>Liu, L.</strong>, & Deng, X. <em>Journal of Statistical Theory and Practice, 20</em>(3), Article 84.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1007/s42519-026-00612-0)</div>
 :::
 :::
@@ -89,7 +89,7 @@ My publication program has two connected strands: **methodological research** in
 ::: {.journal-list}
 ::: {.journal-row}
 <div class="journal-title">Early childhood educators pay equity: A dream deferred</div>
-<div class="journal-citation"><strong>Liu, L., Joseph, G. E., Taylor, J. M., Hassairi, N., & Soderberg, J. S.</strong> <em>Early Childhood Education Journal, 53</em>(2), 463–476.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Joseph, G. E., Taylor, J. M., Hassairi, N., & Soderberg, J. S. <em>Early Childhood Education Journal, 53</em>(2), 463–476.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1007/s10643-023-01600-w)</div>
 :::
 :::
@@ -99,7 +99,7 @@ My publication program has two connected strands: **methodological research** in
 ::: {.journal-list}
 ::: {.journal-row}
 <div class="journal-title">Preliminary efficacy of Let’s Talk Tech: Technology use planning for dementia care dyads</div>
-<div class="journal-citation"><strong>Berridge, C., Turner, N. R., Liu, L., Fredriksen-Goldsen, K. I., Lyons, K. S., Demiris, G., ... & Lober, W. B.</strong> <em>Innovation in Aging, 7</em>(3), igad018.</div>
+<div class="journal-citation">Berridge, C., Turner, N. R., <strong>Liu, L.</strong>, Fredriksen-Goldsen, K. I., Lyons, K. S., Demiris, G., ... & Lober, W. B. <em>Innovation in Aging, 7</em>(3), igad018.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1093/geroni/igad018)</div>
 :::
 :::
@@ -109,13 +109,13 @@ My publication program has two connected strands: **methodological research** in
 ::: {.journal-list}
 ::: {.journal-row}
 <div class="journal-title">Explained: Artificial intelligence for propensity score estimation in multilevel educational settings</div>
-<div class="journal-citation"><strong>Collier, Z. K., Zhang, H., & Liu, L.</strong> <em>Practical Assessment, Research, and Evaluation, 27</em>(1), 3.</div>
+<div class="journal-citation">Collier, Z. K., Zhang, H., & <strong>Liu, L.</strong> <em>Practical Assessment, Research, and Evaluation, 27</em>(1), 3.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.7275/0dpq-eq84)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">Advance planning for technology use in dementia care: Development, design, and feasibility of a novel self-administered decision-making tool</div>
-<div class="journal-citation"><strong>Berridge, C., Turner, N. R., Liu, L., Karras, S. W., Chen, A., Fredriksen-Goldsen, K., & Demiris, G.</strong> <em>JMIR Aging, 5</em>(3), e39335.</div>
+<div class="journal-citation">Berridge, C., Turner, N. R., <strong>Liu, L.</strong>, Karras, S. W., Chen, A., Fredriksen-Goldsen, K., & Demiris, G. <em>JMIR Aging, 5</em>(3), e39335.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.2196/39335)</div>
 :::
 :::
