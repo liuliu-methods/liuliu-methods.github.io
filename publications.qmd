@@ -26,99 +26,92 @@ My publication program has two connected strands: **methodological research** in
 
 ## Peer-Reviewed Journal Articles
 
-<div class="pub-year">2026</div>
+### Methodological Research {.journal-category-heading}
 
 ::: {.journal-list}
 ::: {.journal-row}
 <div class="journal-title">Mode-matched inverse-gamma priors for variance components in Bayesian multilevel models</div>
-<div class="journal-citation"><strong>Liu, L.</strong> <em>Multivariate Behavioral Research</em>. Advance online publication.</div>
+<div class="journal-citation"><strong>Liu, L.</strong> (2026). <em>Multivariate Behavioral Research</em>. Advance online publication.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1080/00273171.2026.2740827) · [Project →](projects/bayesian-variance-priors.qmd)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">A tutorial on selecting, translating, and reporting variance priors in Bayesian multilevel models</div>
-<div class="journal-citation"><strong>Liu, L.</strong> <em>Behavior Research Methods, 58</em>, Article 328.</div>
+<div class="journal-citation"><strong>Liu, L.</strong> (2026). <em>Behavior Research Methods, 58</em>, Article 328.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.3758/s13428-026-03201-y) · [Project →](projects/bayesian-prior-guidance.qmd)</div>
 :::
 
 ::: {.journal-row}
-<div class="journal-title">Household and child correlates of child trafficking indicators in Eastern Sierra Leone</div>
-<div class="journal-citation"><strong>Liu, L.</strong>, Okech, D., & Cody, A. <em>PLOS ONE, 21</em>(10), e0347898.</div>
-<div class="journal-actions">[DOI](https://doi.org/10.1371/journal.pone.0347898)</div>
-:::
-
-::: {.journal-row}
 <div class="journal-title">Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure</div>
-<div class="journal-citation"><strong>Liu, L.</strong> <em>Methods in Psychology, 15</em>, 100281.</div>
+<div class="journal-citation"><strong>Liu, L.</strong> (2026). <em>Methods in Psychology, 15</em>, 100281.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1016/j.metip.2026.100281) · [Project →](projects/dyadic-modeling.qmd)</div>
 :::
 
 ::: {.journal-row}
-<div class="journal-title">Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018</div>
-<div class="journal-citation"><strong>Liu, L.</strong>, & Dai, R. <em>Large-scale Assessments in Education, 14</em>, Article 46.</div>
-<div class="journal-actions">[DOI](https://doi.org/10.1186/s40536-026-00320-y)</div>
-:::
-
-::: {.journal-row}
 <div class="journal-title">Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing</div>
-<div class="journal-citation"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. <em>Structural Equation Modeling: A Multidisciplinary Journal</em>, 1–12.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. (2026). <em>Structural Equation Modeling: A Multidisciplinary Journal</em>, 1–12.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1080/10705511.2026.2691170) · [Project →](projects/sparse-ordinal-cfa.qmd)</div>
 :::
 
 ::: {.journal-row}
+<div class="journal-title">New perspectives on respondent-driven sampling with application to sex-trafficked population in Senegal</div>
+<div class="journal-citation">Yi, H., Liu, X., Okech, D., Clay-Warner, J., <strong>Liu, L.</strong>, & Deng, X. (2026). <em>Journal of Statistical Theory and Practice, 20</em>(3), Article 84.</div>
+<div class="journal-actions">[DOI](https://doi.org/10.1007/s42519-026-00612-0)</div>
+:::
+
+::: {.journal-row}
+<div class="journal-title">Explained: Artificial intelligence for propensity score estimation in multilevel educational settings</div>
+<div class="journal-citation">Collier, Z. K., Zhang, H., & <strong>Liu, L.</strong> (2022). <em>Practical Assessment, Research, and Evaluation, 27</em>(1), 3.</div>
+<div class="journal-actions">[DOI](https://doi.org/10.7275/0dpq-eq84)</div>
+:::
+:::
+
+### Applied & Interdisciplinary Research {.journal-category-heading}
+
+::: {.journal-list}
+::: {.journal-row}
+<div class="journal-title">Household and child correlates of child trafficking indicators in Eastern Sierra Leone</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Okech, D., & Cody, A. (2026). <em>PLOS ONE, 21</em>(10), e0347898.</div>
+<div class="journal-actions">[DOI](https://doi.org/10.1371/journal.pone.0347898)</div>
+:::
+
+::: {.journal-row}
+<div class="journal-title">Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, & Dai, R. (2026). <em>Large-scale Assessments in Education, 14</em>, Article 46.</div>
+<div class="journal-actions">[DOI](https://doi.org/10.1186/s40536-026-00320-y)</div>
+:::
+
+::: {.journal-row}
 <div class="journal-title">Human-centered child trafficking prevalence: A latent class analysis of exploitation sectors</div>
-<div class="journal-citation"><strong>Liu, L.</strong>, Okech, D., Cody, A., & Konteh, F. <em>International Journal on Child Maltreatment: Research, Policy and Practice</em>, 1–30.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Okech, D., Cody, A., & Konteh, F. (2026). <em>International Journal on Child Maltreatment: Research, Policy and Practice</em>, 1–30.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1007/s42448-026-00266-2)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">Sex trafficking and commercial sex: Outcomes in suicide ideation and economic strain among young women</div>
-<div class="journal-citation">Okech, D., <strong>Liu, L.</strong>, Cody, A., Hwang, E., & Konteh, F. <em>Frontiers in Psychiatry, 17</em>, Article 1843240.</div>
+<div class="journal-citation">Okech, D., <strong>Liu, L.</strong>, Cody, A., Hwang, E., & Konteh, F. (2026). <em>Frontiers in Psychiatry, 17</em>, Article 1843240.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.3389/fpsyt.2026.1843240)</div>
 :::
 
 ::: {.journal-row}
-<div class="journal-title">New perspectives on respondent-driven sampling with application to sex-trafficked population in Senegal</div>
-<div class="journal-citation">Yi, H., Liu, X., Okech, D., Clay-Warner, J., <strong>Liu, L.</strong>, & Deng, X. <em>Journal of Statistical Theory and Practice, 20</em>(3), Article 84.</div>
-<div class="journal-actions">[DOI](https://doi.org/10.1007/s42519-026-00612-0)</div>
-:::
-:::
-
-<div class="pub-year">2025</div>
-
-::: {.journal-list}
-::: {.journal-row}
 <div class="journal-title">Early childhood educators pay equity: A dream deferred</div>
-<div class="journal-citation"><strong>Liu, L.</strong>, Joseph, G. E., Taylor, J. M., Hassairi, N., & Soderberg, J. S. <em>Early Childhood Education Journal, 53</em>(2), 463–476.</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Joseph, G. E., Taylor, J. M., Hassairi, N., & Soderberg, J. S. (2025). <em>Early Childhood Education Journal, 53</em>(2), 463–476.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1007/s10643-023-01600-w)</div>
 :::
-:::
 
-<div class="pub-year">2023</div>
-
-::: {.journal-list}
 ::: {.journal-row}
 <div class="journal-title">Preliminary efficacy of Let’s Talk Tech: Technology use planning for dementia care dyads</div>
-<div class="journal-citation">Berridge, C., Turner, N. R., <strong>Liu, L.</strong>, Fredriksen-Goldsen, K. I., Lyons, K. S., Demiris, G., ... & Lober, W. B. <em>Innovation in Aging, 7</em>(3), igad018.</div>
+<div class="journal-citation">Berridge, C., Turner, N. R., <strong>Liu, L.</strong>, Fredriksen-Goldsen, K. I., Lyons, K. S., Demiris, G., ... & Lober, W. B. (2023). <em>Innovation in Aging, 7</em>(3), igad018.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.1093/geroni/igad018)</div>
-:::
-:::
-
-<div class="pub-year">2022</div>
-
-::: {.journal-list}
-::: {.journal-row}
-<div class="journal-title">Explained: Artificial intelligence for propensity score estimation in multilevel educational settings</div>
-<div class="journal-citation">Collier, Z. K., Zhang, H., & <strong>Liu, L.</strong> <em>Practical Assessment, Research, and Evaluation, 27</em>(1), 3.</div>
-<div class="journal-actions">[DOI](https://doi.org/10.7275/0dpq-eq84)</div>
 :::
 
 ::: {.journal-row}
 <div class="journal-title">Advance planning for technology use in dementia care: Development, design, and feasibility of a novel self-administered decision-making tool</div>
-<div class="journal-citation">Berridge, C., Turner, N. R., <strong>Liu, L.</strong>, Karras, S. W., Chen, A., Fredriksen-Goldsen, K., & Demiris, G. <em>JMIR Aging, 5</em>(3), e39335.</div>
+<div class="journal-citation">Berridge, C., Turner, N. R., <strong>Liu, L.</strong>, Karras, S. W., Chen, A., Fredriksen-Goldsen, K., & Demiris, G. (2022). <em>JMIR Aging, 5</em>(3), e39335.</div>
 <div class="journal-actions">[DOI](https://doi.org/10.2196/39335)</div>
 :::
 :::
+
 
 ## Book Chapter
 
