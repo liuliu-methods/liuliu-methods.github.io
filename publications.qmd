@@ -11,24 +11,17 @@ My publication program has two connected strands: **methodological research** in
 
 <div class="profile-links">[Google Scholar](https://scholar.google.com/citations?user=nzeJHtIAAAAJ&hl=en)</div>
 
-## Accepted
-
-::: {.accepted-grid .accepted-grid-single}
-::: {.accepted-card}
-<div class="pub-status">METHODS · BRM · ACCEPTED</div>
-### Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics
-<div class="pub-authors"><strong>Liu, L.</strong>, Liu, J., & Okech, D.</div>
-<div class="pub-venue"><em>Behavior Research Methods</em></div>
-<div class="pub-actions">[Project →](projects/sparse-ordinal-cfa.qmd)</div>
-:::
-
-:::
-
 ## Peer-Reviewed Journal Articles
 
 ### Methodological Research {.journal-category-heading}
 
 ::: {.journal-list}
+::: {.journal-row}
+<div class="journal-title">Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics</div>
+<div class="journal-citation"><strong>Liu, L.</strong>, Liu, J., & Okech, D. (2026). <em>Behavior Research Methods, 58</em>, Article 341.</div>
+<div class="journal-actions">[DOI](https://doi.org/10.3758/s13428-026-03221-8) · [Project →](projects/sparse-ordinal-cfa.qmd)</div>
+:::
+
 ::: {.journal-row}
 <div class="journal-title">Mode-matched inverse-gamma priors for variance components in Bayesian multilevel models</div>
 <div class="journal-citation"><strong>Liu, L.</strong> (2026). <em>Multivariate Behavioral Research</em>. Advance online publication.</div>
