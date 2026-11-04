@@ -6,19 +6,19 @@ description-meta: "Simulation and ROC-based evaluation of sparse ordinal CFA, ca
 ---
 
 <div class="project-status-row">
-<span class="status-pill published">Published SEM paper + accepted BRM extension</span>
+<span class="status-pill published">Published in SEM and BRM · 2026</span>
 <span class="status-text">Sparse ordinal CFA research program</span>
 </div>
 
 ::: {.project-lede}
-Sparse ordinal categories can affect not only estimation, but also whether global fit indices can distinguish a correctly specified model from a misspecified one. This project treats fit evaluation as a discrimination problem before treating any cutoff as a decision rule.
+Sparse ordinal categories affect both estimation and the interpretation of model fit. This research program examines two connected questions: how well fit indices distinguish correctly specified from misspecified CFA models, and how scenario-specific cutoffs can be calibrated and evaluated for false rejection and detection.
 :::
 
 <div class="resource-bar">
-<a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Paper ↗</a>
-<a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">Supplement ↗</a>
-<a class="resource-link" href="https://osf.io/b7atw/" target="_blank">Code ↗</a>
-<a class="resource-link" href="#accepted-extension">Accepted Extension</a>
+<a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">SEM Paper ↗</a>
+<a class="resource-link" href="https://doi.org/10.3758/s13428-026-03221-8" target="_blank">BRM Paper ↗</a>
+<a class="resource-link" href="https://osf.io/b7atw/" target="_blank">SEM Code ↗</a>
+<a class="resource-link" href="https://osf.io/ce7rm/" target="_blank">BRM Code & Data ↗</a>
 <a class="resource-link" href="#simulation-design">Simulation Design</a>
 <a class="resource-link" href="#key-findings">Key Findings</a>
 </div>
@@ -29,15 +29,15 @@ Using a Monte Carlo simulation-cum-ROC framework, the study evaluates how RMSEA,
 
 <div class="visual-panel cfa-visual" role="img" aria-label="Sparse ordinal CFA workflow from five response categories to collapsed categories, estimation, fit indices, ROC discrimination, and condition-specific decisions."><div class="visual-caption">SPARSE ORDINAL CFA WORKFLOW</div><div class="collapse-demo"><div class="collapse-block"><small>Original ordinal scale</small><div class="category-pills five-cats"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div></div><div class="collapse-arrow">→</div><div class="collapse-block"><small>Illustrative collapsing</small><div class="category-pills three-cats"><span>1–2</span><span>3</span><span>4–5</span></div></div></div><div class="cfa-flow"><div><span>01</span><strong>Sparse responses</strong></div><div><span>02</span><strong>WLSMV / MLR / MLMV</strong></div><div><span>03</span><strong>RMSEA / SRMR / CFI / TLI</strong></div><div><span>04</span><strong>ROC discrimination</strong></div><div><span>05</span><strong>Condition-specific decisions</strong></div></div></div>
 
-## Paper {#paper}
+## SEM Paper {#paper}
 
-**Liu, L., Liu, J., Yi, H., & Okech, D.** (2026). *Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing*. **Structural Equation Modeling: A Multidisciplinary Journal**. Published online August 6, 2026.
+**Liu, L.**, Liu, J., Yi, H., & Okech, D. (2026). *Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing*. *Structural Equation Modeling: A Multidisciplinary Journal*. Published online August 6, 2026.
 
 [DOI / Publisher page ↗](https://doi.org/10.1080/10705511.2026.2691170){.paper-button}
 
-## Code {#code}
+## SEM Code {#code}
 
-All results are based on simulated data. Analysis code for the simulation study is available on OSF:
+The SEM study uses simulated data. Analysis code for its simulation and ROC evaluation is available on OSF:
 
 [OSF Code Repository ↗](https://osf.io/b7atw/){.paper-button}
 
@@ -62,11 +62,17 @@ A no-collapse baseline makes it possible to separate the effect of **sparse resp
 - **Mild and moderate collapsing produced relatively small average changes from the original response scale.** The largest losses were concentrated in more aggressive collapsing and difficult information conditions.
 - **A cutoff is meaningful only when the index has adequate discrimination.** The paper therefore treats ROC-derived cutoffs as condition-specific operating points rather than new universal rules.
 
-## Accepted Extension {#accepted-extension}
+## BRM Paper {#brm-paper}
 
-**Liu, L., Liu, J., & Okech, D.** (accepted). *Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics*. **Behavior Research Methods**.
+**Liu, L.**, Liu, J., & Okech, D. (2026). *Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics*. *Behavior Research Methods, 58*, Article 341.
 
-This companion paper translates the discrimination results from the published SEM study into **scenario-specific fit-index thresholds and operating characteristics** for sparse ordinal CFA. The manuscript was accepted on October 7, 2026 and has entered Springer production.
+[DOI / Publisher page ↗](https://doi.org/10.3758/s13428-026-03221-8){.paper-button}
+
+Published November 4, 2026.
+
+The companion study moves from ROC discrimination to **scenario-specific calibration of CFI, TLI, RMSEA, and SRMR cutoffs**. It uses Correct-model reference distributions at α = .05 and examines false rejection under correct specification and detection under local and severe misspecification. The simulation covers MLR, MLMV, and WLSMV estimators, sample sizes of 250, 500, and 1,000, sparse response patterns, and original versus collapsed categories.
+
+The calibrated cutoffs depend on the design and estimator. The paper also evaluates composite fit-index rules and provides an applied illustration using six Sierra Leone household welfare items. Reproducible code, simulation outputs, supplementary results, and the de-identified illustration data are available in the [BRM OSF repository ↗](https://osf.io/ce7rm/).
 
 ## Contribution to my research program
 
