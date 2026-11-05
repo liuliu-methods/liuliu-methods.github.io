@@ -7,15 +7,19 @@ description-meta: "Two published studies on sparse ordinal CFA: ROC discriminati
 
 ::: {.sparsev-page}
 
+```{=html}
 <div class="project-status-row">
 <span class="status-pill published">Two published methodological studies · 2026</span>
 <span class="status-text">Structural Equation Modeling · Behavior Research Methods</span>
 </div>
+```
+
 
 ::: {.project-lede}
 Sparse ordinal responses can change both <strong>how well fit indices detect misfit</strong> and <strong>which cutoffs are defensible</strong>.
 :::
 
+```{=html}
 <div class="resource-bar sparsev-nav">
 <a class="resource-link" href="#research-overview">Overview</a>
 <a class="resource-link" href="#two-papers">Two papers</a>
@@ -23,9 +27,12 @@ Sparse ordinal responses can change both <strong>how well fit indices detect mis
 <a class="resource-link" href="#key-findings">Findings</a>
 <a class="resource-link" href="#applied-illustration">Applied illustration</a>
 </div>
+```
+
 
 ## The research in one view {#research-overview}
 
+```{=html}
 <figure class="sparsev-figure sparsev-workflow">
 <div class="sparsev-figure-label">SPARSE ORDINAL CFA · RESEARCH WORKFLOW</div>
 <div class="sparsev-flow">
@@ -51,16 +58,22 @@ Sparse ordinal responses can change both <strong>how well fit indices detect mis
 </div>
 <figcaption>Category handling, sample size, loadings, and sparsity shape discrimination and calibration. The two studies address complementary questions.</figcaption>
 </figure>
+```
 
+
+```{=html}
 <div class="sparsev-stat-grid">
 <div><strong>2</strong><span>Published papers</span></div>
 <div><strong>3</strong><span>Estimators</span></div>
 <div><strong>4</strong><span>Fit indices</span></div>
 <div><strong>2</strong><span>Misfit targets</span></div>
 </div>
+```
+
 
 ## Two papers, complementary contributions {#two-papers}
 
+```{=html}
 <div class="sparsev-papers">
   <article class="sparsev-paper" id="paper">
     <div class="sparsev-paper-label">01 · SEM · DISCRIMINATION</div>
@@ -79,16 +92,22 @@ Sparse ordinal responses can change both <strong>how well fit indices detect mis
     <div class="sparsev-paper-links"><a href="https://doi.org/10.3758/s13428-026-03221-8">Published paper ↗</a><a href="https://osf.io/ce7rm/">Code &amp; data / OSF ↗</a></div>
   </article>
 </div>
+```
+
 
 ## Simulation design {#simulation-design}
 
+```{=html}
 <div class="sparsev-design-strip">
 <div><span>ESTIMATORS</span><strong>MLR · MLMV · WLSMV</strong></div>
 <div><span>FIT INDICES</span><strong>CFI · TLI · RMSEA · SRMR</strong></div>
 <div><span>BRM SAMPLE SIZES</span><strong>250 · 500 · 1,000</strong></div>
 <div><span>CATEGORY HANDLING</span><strong>Original · Collapsed</strong></div>
 </div>
+```
 
+
+```{=html}
 <figure class="sparsev-figure sparsev-models">
 <div class="sparsev-figure-label">THREE FITTED-MODEL CONDITIONS</div>
 <div class="sparsev-model-grid">
@@ -113,9 +132,12 @@ Sparse ordinal responses can change both <strong>how well fit indices detect mis
 </div>
 <figcaption>Conceptual model comparison, not estimated path diagrams. BRM calibrates on the Correct model and evaluates detection under the misspecified models.</figcaption>
 </figure>
+```
+
 
 ## What the results show {#key-findings}
 
+```{=html}
 <figure class="sparsev-figure sparsev-result">
 <div class="sparsev-figure-label">BRM · CFI–RMSEA AND RULE · MODERATE LOADINGS</div>
 <div class="sparsev-result-grid">
@@ -125,17 +147,23 @@ Sparse ordinal responses can change both <strong>how well fit indices detect mis
 </div>
 <figcaption>Scenario-level means across BRM moderate-loading conditions. These results describe the studied designs, not universal decision-rule performance.</figcaption>
 </figure>
+```
 
+
+```{=html}
 <div class="sparsev-insights">
 <div><span>01</span><strong>Cutoffs depend on context</strong><small>Estimator, sample size, loadings, and sparsity all matter.</small></div>
 <div><span>02</span><strong>Local misfit is harder to detect</strong><small>Detection is lower than for severe misfit.</small></div>
 <div><span>03</span><strong>Collapsing is not uniformly beneficial</strong><small>BRM found larger WLSMV detection gains in lower-information settings.</small></div>
 </div>
+```
+
 
 ## Applied illustration {#applied-illustration}
 
 <p class="sparsev-section-intro">Sierra Leone household welfare scale · <strong>6 items</strong> · <strong>N = 2,989</strong> · BRM</p>
 
+```{=html}
 <figure class="sparsev-figure sparsev-example">
 <div class="sparsev-figure-label">ORIGINAL VS. COLLAPSED RESPONSE SCALE</div>
 <div class="sparsev-example-grid">
@@ -157,8 +185,13 @@ Sparse ordinal responses can change both <strong>how well fit indices detect mis
 </div>
 <figcaption>RMSEA bars share a 0–.10 scale. Collapsing removed sparse-cell diagnostics and reduced RMSEA, but both versions fell on the worse-fit side of their respective model-conditional calibrated cutoffs. A conventional .06 benchmark would classify them differently.</figcaption>
 </figure>
+```
 
+
+```{=html}
 <div class="sparsev-end-note"><strong>Research contribution.</strong> The two papers connect fit-index <em>discrimination</em> with scenario-calibrated <em>decisions</em> for sparse ordinal measurement.</div>
+```
+
 
 [← All methodological projects](index.qmd){.back-link}
 
