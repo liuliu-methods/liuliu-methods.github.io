@@ -1,81 +1,165 @@
 ---
 title: "Sparse Ordinal CFA and Model-Fit Decisions"
-subtitle: "Category sparsity, category collapsing, and simulation-cum-ROC evaluation"
+subtitle: "Category sparsity, category collapsing, and defensible model-fit decisions"
 pagetitle: "Sparse Ordinal CFA and Model-Fit Decisions | Liu Liu, Ph.D."
-description-meta: "Simulation and ROC-based evaluation of sparse ordinal CFA, category collapsing, fit indices, estimators, and condition-specific model-fit decisions."
+description-meta: "Two published studies on sparse ordinal CFA: ROC discrimination in Structural Equation Modeling and scenario-calibrated fit-index cutoffs in Behavior Research Methods, with reproducible materials."
 ---
 
+::: {.sparsev-page}
+
 <div class="project-status-row">
-<span class="status-pill published">Published in SEM and BRM · 2026</span>
-<span class="status-text">Sparse ordinal CFA research program</span>
+<span class="status-pill published">Two published methodological studies · 2026</span>
+<span class="status-text">Structural Equation Modeling · Behavior Research Methods</span>
 </div>
 
 ::: {.project-lede}
-Sparse ordinal categories affect both estimation and the interpretation of model fit. This research program examines two connected questions: how well fit indices distinguish correctly specified from misspecified CFA models, and how scenario-specific cutoffs can be calibrated and evaluated for false rejection and detection.
+Sparse ordinal responses can change both <strong>how well fit indices detect misfit</strong> and <strong>which cutoffs are defensible</strong>.
 :::
 
-<div class="resource-bar">
-<a class="resource-link" href="https://doi.org/10.1080/10705511.2026.2691170" target="_blank">SEM Paper ↗</a>
-<a class="resource-link" href="https://doi.org/10.3758/s13428-026-03221-8" target="_blank">BRM Paper ↗</a>
-<a class="resource-link" href="https://osf.io/b7atw/" target="_blank">SEM Code ↗</a>
-<a class="resource-link" href="https://osf.io/ce7rm/" target="_blank">BRM Code & Data ↗</a>
-<a class="resource-link" href="#simulation-design">Simulation Design</a>
-<a class="resource-link" href="#key-findings">Key Findings</a>
+<div class="resource-bar sparsev-nav">
+<a class="resource-link" href="#research-overview">Overview</a>
+<a class="resource-link" href="#two-papers">Two papers</a>
+<a class="resource-link" href="#simulation-design">Design</a>
+<a class="resource-link" href="#key-findings">Findings</a>
+<a class="resource-link" href="#applied-illustration">Applied illustration</a>
 </div>
 
-## Abstract {#abstract}
+## The research in one view {#research-overview}
 
-Using a Monte Carlo simulation-cum-ROC framework, the study evaluates how RMSEA, SRMR, CFI, and TLI distinguish correctly specified ordinal CFA models from two forms of misspecification under sparse response categories and category collapsing. A local misspecification is represented by an omitted cross-loading, while a structural misspecification combines two correlated factors. The analysis compares WLSMV, MLR, and MLMV across sample size, loading magnitude, sparsity, number of sparse-pattern items, collapsing intensity, and a no-collapse baseline.
+<figure class="sparsev-figure sparsev-workflow">
+<div class="sparsev-figure-label">SPARSE ORDINAL CFA · RESEARCH WORKFLOW</div>
+<div class="sparsev-flow">
+  <div class="sparsev-flow-card">
+    <span class="sparsev-step">01 · DATA</span>
+    <strong>Sparse ordinal responses</strong>
+    <div class="sparsev-scale" aria-label="Illustrative five-category scale with rare fifth category"><span>1</span><span>2</span><span>3</span><span>4</span><span class="sparsev-rare">5</span></div>
+    <small>Rare or empty categories</small>
+  </div>
+  <div class="sparsev-flow-arrow" aria-hidden="true">→</div>
+  <div class="sparsev-flow-card">
+    <span class="sparsev-step">02 · ANALYSIS</span>
+    <strong>Estimate &amp; evaluate CFA</strong>
+    <div class="sparsev-tags"><span>MLR</span><span>MLMV</span><span>WLSMV</span></div>
+    <small>CFI · TLI · RMSEA · SRMR</small>
+  </div>
+  <div class="sparsev-flow-arrow" aria-hidden="true">→</div>
+  <div class="sparsev-flow-card sparsev-flow-outcome">
+    <span class="sparsev-step">03 · EVIDENCE</span>
+    <div class="sparsev-flow-branch"><strong>SEM</strong><span>Can indices detect misfit?</span></div>
+    <div class="sparsev-flow-branch"><strong>BRM</strong><span>Where should cutoffs fall?</span></div>
+  </div>
+</div>
+<figcaption>Category handling, sample size, loadings, and sparsity shape discrimination and calibration. The two studies address complementary questions.</figcaption>
+</figure>
 
-<div class="visual-panel cfa-visual" role="img" aria-label="Sparse ordinal CFA workflow from five response categories to collapsed categories, estimation, fit indices, ROC discrimination, and condition-specific decisions."><div class="visual-caption">SPARSE ORDINAL CFA WORKFLOW</div><div class="collapse-demo"><div class="collapse-block"><small>Original ordinal scale</small><div class="category-pills five-cats"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div></div><div class="collapse-arrow">→</div><div class="collapse-block"><small>Illustrative collapsing</small><div class="category-pills three-cats"><span>1–2</span><span>3</span><span>4–5</span></div></div></div><div class="cfa-flow"><div><span>01</span><strong>Sparse responses</strong></div><div><span>02</span><strong>WLSMV / MLR / MLMV</strong></div><div><span>03</span><strong>RMSEA / SRMR / CFI / TLI</strong></div><div><span>04</span><strong>ROC discrimination</strong></div><div><span>05</span><strong>Condition-specific decisions</strong></div></div></div>
+<div class="sparsev-stat-grid">
+<div><strong>2</strong><span>Published papers</span></div>
+<div><strong>3</strong><span>Estimators</span></div>
+<div><strong>4</strong><span>Fit indices</span></div>
+<div><strong>2</strong><span>Misfit targets</span></div>
+</div>
 
-## SEM Paper {#paper}
+## Two papers, complementary contributions {#two-papers}
 
-**Liu, L.**, Liu, J., Yi, H., & Okech, D. (2026). *Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing*. *Structural Equation Modeling: A Multidisciplinary Journal*. Published online August 6, 2026.
+<div class="sparsev-papers">
+  <article class="sparsev-paper" id="paper">
+    <div class="sparsev-paper-label">01 · SEM · DISCRIMINATION</div>
+    <h3>Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing</h3>
+    <p class="sparsev-paper-question">Can fit indices distinguish correct from misspecified CFA models?</p>
+    <div class="sparsev-paper-outcome"><span>ROC / AUC</span><span>Detection</span><span>Category collapsing</span></div>
+    <p class="sparsev-citation"><strong>Liu, L.</strong>, Liu, J., Yi, H., &amp; Okech, D. (2026). <em>Structural Equation Modeling: A Multidisciplinary Journal</em>.</p>
+    <div class="sparsev-paper-links"><a href="https://doi.org/10.1080/10705511.2026.2691170">Published paper ↗</a><a href="https://osf.io/b7atw/" id="code">Code / OSF ↗</a></div>
+  </article>
+  <article class="sparsev-paper" id="brm-paper">
+    <div class="sparsev-paper-label">02 · BRM · CALIBRATION</div>
+    <h3>Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics</h3>
+    <p class="sparsev-paper-question">How should cutoffs be calibrated for a given analysis scenario?</p>
+    <div class="sparsev-paper-outcome"><span>Tail-quantile cutoffs</span><span>False rejection</span><span>Detection</span></div>
+    <p class="sparsev-citation"><strong>Liu, L.</strong>, Liu, J., &amp; Okech, D. (2026). <em>Behavior Research Methods, 58</em>, Article 341.</p>
+    <div class="sparsev-paper-links"><a href="https://doi.org/10.3758/s13428-026-03221-8">Published paper ↗</a><a href="https://osf.io/ce7rm/">Code &amp; data / OSF ↗</a></div>
+  </article>
+</div>
 
-[DOI / Publisher page ↗](https://doi.org/10.1080/10705511.2026.2691170){.paper-button}
+## Simulation design {#simulation-design}
 
-## SEM Code {#code}
+<div class="sparsev-design-strip">
+<div><span>ESTIMATORS</span><strong>MLR · MLMV · WLSMV</strong></div>
+<div><span>FIT INDICES</span><strong>CFI · TLI · RMSEA · SRMR</strong></div>
+<div><span>BRM SAMPLE SIZES</span><strong>250 · 500 · 1,000</strong></div>
+<div><span>CATEGORY HANDLING</span><strong>Original · Collapsed</strong></div>
+</div>
 
-The SEM study uses simulated data. Analysis code for its simulation and ROC evaluation is available on OSF:
+<figure class="sparsev-figure sparsev-models">
+<div class="sparsev-figure-label">THREE FITTED-MODEL CONDITIONS</div>
+<div class="sparsev-model-grid">
+  <div class="sparsev-model">
+    <span class="sparsev-model-type">CORRECT</span>
+    <div class="sparsev-model-nodes"><i>F1</i><i>F2</i><i>F3</i></div>
+    <strong>Cross-loading retained</strong>
+    <small>Reference for cutoff calibration</small>
+  </div>
+  <div class="sparsev-model">
+    <span class="sparsev-model-type">LOCAL MISFIT</span>
+    <div class="sparsev-model-nodes"><i>F1</i><i>F2</i><i>F3</i></div>
+    <strong>Cross-loading omitted</strong>
+    <small>Localized departure</small>
+  </div>
+  <div class="sparsev-model">
+    <span class="sparsev-model-type">SEVERE MISFIT</span>
+    <div class="sparsev-model-nodes"><i class="sparsev-merged">F1 + F2</i><i>F3</i></div>
+    <strong>Two factors combined</strong>
+    <small>Stronger structural departure</small>
+  </div>
+</div>
+<figcaption>Conceptual model comparison, not estimated path diagrams. BRM calibrates on the Correct model and evaluates detection under the misspecified models.</figcaption>
+</figure>
 
-[OSF Code Repository ↗](https://osf.io/b7atw/){.paper-button}
+## What the results show {#key-findings}
 
-The repository contains code supporting the simulation workflow, including data generation, model fitting, fit-index extraction, and ROC-based evaluation.
+<figure class="sparsev-figure sparsev-result">
+<div class="sparsev-figure-label">BRM · CFI–RMSEA AND RULE · MODERATE LOADINGS</div>
+<div class="sparsev-result-grid">
+  <div class="sparsev-bar-row"><div class="sparsev-bar-head"><strong>False rejection</strong><b>8.0%</b></div><div class="sparsev-track"><span style="width:8%" class="sparsev-bar-neutral"></span></div><small>Correctly specified model</small></div>
+  <div class="sparsev-bar-row"><div class="sparsev-bar-head"><strong>Local misfit detection</strong><b>39.1%</b></div><div class="sparsev-track"><span style="width:39.1%"></span></div><small>Omitted cross-loading</small></div>
+  <div class="sparsev-bar-row"><div class="sparsev-bar-head"><strong>Severe misfit detection</strong><b>90.3%</b></div><div class="sparsev-track"><span style="width:90.3%"></span></div><small>Combined factors</small></div>
+</div>
+<figcaption>Scenario-level means across BRM moderate-loading conditions. These results describe the studied designs, not universal decision-rule performance.</figcaption>
+</figure>
 
-## Simulation Design {#simulation-design}
+<div class="sparsev-insights">
+<div><span>01</span><strong>Cutoffs depend on context</strong><small>Estimator, sample size, loadings, and sparsity all matter.</small></div>
+<div><span>02</span><strong>Local misfit is harder to detect</strong><small>Detection is lower than for severe misfit.</small></div>
+<div><span>03</span><strong>Collapsing is not uniformly beneficial</strong><small>BRM found larger WLSMV detection gains in lower-information settings.</small></div>
+</div>
 
-::: {.mini-grid}
-<div><strong>Fit indices</strong><br><span>RMSEA · SRMR · CFI · TLI</span></div>
-<div><strong>Estimators</strong><br><span>WLSMV · MLR · MLMV</span></div>
-<div><strong>Misspecification</strong><br><span>omitted cross-loading · combined correlated factors</span></div>
-<div><strong>Information conditions</strong><br><span>sample size, loadings, sparsity, sparse items, collapsing intensity</span></div>
-:::
+## Applied illustration {#applied-illustration}
 
-A no-collapse baseline makes it possible to separate the effect of **sparse response structure itself** from the additional information loss introduced by category collapsing. ROC analysis evaluates both overall diagnostic separation through AUC and condition-specific operating points through sensitivity and specificity.
+<p class="sparsev-section-intro">Sierra Leone household welfare scale · <strong>6 items</strong> · <strong>N = 2,989</strong> · BRM</p>
 
-## Key Findings {#key-findings}
+<figure class="sparsev-figure sparsev-example">
+<div class="sparsev-figure-label">ORIGINAL VS. COLLAPSED RESPONSE SCALE</div>
+<div class="sparsev-example-grid">
+  <div class="sparsev-example-side">
+    <span class="sparsev-example-label">ORIGINAL · FIVE CATEGORIES</span>
+    <div class="sparsev-scale"><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div>
+    <div class="sparsev-example-metric"><strong>5 / 6</strong><small>Items with sparse categories</small></div>
+    <div class="sparsev-example-metric"><strong>13</strong><small>Zero bivariate cells</small></div>
+    <div class="sparsev-example-rmsea"><div><span>Observed RMSEA</span><strong>.079</strong></div><div class="sparsev-track"><span style="width:79%"></span></div></div>
+  </div>
+  <div class="sparsev-example-divider" aria-hidden="true">→</div>
+  <div class="sparsev-example-side">
+    <span class="sparsev-example-label">COLLAPSED · THREE CATEGORIES</span>
+    <div class="sparsev-scale sparsev-three"><span>1–2</span><span>3</span><span>4–5</span></div>
+    <div class="sparsev-example-metric"><strong>0 / 6</strong><small>Items with sparse categories</small></div>
+    <div class="sparsev-example-metric"><strong>0</strong><small>Zero bivariate cells</small></div>
+    <div class="sparsev-example-rmsea"><div><span>Observed RMSEA</span><strong>.057</strong></div><div class="sparsev-track"><span style="width:57%"></span></div></div>
+  </div>
+</div>
+<figcaption>RMSEA bars share a 0–.10 scale. Collapsing removed sparse-cell diagnostics and reduced RMSEA, but both versions fell on the worse-fit side of their respective model-conditional calibrated cutoffs. A conventional .06 benchmark would classify them differently.</figcaption>
+</figure>
 
-- **Discrimination varied substantially across conditions.** Fit-index performance cannot be summarized well by a single universal cutoff.
-- **Local misspecification was harder to detect.** Detection weakened under moderate loadings, smaller samples, and aggressive category collapsing.
-- **Structural misspecification was generally easier to detect.** Performance remained strong in many conditions, with notable deterioration under extreme sparsity and aggressive collapsing.
-- **Mild and moderate collapsing produced relatively small average changes from the original response scale.** The largest losses were concentrated in more aggressive collapsing and difficult information conditions.
-- **A cutoff is meaningful only when the index has adequate discrimination.** The paper therefore treats ROC-derived cutoffs as condition-specific operating points rather than new universal rules.
-
-## BRM Paper {#brm-paper}
-
-**Liu, L.**, Liu, J., & Okech, D. (2026). *Calibrating fit-index cutoffs for sparse ordinal CFA: Scenario-specific thresholds and operating characteristics*. *Behavior Research Methods, 58*, Article 341.
-
-[DOI / Publisher page ↗](https://doi.org/10.3758/s13428-026-03221-8){.paper-button}
-
-Published November 4, 2026.
-
-The companion study moves from ROC discrimination to **scenario-specific calibration of CFI, TLI, RMSEA, and SRMR cutoffs**. It uses Correct-model reference distributions at α = .05 and examines false rejection under correct specification and detection under local and severe misspecification. The simulation covers MLR, MLMV, and WLSMV estimators, sample sizes of 250, 500, and 1,000, sparse response patterns, and original versus collapsed categories.
-
-The calibrated cutoffs depend on the design and estimator. The paper also evaluates composite fit-index rules and provides an applied illustration using six Sierra Leone household welfare items. Reproducible code, simulation outputs, supplementary results, and the de-identified illustration data are available in the [BRM OSF repository ↗](https://osf.io/ce7rm/).
-
-## Contribution to my research program
-
-This project anchors my work on **measurement under sparse and heterogeneous data**. The broader program studies how response sparsity, estimator choice, category collapsing, and model-fit calibration affect the quality of measurement decisions.
+<div class="sparsev-end-note"><strong>Research contribution.</strong> The two papers connect fit-index <em>discrimination</em> with scenario-calibrated <em>decisions</em> for sparse ordinal measurement.</div>
 
 [← All methodological projects](index.qmd){.back-link}
+
+:::
