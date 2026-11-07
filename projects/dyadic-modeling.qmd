@@ -73,14 +73,14 @@ The practical implication is that **more repeated measurements cannot be treated
 ## Related Work {#related-work}
 
 ::: {.project-paper}
-<div class="paper-label">UNDER REVIEW · BEHAVIOR RESEARCH METHODS</div>
+<div class="paper-label">MANUSCRIPT IN PREPARATION</div>
 ### Role parameterization in longitudinal models for distinguishable dyads: A practical framework for fixed effects, random effects, and post-estimation
 
 A practical framework for role coding, within- and between-person parameterization, random slopes and covariances, residual dependence, and post-estimation.
 :::
 
 ::: {.project-paper}
-<div class="paper-label">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
+<div class="paper-label">MANUSCRIPT IN PREPARATION</div>
 ### How dyad sample size and repeated measurements shape the performance of multilevel actor-partner growth models for longitudinal distinguishable dyads
 
 A complementary methodological evaluation of how dyad count and repeated occasions contribute different sources of information in actor-partner growth models.
