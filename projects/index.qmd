@@ -68,7 +68,7 @@ How sparse response categories and category collapsing change fit-index behavior
 
 Developing and evaluating informative prior calibration across Bayesian multilevel and item-response models, including work on borrowing strength, parameterization, and sensitivity to limited information.
 
-<div class="project-meta">One manuscript under review · Additional studies in progress</div>
+<div class="project-meta">Three manuscripts under review · One in preparation</div>
 
 [View project →](bayesian-prior-calibration.qmd){.project-link}
 :::
