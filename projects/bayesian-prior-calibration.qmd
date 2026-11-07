@@ -29,10 +29,17 @@ The project extends informative-prior research from variance components in gener
 ## Papers {#papers}
 
 ::: {.project-paper}
-<div class="paper-label">UNDER REVIEW · APPLIED MEASUREMENT IN EDUCATION</div>
-### Calibrating informative variance priors in Bayesian multilevel item-response models: A practical evaluation using PISA 2018
+<div class="paper-label">UNDER REVIEW · PSYCHOLOGICAL METHODS</div>
+### Component-Specific Calibration of Reference-Informed Variance Priors in Bayesian Multilevel Models
 
-Extends variance-prior calibration to Bayesian multilevel item-response models and evaluates the practical consequences of prior choices in large-scale assessment settings.
+Develops component-specific calibration of informative variance priors using reference information in Bayesian multilevel models.
+:::
+
+::: {.project-paper}
+<div class="paper-label">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
+### Evaluating Covariance Priors for Inference on Random-Slope Heterogeneity in Bayesian Multilevel Models
+
+Examines how covariance-prior choices affect inference on random-slope heterogeneity in Bayesian multilevel models.
 :::
 
 ::: {.project-paper}
@@ -40,6 +47,13 @@ Extends variance-prior calibration to Bayesian multilevel item-response models a
 ### Benchmark-based calibration of scalar variance priors across Bayesian multilevel software
 
 Examines how conceptually comparable variance priors should be translated when Bayesian software packages use different parameterizations or default scales.
+:::
+
+::: {.project-paper}
+<div class="paper-label">MANUSCRIPT IN PREPARATION</div>
+### Calibrating informative variance priors in Bayesian multilevel item-response models: A practical evaluation using PISA 2018
+
+Extends variance-prior calibration to Bayesian multilevel item-response models and evaluates the practical consequences of prior choices in large-scale assessment settings.
 :::
 
 ## Supplement {#supplement}
