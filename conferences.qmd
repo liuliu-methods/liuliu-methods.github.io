@@ -29,19 +29,19 @@ A record of conference research in **quantitative methodology, measurement, educ
 <div class="conf-kicker">AERA · ACCEPTED PAPER</div>
 <div class="conf-authors"><strong>Liu, L.</strong>, Yi, H., &amp; Okech, D. (2027, April).</div>
 <div class="conf-title"><em>Interpretable variance prior calibration for Bayesian multilevel logistic regression models</em> <span class="conf-format">[Accepted paper presentation].</span></div>
-<div class="conf-location">American Educational Research Association Annual Meeting, Toronto, Ontario, Canada.</div>
+<div class="conf-location">American Educational Research Association Annual Meeting (April 14–18, 2027), Toronto, Ontario, Canada.</div>
 </article>
 <article class="conf-entry">
 <div class="conf-kicker">AERA · ACCEPTED ROUNDTABLE</div>
-<div class="conf-authors">Yang, H., Liu, J., <strong>Liu, L.</strong>, &amp; Yang, R. (2027).</div>
+<div class="conf-authors">Yang, H., Liu, J., <strong>Liu, L.</strong>, &amp; Yang, R. (2027, April).</div>
 <div class="conf-title"><em>Revisiting the factor structure of the Ethical Sensitivity Scale: Empirical evidence for a general factor</em> <span class="conf-format">[Roundtable presentation, accepted].</span></div>
-<div class="conf-location">American Educational Research Association Annual Meeting, Toronto, Ontario, Canada.</div>
+<div class="conf-location">American Educational Research Association Annual Meeting (April 14–18, 2027), Toronto, Ontario, Canada.</div>
 </article>
 <article class="conf-entry">
 <div class="conf-kicker">AERA · ACCEPTED PAPER</div>
-<div class="conf-authors">Liu, J., <strong>Liu, L.</strong>, Gray, A., Wang, J., &amp; Yang, H. (2027).</div>
+<div class="conf-authors">Liu, J., <strong>Liu, L.</strong>, Gray, A., Wang, J., &amp; Yang, H. (2027, April).</div>
 <div class="conf-title"><em>Uneven gains: A mixed-effects analysis of ethical sensitivity change after animated video intervention</em> <span class="conf-format">[Paper presentation, accepted].</span></div>
-<div class="conf-location">American Educational Research Association Annual Meeting, Toronto, Ontario, Canada.</div>
+<div class="conf-location">American Educational Research Association Annual Meeting (April 14–18, 2027), Toronto, Ontario, Canada.</div>
 </article>
 <article class="conf-entry">
 <div class="conf-kicker">SSWR · ACCEPTED PAPER</div>
