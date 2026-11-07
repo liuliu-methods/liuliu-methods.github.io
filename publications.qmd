@@ -120,27 +120,21 @@ My publication program has two connected strands: **methodological research** in
 
 ::: {.pipeline-list}
 ::: {.pipeline-row}
-<div class="pipeline-status">UNDER REVIEW · APPLIED MEASUREMENT IN EDUCATION</div>
-<div class="pipeline-title">Calibrating informative variance priors in Bayesian multilevel item-response models: A practical evaluation using PISA 2018</div>
+<div class="pipeline-status">UNDER REVIEW · PSYCHOLOGICAL METHODS</div>
+<div class="pipeline-title">Component-Specific Calibration of Reference-Informed Variance Priors in Bayesian Multilevel Models</div>
 <div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/bayesian-prior-calibration.qmd)</div>
+:::
+
+::: {.pipeline-row}
+<div class="pipeline-status">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
+<div class="pipeline-title">Evaluating Covariance Priors for Inference on Random-Slope Heterogeneity in Bayesian Multilevel Models</div>
+<div class="pipeline-meta"><strong>Liu, L.</strong>, & Yi, H. · [Project →](projects/bayesian-prior-calibration.qmd)</div>
 :::
 
 ::: {.pipeline-row}
 <div class="pipeline-status">UNDER REVIEW · METHODOLOGY</div>
 <div class="pipeline-title">Benchmark-based calibration of scalar variance priors across Bayesian multilevel software</div>
 <div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/bayesian-prior-calibration.qmd)</div>
-:::
-
-::: {.pipeline-row}
-<div class="pipeline-status">UNDER REVIEW · BEHAVIOR RESEARCH METHODS</div>
-<div class="pipeline-title">Role parameterization in longitudinal models for distinguishable dyads: A practical framework for fixed effects, random effects, and post-estimation</div>
-<div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/dyadic-modeling.qmd)</div>
-:::
-
-::: {.pipeline-row}
-<div class="pipeline-status">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
-<div class="pipeline-title">How dyad sample size and repeated measurements shape the performance of multilevel actor-partner growth models for longitudinal distinguishable dyads</div>
-<div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/dyadic-modeling.qmd)</div>
 :::
 
 ::: {.pipeline-row}
@@ -153,6 +147,24 @@ My publication program has two connected strands: **methodological research** in
 <div class="pipeline-status">UNDER REVISION · STUDIES IN EDUCATIONAL EVALUATION</div>
 <div class="pipeline-title">A DoWhy-assisted causal workflow for observational educational evaluation: An applied charter school enrollment case</div>
 <div class="pipeline-meta"><strong>Liu, L.</strong>, & Collier, Z.</div>
+:::
+
+::: {.pipeline-row}
+<div class="pipeline-status">MANUSCRIPT IN PREPARATION</div>
+<div class="pipeline-title">Calibrating informative variance priors in Bayesian multilevel item-response models: A practical evaluation using PISA 2018</div>
+<div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/bayesian-prior-calibration.qmd)</div>
+:::
+
+::: {.pipeline-row}
+<div class="pipeline-status">MANUSCRIPT IN PREPARATION</div>
+<div class="pipeline-title">Role parameterization in longitudinal models for distinguishable dyads: A practical framework for fixed effects, random effects, and post-estimation</div>
+<div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/dyadic-modeling.qmd)</div>
+:::
+
+::: {.pipeline-row}
+<div class="pipeline-status">MANUSCRIPT IN PREPARATION</div>
+<div class="pipeline-title">How dyad sample size and repeated measurements shape the performance of multilevel actor-partner growth models for longitudinal distinguishable dyads</div>
+<div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/dyadic-modeling.qmd)</div>
 :::
 :::
 
