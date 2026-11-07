@@ -1,0 +1,261 @@
+---
+title: "Conference Presentations"
+subtitle: "Conference papers, posters, and research workshops"
+pagetitle: "Conference Presentations | Liu Liu, Ph.D. | Quantitative Methodologist"
+description-meta: "Conference presentations and research workshops by Liu Liu on quantitative methodology, Bayesian modeling, measurement, education, and interdisciplinary research from 2021 through 2027."
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+::: {.conf-archive}
+
+::: {.conf-lede}
+A record of conference research in **quantitative methodology, measurement, education, and interdisciplinary social science**. Accepted presentations for upcoming meetings are identified explicitly.
+:::
+
+<div class="conf-overview"><div><strong>30</strong><span>Conference contributions</span></div><div><strong>2021–2027</strong><span>Research timeline</span></div><div><strong>7</strong><span>Accepted presentations in 2027</span></div></div>
+
+<div class="conf-year-links">Jump to: <a href="#year-2027">2027</a><a href="#year-2026">2026</a><a href="#year-2025">2025</a><a href="#year-2024">2024</a><a href="#year-2023">2023</a><a href="#year-2022">2022</a><a href="#year-2021">2021</a></div>
+
+## 2027 {#year-2027}
+
+<p class="conf-year-note">Accepted presentations · AERA (Toronto) and SSWR (San Francisco)</p>
+
+~~~{=html}
+<div class="conf-list">
+<article class="conf-entry">
+<div class="conf-kicker">AERA · ACCEPTED PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Yi, H., &amp; Okech, D. (2027, April).</div>
+<div class="conf-title"><em>Interpretable variance prior calibration for Bayesian multilevel logistic regression models</em> <span class="conf-format">[Accepted paper presentation].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Toronto, Ontario, Canada.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">AERA · ACCEPTED ROUNDTABLE</div>
+<div class="conf-authors">Yang, H., Liu, J., <strong>Liu, L.</strong>, &amp; Yang, R. (2027).</div>
+<div class="conf-title"><em>Revisiting the factor structure of the Ethical Sensitivity Scale: Empirical evidence for a general factor</em> <span class="conf-format">[Roundtable presentation, accepted].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Toronto, Ontario, Canada.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">AERA · ACCEPTED PAPER</div>
+<div class="conf-authors">Liu, J., <strong>Liu, L.</strong>, Gray, A., Wang, J., &amp; Yang, H. (2027).</div>
+<div class="conf-title"><em>Uneven gains: A mixed-effects analysis of ethical sensitivity change after animated video intervention</em> <span class="conf-format">[Paper presentation, accepted].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Toronto, Ontario, Canada.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">SSWR · ACCEPTED PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Okech, D., Cody, A., &amp; Goulart, P. (2027, January).</div>
+<div class="conf-title"><em>Are human trafficking severity scores comparable across contexts? Evidence from Malawi and Zambia</em> <span class="conf-format">[Accepted paper presentation].</span></div>
+<div class="conf-location">Society for Social Work and Research Annual Conference, San Francisco, CA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">SSWR · ACCEPTED PAPER</div>
+<div class="conf-authors">Mukasa, E., <strong>Liu, L.</strong>, &amp; Zeng, Y. (2027, January).</div>
+<div class="conf-title"><em>State immigration policy and mental health outcomes across immigration generations: Evidence from national data</em> <span class="conf-format">[Accepted paper presentation].</span></div>
+<div class="conf-location">Society for Social Work and Research Annual Conference, San Francisco, CA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">SSWR · ACCEPTED PAPER</div>
+<div class="conf-authors">Okech, D., <strong>Liu, L.</strong>, Cody, A., Konteh, F., &amp; Hwang, E. M. (2027, January).</div>
+<div class="conf-title"><em>Force, fraud, and coercion profiles among children meeting a trafficking classification in Sierra Leone: A latent class analysis</em> <span class="conf-format">[Accepted paper presentation].</span></div>
+<div class="conf-location">Society for Social Work and Research Annual Conference, San Francisco, CA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">SSWR · ACCEPTED PAPER</div>
+<div class="conf-authors">Okech, D., <strong>Liu, L.</strong>, Cody, A., &amp; Hwang, E. M. (2027, January).</div>
+<div class="conf-title"><em>Sex trafficking and commercial sex: Outcomes in suicidality and economic strain among young women</em> <span class="conf-format">[Accepted paper presentation].</span></div>
+<div class="conf-location">Society for Social Work and Research Annual Conference, San Francisco, CA.</div>
+</article>
+</div>
+~~~
+
+
+## 2026 {#year-2026}
+
+~~~{=html}
+<div class="conf-list">
+<article class="conf-entry">
+<div class="conf-kicker">MWERA · ACCEPTED PAPER</div>
+<div class="conf-authors">Yang, H., Liu, J., &amp; <strong>Liu, L.</strong> (2026, October).</div>
+<div class="conf-title"><em>A Bayesian approach to understanding academic integrity: How ethical ideology shapes student sensitivity</em> <span class="conf-format">[Accepted paper presentation].</span></div>
+<div class="conf-location">Mid-Western Educational Research Association Annual Meeting, Milwaukee, WI.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">FALL TECHNICAL CONFERENCE · ACCEPTED</div>
+<div class="conf-authors">Yi, H., Hasan, A., <strong>Liu, L.</strong>, Okech, D., &amp; Olalere, A. (2026, October).</div>
+<div class="conf-title"><em>An explainable artificial intelligence framework for child trafficking risk assessment</em> <span class="conf-format">[Accepted paper presentation].</span></div>
+<div class="conf-location">Fall Technical Conference, Charlotte, NC.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">TIP GLOBAL PRACTICE SUMMIT</div>
+<div class="conf-authors">Okech, D., <strong>Liu, L.</strong>, &amp; Cody, A. (2026, September).</div>
+<div class="conf-title"><em>Bayesian multilevel modelling for policy-usable prevalence estimates: Pooling information across settings and data sources</em> <span class="conf-format">[Conference presentation].</span></div>
+<div class="conf-location">Trafficking in Persons (TIP) Global Practice Summit, Mexico City, Mexico.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">JSM · PAPER</div>
+<div class="conf-authors">Yi, H., Liu, X., Deng, X., <strong>Liu, L.</strong>, &amp; Okech, D. (2026, August).</div>
+<div class="conf-title"><em>New respondent-driven sampling perspectives for rare and hidden populations</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">Joint Statistical Meetings, Boston, MA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">MODERN MODELING METHODS · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Liu, J., &amp; Okech, D. (2026, June).</div>
+<div class="conf-title"><em>Scenario-specific fit-index cutoffs for sparse ordinal CFA: Monte Carlo calibration across estimators and category collapsing</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">Modern Modeling Methods Conference, New York, NY.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">SWSD · WORKSHOP</div>
+<div class="conf-authors">Okech, D., <strong>Liu, L.</strong>, Cody, A., Bolton, C., Yi, H., Waswa, A., &amp; Goulart, P. (2026, June).</div>
+<div class="conf-title"><em>Measuring the unseen: Mixed methods and Bayesian multilevel modelling in survivor-centered child trafficking research</em> <span class="conf-format">[Workshop].</span></div>
+<div class="conf-location">Joint World Conference on Social Work, Education and Social Development, Nairobi, Kenya.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">SWSD · PAPER</div>
+<div class="conf-authors">Okech, D., <strong>Liu, L.</strong>, Cody, A., Goulart, P., &amp; Waswa, A. (2026, June).</div>
+<div class="conf-title"><em>Profiles of child trafficking in Sierra Leone’s Eastern Province: A latent class analysis of labor sectors, hazardous tasks, and force, fraud, and coercion</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">Joint World Conference on Social Work, Education and Social Development, Nairobi, Kenya.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">AERA · PAPER</div>
+<div class="conf-authors">Liu, J., <strong>Liu, L.</strong>, &amp; Jiang, W. (2026, April).</div>
+<div class="conf-title"><em>Assessing the performance of Bayesian and traditional estimators in confirmatory factor analysis with sparse Likert-scale data</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Los Angeles, CA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">AERA · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Liu, J., Jenkins, A., &amp; Yang, H. (2026, April).</div>
+<div class="conf-title"><em>Profiling ethical sensitivity: A person-centered analysis of student judgments on academic misconduct</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Los Angeles, CA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">AERA · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Cody, A., Okech, D., Yi, H., Waswa, A., &amp; Goulart, P. (2026, April).</div>
+<div class="conf-title"><em>Beyond rescue: Child trafficking, educational access, and reintegration in Eastern Sierra Leone</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Los Angeles, CA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">ESWRA · POSTER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Okech, D., &amp; Cody, A. (2026, April).</div>
+<div class="conf-title"><em>Economic strain, wealth, and household child trafficking in Eastern Sierra Leone: Evidence from a district-representative survey</em> <span class="conf-format">[Poster].</span></div>
+<div class="conf-location">European Social Work Research Association Conference, Aberdeen, Scotland.</div>
+</article>
+</div>
+~~~
+
+
+## 2025 {#year-2025}
+
+~~~{=html}
+<div class="conf-list">
+<article class="conf-entry">
+<div class="conf-kicker">JSM · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Okech, D., &amp; Yi, H. (2025, August).</div>
+<div class="conf-title"><em>Informative variance priors for Bayesian multilevel modeling with large and small samples</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">Joint Statistical Meetings, Nashville, TN.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">JSM · PAPER</div>
+<div class="conf-authors">Yi, H., Okech, D., <strong>Liu, L.</strong>, Clay-Warner, J., Waswa, A., &amp; Goulart, P. (2025, August).</div>
+<div class="conf-title"><em>Prevalence estimation for nonprobability samples: Link-tracing sampling and respondent-driven sampling</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">Joint Statistical Meetings, Nashville, TN.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">HARD-TO-REACH POPULATIONS · PAPER</div>
+<div class="conf-authors">Okech, D., Yi, H., Cody, A., &amp; <strong>Liu, L.</strong> (2025, August).</div>
+<div class="conf-title"><em>Between and beyond respondent-driven sampling and link-tracing sampling: Adaptive sampling design and prevalence estimation</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">2nd International Conference on Hard-to-Reach Populations: Applied Research and Data Collection Methods with Hidden, Marginal, and Excluded Populations, Oxford, United Kingdom.</div>
+</article>
+</div>
+~~~
+
+
+## 2024 {#year-2024}
+
+~~~{=html}
+<div class="conf-list">
+<article class="conf-entry">
+<div class="conf-kicker">NCME · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, &amp; Sanders, E. A. (2024, April).</div>
+<div class="conf-title"><em>Informative inverse-gamma variance priors for Bayesian multilevel item response model precision</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">National Council on Measurement in Education Annual Meeting, Philadelphia, PA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">NCME · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, &amp; Walker, M. (2024, April).</div>
+<div class="conf-title"><em>Fine-tuned word embeddings for enemy item detection</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">National Council on Measurement in Education Annual Meeting, Philadelphia, PA.</div>
+</article>
+</div>
+~~~
+
+
+## 2023 {#year-2023}
+
+~~~{=html}
+<div class="conf-list">
+<article class="conf-entry">
+<div class="conf-kicker">PACIFIC NORTHWEST PSYCHOMETRICS · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Walker, M., &amp; Weir, J. (2023, November).</div>
+<div class="conf-title"><em>Unveiling enemy item pairs through machine learning approaches</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">Second Annual Pacific Northwest Conference for Research on Psychometrics &amp; Applied Statistics, Seattle, WA.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">PSYCHOMETRIC SOCIETY · POSTER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, &amp; Sanders, E. A. (2023, July).</div>
+<div class="conf-title"><em>Bayesian variance component priors for small-sample multilevel models</em> <span class="conf-format">[Poster].</span></div>
+<div class="conf-location">International Meeting of the Psychometric Society, College Park, MD.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">AERA · POSTER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, &amp; Sanders, E. A. (2023, April).</div>
+<div class="conf-title"><em>On informative Bayesian multilevel model priors for variance components</em> <span class="conf-format">[Poster].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Chicago, IL.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">NCME · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, Walker, M., &amp; Weir, J. (2023, April).</div>
+<div class="conf-title"><em>An exploration of natural language processing for enemy item detection</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">National Council on Measurement in Education Annual Meeting, Chicago, IL.</div>
+</article>
+</div>
+~~~
+
+
+## 2022 {#year-2022}
+
+~~~{=html}
+<div class="conf-list">
+<article class="conf-entry">
+<div class="conf-kicker">AERA · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong> (2022, April).</div>
+<div class="conf-title"><em>Structural equation modeling: A systematic review</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Virtual.</div>
+</article>
+<article class="conf-entry">
+<div class="conf-kicker">NCME · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, &amp; Boyd, A. (2022, April).</div>
+<div class="conf-title"><em>DIF analyses for embedded field test items in a computerized adaptive test</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">National Council on Measurement in Education Annual Meeting, Virtual.</div>
+</article>
+</div>
+~~~
+
+
+## 2021 {#year-2021}
+
+~~~{=html}
+<div class="conf-list">
+<article class="conf-entry">
+<div class="conf-kicker">AERA · PAPER</div>
+<div class="conf-authors"><strong>Liu, L.</strong>, &amp; Collier, Z. (2021, April).</div>
+<div class="conf-title"><em>Causal inference made easy: A review of the DoWhy package in Python</em> <span class="conf-format">[Paper presentation].</span></div>
+<div class="conf-location">American Educational Research Association Annual Meeting, Virtual.</div>
+</article>
+</div>
+~~~
+
+[← Publications](publications.qmd){.back-link}
+
+:::
