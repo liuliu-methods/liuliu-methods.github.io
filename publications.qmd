@@ -121,13 +121,13 @@ My publication program has two connected strands: **methodological research** in
 ::: {.pipeline-list}
 ::: {.pipeline-row}
 <div class="pipeline-status">UNDER REVIEW · PSYCHOLOGICAL METHODS</div>
-<div class="pipeline-title">Component-Specific Calibration of Reference-Informed Variance Priors in Bayesian Multilevel Models</div>
+<div class="pipeline-title">Component-specific calibration of reference-informed variance priors in Bayesian multilevel models</div>
 <div class="pipeline-meta"><strong>Liu, L.</strong> · [Project →](projects/bayesian-prior-calibration.qmd)</div>
 :::
 
 ::: {.pipeline-row}
 <div class="pipeline-status">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
-<div class="pipeline-title">Evaluating Covariance Priors for Inference on Random-Slope Heterogeneity in Bayesian Multilevel Models</div>
+<div class="pipeline-title">Evaluating covariance priors for inference on random-slope heterogeneity in Bayesian multilevel models</div>
 <div class="pipeline-meta"><strong>Liu, L.</strong>, & Yi, H. · [Project →](projects/bayesian-prior-calibration.qmd)</div>
 :::
 

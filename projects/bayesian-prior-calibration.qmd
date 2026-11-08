@@ -30,14 +30,14 @@ The project extends informative-prior research from variance components in gener
 
 ::: {.project-paper}
 <div class="paper-label">UNDER REVIEW · PSYCHOLOGICAL METHODS</div>
-### Component-Specific Calibration of Reference-Informed Variance Priors in Bayesian Multilevel Models
+### Component-specific calibration of reference-informed variance priors in Bayesian multilevel models
 
 Develops component-specific calibration of informative variance priors using reference information in Bayesian multilevel models.
 :::
 
 ::: {.project-paper}
 <div class="paper-label">UNDER REVIEW · MULTIVARIATE BEHAVIORAL RESEARCH</div>
-### Evaluating Covariance Priors for Inference on Random-Slope Heterogeneity in Bayesian Multilevel Models
+### Evaluating covariance priors for inference on random-slope heterogeneity in Bayesian multilevel models
 
 Examines how covariance-prior choices affect inference on random-slope heterogeneity in Bayesian multilevel models.
 :::
