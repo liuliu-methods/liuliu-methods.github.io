@@ -6,18 +6,23 @@ description-meta: "Liu Liu’s research in Bayesian multilevel and longitudinal 
 ---
 
 ::: {.page-lede}
-My research has two connected strands: **methodological research** in quantitative modeling and measurement, and **applied research** in education and social science. The relationship is reciprocal. Applied studies reveal where existing methods are fragile or incomplete; methodological studies then develop, test, and translate better quantitative guidance for practice.
+I develop quantitative methods for **Bayesian modeling and psychometrics**, especially when samples are small, responses are sparse, or study designs are complex. Questions from educational and social research motivate this work and help evaluate its practical value.
 :::
 
 ## Research Program
 
-<div class="research-map" role="img" aria-label="Research program map showing a methods-first structure: core methodological research connected to applied research contexts, with applied problems motivating methodological questions and methodological advances returning to practice."><div class="research-map-hub"><span>RESEARCH LOGIC</span><strong>Applied problems ↔ methodological questions</strong></div><div class="research-map-branches two-stream methods-first-map"><div class="research-map-card method-core"><span class="research-map-number">01</span><strong>Core Methodological Research</strong><small>Bayesian multilevel & longitudinal modeling · prior calibration · psychometrics · CFA / SEM · IRT · fit evaluation</small></div><div class="research-map-card applied-context"><span class="research-map-number">02</span><strong>Applied Research Contexts</strong><small>Education & assessment · causal and computational evaluation · complex surveys · human trafficking measurement · program evaluation</small></div></div><div class="research-map-foundation">Applied settings generate methodological questions · methodological advances return to applied practice</div></div>
+<div class="visual-research-map" aria-label="Two core methodological research areas and their topics">
+<div class="visual-research-column"><div class="visual-research-heading"><span>01</span><strong>Bayesian & Longitudinal Methods</strong><small>Inference with limited information</small></div><ul><li>Variance prior specification</li><li>Prior calibration and translation</li><li>Random-effect covariance</li><li>Longitudinal and dyadic models</li></ul></div>
+<div class="visual-research-column"><div class="visual-research-heading"><span>02</span><strong>Psychometrics & Measurement</strong><small>Reliable measurement under complexity</small></div><ul><li>Sparse ordinal CFA</li><li>Model-fit evaluation</li><li>IRT and item calibration</li><li>Measurement invariance and DIF</li></ul></div>
+</div>
 
 ## Methodological Research
 
 ### Bayesian multilevel and longitudinal methods
 
 My primary methodological line studies prior specification, calibration, random effects, and inference when higher-level information is limited. My dissertation, *Informative Variance Priors for Bayesian Multilevel Models*, developed this program through simulation and large-scale assessment applications. It now extends to prior translation across software, Bayesian multilevel item-response models, random-slope covariance structures, and longitudinal dyadic models.
+
+<figure class="visual-science-figure"><svg viewBox="0 0 560 225" role="img" aria-label="Conceptual density curves illustrating priors with the same mode and different concentrations"><line x1="52" y1="184" x2="528" y2="184" stroke="currentColor" opacity=".55"/><line x1="52" y1="20" x2="52" y2="184" stroke="currentColor" opacity=".55"/><path d="M53 183 C100 182 158 135 213 95 C242 72 263 81 286 105 C340 158 406 181 525 183" fill="none" stroke="#4d82b0" stroke-width="3"/><path d="M53 184 C178 184 230 171 252 100 C263 60 275 60 286 100 C306 172 350 184 525 184" fill="none" stroke="#35927e" stroke-width="3"/><path d="M53 184 C235 184 253 177 266 67 C272 22 280 22 286 67 C299 177 317 184 525 184" fill="none" stroke="#b47d46" stroke-width="3"/><line x1="276" y1="25" x2="276" y2="184" stroke="currentColor" opacity=".3" stroke-dasharray="4 5"/><text x="290" y="31" fill="currentColor" font-size="13">Shared prior mode</text><text x="210" y="214" fill="currentColor" font-size="13">Variance component</text><text x="8" y="18" fill="currentColor" font-size="12">Density</text></svg><figcaption><strong>Prior calibration.</strong> Conceptual illustration of shared prior mode with different concentrations. Not empirical simulation results.</figcaption></figure>
 
 ::: {.research-links .compact-research-links}
 [Variance priors in Bayesian multilevel models →](projects/bayesian-variance-priors.qmd)
@@ -32,6 +37,8 @@ My primary methodological line studies prior specification, calibration, random 
 ### Measurement, psychometrics, and SEM
 
 A second methodological line examines what happens when measurement data are sparse, imbalanced, or heterogeneous across groups and contexts. I study fit-index behavior, category collapsing, condition-specific decision rules, item response theory, measurement invariance, differential item functioning, and assessment fairness.
+
+<div class="visual-measurement-note"><div class="visual-measurement-icon" aria-hidden="true">ROC</div><div><strong>Evaluating fit decisions under sparse ordinal responses</strong><p>My simulation-based work examines how category collapsing and data conditions affect fit-index performance. See the project for the study and results.</p></div></div>
 
 ::: {.research-links .compact-research-links}
 [Sparse ordinal CFA and model-fit decisions →](projects/sparse-ordinal-cfa.qmd)
@@ -83,7 +90,7 @@ Cross-context measurement, respondent-driven and link-tracing sampling, measurem
 :::
 :::
 
-This applied-to-methods pathway is central to how I define my research program.
+
 
 ## Current & Emerging Work
 
