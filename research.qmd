@@ -38,7 +38,7 @@ My primary methodological line studies prior specification, calibration, random 
 
 A second methodological line examines what happens when measurement data are sparse, imbalanced, or heterogeneous across groups and contexts. I study fit-index behavior, category collapsing, condition-specific decision rules, item response theory, measurement invariance, differential item functioning, and assessment fairness.
 
-<div class="visual-measurement-note"><div class="visual-measurement-icon" aria-hidden="true">ROC</div><div><strong>Evaluating fit decisions under sparse ordinal responses</strong><p>My simulation-based work examines how category collapsing and data conditions affect fit-index performance. See the project for the study and results.</p></div></div>
+<div class="visual-measurement-note"><div class="visual-measurement-icon" aria-hidden="true">ROC</div><div><strong>Evaluating fit decisions under sparse ordinal responses</strong><p>Two published studies examine how well fit indices detect misspecification (SEM) and how decision thresholds can be calibrated for specific data conditions (BRM). <a href="projects/sparse-ordinal-cfa.qmd">Explore both studies</a>.</p></div></div>
 
 ::: {.research-links .compact-research-links}
 [Sparse ordinal CFA and model-fit decisions →](projects/sparse-ordinal-cfa.qmd)
