@@ -44,6 +44,13 @@ A second methodological line examines what happens when measurement data are spa
 [Sparse ordinal CFA and model-fit decisions →](projects/sparse-ordinal-cfa.qmd)
 :::
 
+## Published research in focus
+
+<div class="visual-evidence-grid">
+<figure class="visual-evidence-card"><a href="projects/dyadic-modeling.qmd"><img src="assets/visual-dyadic-precision.svg" alt="Published dyadic simulation: 42 percent reduction in within-person confidence interval width and 6 percent for between-person effects when occasions increase from 7 to 21." loading="lazy"></a><figcaption><strong>Longitudinal dyadic modeling.</strong> Repeated occasions improved precision differently for within-person and between-person effects in the examined simulation. <a href="projects/dyadic-modeling.qmd">Study details</a>.</figcaption></figure>
+<figure class="visual-evidence-card"><a href="https://doi.org/10.1186/s40536-026-00320-y"><img src="assets/visual-pisa-results.svg" alt="PISA 2018 study of 74,235 students in ten selected systems, with average CatBoost weighted R squared 0.358 and mean absolute error 57.29." loading="lazy"></a><figcaption><strong>Explainable AI for mathematics achievement.</strong> School-held-out predictions were evaluated with survey weights and ten plausible values. <a href="https://doi.org/10.1186/s40536-026-00320-y">Published study</a>.</figcaption></figure>
+</div>
+
 ## Applied Research
 
 My applied work uses quantitative methods to answer substantive questions while identifying design and measurement problems that motivate new methodological research.
