@@ -1,19 +1,38 @@
 ---
 title: "Teaching & Service"
-subtitle: "Teaching, mentoring, and contributions to the academic community"
+subtitle: "Teaching, mentoring, and academic service"
 pagetitle: "Teaching & Service | Liu Liu, Ph.D. | Quantitative Methodologist"
 description-meta: "Teaching, graduate mentoring, editorial appointments, peer review, and professional leadership of Liu Liu, quantitative methodologist."
 ---
 
 ::: {.page-lede}
-My teaching goal is to help students move from applying statistical procedures to making **defensible research decisions** across design, measurement, modeling, diagnostics, uncertainty, interpretation, and reproducible communication.
+I help students use quantitative methods to make **well-supported research decisions**, from study design and measurement to modeling, interpretation, and clear reporting.
 :::
 
-<div class="teaching-service-jump" aria-label="Page sections"><a href="#teaching-philosophy">Teaching &amp; Mentoring</a><a href="#academic-service">Academic Service</a></div>
+```{=html}
+<nav class="ts-section-nav" aria-label="Jump to page sections">
+  <a href="#teaching-philosophy">Teaching &amp; Mentoring</a>
+  <a href="#academic-service">Academic Service</a>
+</nav>
+```
 
-## Teaching Philosophy
+## Teaching Philosophy {#teaching-philosophy}
 
-Effective quantitative work combines technical execution with judgment about what a design and dataset can support. I teach statistical methods within a broader sequence of inquiry: define the research question, understand the data structure, choose a model the data can support, examine assumptions and diagnostics, interpret uncertainty, and communicate conclusions responsibly.
+I teach statistical methods through real research questions and practical decisions. Students learn to understand their data, evaluate modeling choices, check assumptions, and communicate what their findings support.
+
+```{=html}
+<div class="ts-framework" aria-label="Six stages of the teaching framework">
+  <div class="ts-framework-heading"><strong>How I teach quantitative reasoning</strong><span>From research questions to clear, reproducible conclusions</span></div>
+  <div class="ts-framework-steps">
+    <div class="ts-framework-step"><span class="ts-step-number">01</span><strong>Question</strong><small>Define the problem</small></div>
+    <div class="ts-framework-step"><span class="ts-step-number">02</span><strong>Data</strong><small>Examine structure and measurement</small></div>
+    <div class="ts-framework-step"><span class="ts-step-number">03</span><strong>Model</strong><small>Choose an appropriate method</small></div>
+    <div class="ts-framework-step"><span class="ts-step-number">04</span><strong>Diagnostics</strong><small>Check assumptions and fit</small></div>
+    <div class="ts-framework-step"><span class="ts-step-number">05</span><strong>Interpret</strong><small>Evaluate uncertainty</small></div>
+    <div class="ts-framework-step"><span class="ts-step-number">06</span><strong>Communicate</strong><small>Report findings clearly</small></div>
+  </div>
+</div>
+```
 
 ## Teaching Areas
 
@@ -51,7 +70,7 @@ Effective quantitative work combines technical execution with judgment about wha
 <div class="interest-label">UNIVERSITY OF WASHINGTON</div>
 <strong>Teaching Assistant, EDPSY 576: Multilevel Modeling</strong>
 <div class="teaching-experience-date">Fall 2023</div>
-<p>Led weekly R-based laboratories on model specification, diagnostics, interpretation, and reproducible reporting; developed reusable analysis templates; and provided individual methodological consultation to more than 30 graduate students.</p>
+<p>Led weekly R labs on model specification, diagnostics, and interpretation. Developed reusable analysis templates and supported more than 30 graduate students.</p>
 </div>
 :::
 
@@ -60,7 +79,7 @@ Effective quantitative work combines technical execution with judgment about wha
 <div class="interest-label">UNIVERSITY OF GEORGIA</div>
 <strong>Invited Guest Lecturer, SOWK 8307: Doctoral Research Practicum II</strong>
 <div class="teaching-experience-date">April 2026</div>
-<p>Delivered a doctoral seminar on the quantitative research process, including research questions, study design, measurement, data analysis, interpretation, and responsible reporting.</p>
+<p>Delivered a doctoral seminar connecting research questions, study design, measurement, analysis, and reporting.</p>
 </div>
 :::
 
@@ -68,7 +87,7 @@ Effective quantitative work combines technical execution with judgment about wha
 <div class="teaching-experience-main">
 <div class="interest-label">GRADUATE MENTORING</div>
 <strong>Research Methods Mentoring</strong>
-<p>I mentor graduate students and research trainees on study design, measurement, analysis planning, model selection, diagnostics, interpretation, and reproducible documentation, with increasing responsibility as methodological independence develops.</p>
+<p>Guide graduate students and research trainees in research design, model selection, diagnostics, and reproducible analysis.</p>
 </div>
 :::
 :::
@@ -79,19 +98,19 @@ Effective quantitative work combines technical execution with judgment about wha
 ::: {.teaching-approach-card}
 <div class="interest-label">01</div>
 ### Authentic Inquiry
-I use real research problems to connect statistical technique with substantive reasoning. Code is a tool for quantitative thinking, not an end in itself.
+Use real research problems to connect statistical methods with substantive questions.
 :::
 
 ::: {.teaching-approach-card}
 <div class="interest-label">02</div>
 ### Scaffolding & Feedback
-I use conceptual explanations, worked examples, annotated code, structured decision prompts, and iterative feedback while maintaining common expectations for methodological reasoning.
+Combine worked examples, annotated code, and feedback to build students’ confidence and judgment.
 :::
 
 ::: {.teaching-approach-card}
 <div class="interest-label">03</div>
 ### Reproducible Practice
-Students should leave a methods course able to produce an analysis that another researcher can understand, reproduce, and critique, with transparent workflows, diagnostic checks, and clear reporting of uncertainty.
+Emphasize transparent code, diagnostic checks, and reporting that others can reproduce.
 :::
 :::
 
@@ -99,7 +118,7 @@ Students should leave a methods course able to produce an analysis that another 
 
 ## Academic Service {#academic-service}
 
-I contribute to the quantitative methods and interdisciplinary research communities through editorial appointments, peer review, and professional leadership.
+Editorial appointments, peer review, and professional leadership across quantitative methods and interdisciplinary research.
 
 ### Editorial Appointments
 
@@ -109,7 +128,7 @@ I contribute to the quantitative methods and interdisciplinary research communit
 #### PLOS ONE
 <div class="service-date">2026–Present</div>
 
-Academic editorial service overseeing peer review and manuscript evaluation.
+
 :::
 
 ::: {.service-card}
@@ -117,7 +136,7 @@ Academic editorial service overseeing peer review and manuscript evaluation.
 #### Journal of Applied Educational Research and Evaluation
 <div class="service-date">2026–Present</div>
 
-Editorial review board service supporting peer review and manuscript evaluation in educational research and evaluation.
+
 :::
 
 ::: {.service-card}
@@ -125,7 +144,7 @@ Editorial review board service supporting peer review and manuscript evaluation 
 #### Teaching Educational Research Methods
 <div class="service-date">2025–Present</div>
 
-Editorial service focused on scholarship in the teaching and learning of educational research methods.
+
 :::
 :::
 
@@ -135,13 +154,13 @@ Editorial service focused on scholarship in the teaching and learning of educati
 ::: {.service-card}
 <div class="service-label">JOURNAL PEER REVIEW</div>
 #### 40+ journal manuscripts
-Ad hoc reviewer for journals including *Methodology*, *Structural Equation Modeling: A Multidisciplinary Journal*, *Acta Psychologica*, *BMC Psychology*, *Journal of Psychoeducational Assessment*, *Early Childhood Education Journal*, and *Education Sciences*.
+Selected journals include *Methodology*, *Structural Equation Modeling*, *Journal of Psychoeducational Assessment*, and *BMC Psychology*.
 :::
 
 ::: {.service-card}
 <div class="service-label">CONFERENCE REVIEW</div>
 #### 80+ conference submissions
-Reviewer for conferences including AERA, NCME, the Society for Social Work and Research (SSWR; 2027), and the International Test Commission Conference.
+Including AERA, NCME, SSWR, and the International Test Commission Conference.
 :::
 :::
 
