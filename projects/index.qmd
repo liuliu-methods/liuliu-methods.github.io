@@ -13,11 +13,12 @@ description-meta: "Research projects by Liu Liu on Bayesian variance priors, spa
 My research is **methods-first and applications-grounded**. Methodological programs form the core of my work, while applied studies in education and social research generate substantive questions, difficult data structures, and recurring problems that motivate new quantitative research.
 :::
 
-<div class="projects-overview" aria-label="Research program overview">
-  <div class="overview-item"><span class="overview-label">Bayesian methods &amp; prior calibration</span><span class="overview-description">Variance priors, specification, and calibration</span></div>
-  <div class="overview-item"><span class="overview-label">Psychometrics &amp; measurement</span><span class="overview-description">Sparse ordinal data and model-fit decisions</span></div>
-  <div class="overview-item"><span class="overview-label">Longitudinal &amp; dyadic methods</span><span class="overview-description">Multilevel modeling with limited information</span></div>
+<div class="projects-overview projects-overview-visual" aria-label="Methodological research areas and related project numbers">
+  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">∿</span><span class="overview-label">Bayesian methods &amp; prior calibration</span><span class="overview-description">Variance priors, specification, and calibration</span><span class="overview-projects">PROJECTS 01 · 02 · 04</span></div>
+  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">◉</span><span class="overview-label">Psychometrics &amp; measurement</span><span class="overview-description">Sparse ordinal data and model-fit decisions</span><span class="overview-projects">PROJECT 03</span></div>
+  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">▤</span><span class="overview-label">Longitudinal &amp; dyadic methods</span><span class="overview-description">Multilevel modeling with limited information</span><span class="overview-projects">PROJECT 05</span></div>
 </div>
+<p class="projects-overview-note">Applied work in education and social research helps identify methodological challenges and provides settings for evaluating practical statistical decisions.</p>
 
 ::: {.project-section-heading}
 <div class="section-kicker">METHODOLOGICAL RESEARCH PROGRAMS</div>
@@ -27,6 +28,7 @@ My research is **methods-first and applications-grounded**. Methodological progr
 ::: {.project-grid}
 ::: {.project-card}
 <div class="project-index">01</div>
+<div class="project-thumb"><img src="../assets/visual-priors-published.svg" alt="Published inverse-gamma density curves with a common mode and different prior concentration." loading="lazy"><span class="project-thumb-caption">Published-parameter reconstruction</span></div>
 <div class="project-tag">BAYESIAN METHODS · PUBLISHED</div>
 ## Variance priors for Bayesian multilevel models
 
@@ -39,6 +41,7 @@ Informative prior specification for variance components when higher-level sample
 
 ::: {.project-card}
 <div class="project-index">02</div>
+<div class="project-thumb"><img src="../assets/project-prior-guidance.svg" alt="Conceptual workflow for selecting, translating, checking, and reporting variance priors." loading="lazy"><span class="project-thumb-caption">Conceptual workflow</span></div>
 <div class="project-tag">BAYESIAN PRACTICE · PUBLISHED</div>
 ## Selecting, translating, and reporting variance priors
 
@@ -51,6 +54,7 @@ A practical framework for choosing variance priors, translating them across para
 
 ::: {.project-card}
 <div class="project-index">03</div>
+<div class="project-thumb"><img src="../assets/visual-roc-published.svg" alt="Selected published ROC AUC results for sparse ordinal CFA model-fit discrimination." loading="lazy"><span class="project-thumb-caption">Published ROC AUC results</span></div>
 <div class="project-tag">PSYCHOMETRICS · PUBLISHED</div>
 ## Sparse ordinal CFA and model-fit decisions
 
@@ -63,6 +67,7 @@ How sparse response categories and category collapsing change fit-index behavior
 
 ::: {.project-card}
 <div class="project-index">04</div>
+<div class="project-thumb"><img src="../assets/project-calibration.svg" alt="Conceptual prior calibration workflow across Bayesian models, without unpublished results." loading="lazy"><span class="project-thumb-caption">Active research · Conceptual</span></div>
 <div class="project-tag">BAYESIAN CALIBRATION · ACTIVE RESEARCH</div>
 ## Calibrating informative priors across models and software
 
@@ -75,6 +80,7 @@ Developing and evaluating informative prior calibration across Bayesian multilev
 
 ::: {.project-card .project-card-wide}
 <div class="project-index">05</div>
+<div class="project-thumb"><img src="../assets/visual-dyads.svg" alt="Conceptual diagram of paired longitudinal measurements in dyadic research." loading="lazy"><span class="project-thumb-caption">Conceptual illustration</span></div>
 <div class="project-tag">LONGITUDINAL METHODS · PUBLISHED + ACTIVE RESEARCH</div>
 ## Dyadic multilevel modeling with limited information
 
