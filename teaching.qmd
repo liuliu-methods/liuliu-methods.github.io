@@ -1,13 +1,15 @@
 ---
-title: "Teaching"
-subtitle: "From fitting models to making defensible quantitative decisions"
-pagetitle: "Teaching | Liu Liu, Ph.D. | Quantitative Methodologist"
-description-meta: "Teaching profile of Liu Liu, including multilevel modeling, Bayesian data analysis, psychometrics, SEM, longitudinal analysis, and quantitative research methods."
+title: "Teaching & Service"
+subtitle: "Teaching, mentoring, and contributions to the academic community"
+pagetitle: "Teaching & Service | Liu Liu, Ph.D. | Quantitative Methodologist"
+description-meta: "Teaching, graduate mentoring, editorial appointments, peer review, and professional leadership of Liu Liu, quantitative methodologist."
 ---
 
 ::: {.page-lede}
 My teaching goal is to help students move from applying statistical procedures to making **defensible research decisions** across design, measurement, modeling, diagnostics, uncertainty, interpretation, and reproducible communication.
 :::
+
+<div class="teaching-service-jump" aria-label="Page sections"><a href="#teaching-philosophy">Teaching &amp; Mentoring</a><a href="#academic-service">Academic Service</a></div>
 
 ## Teaching Philosophy
 
@@ -90,5 +92,81 @@ I use conceptual explanations, worked examples, annotated code, structured decis
 <div class="interest-label">03</div>
 ### Reproducible Practice
 Students should leave a methods course able to produce an analysis that another researcher can understand, reproduce, and critique, with transparent workflows, diagnostic checks, and clear reporting of uncertainty.
+:::
+:::
+
+<div class="teaching-service-divider" aria-hidden="true"></div>
+
+## Academic Service {#academic-service}
+
+I contribute to the quantitative methods and interdisciplinary research communities through editorial appointments, peer review, and professional leadership.
+
+### Editorial Appointments
+
+::: {.service-grid .service-appointments}
+::: {.service-card}
+<div class="service-label">ACADEMIC EDITOR</div>
+#### PLOS ONE
+<div class="service-date">2026–Present</div>
+
+Academic editorial service overseeing peer review and manuscript evaluation.
+:::
+
+::: {.service-card}
+<div class="service-label">EDITORIAL REVIEW BOARD</div>
+#### Journal of Applied Educational Research and Evaluation
+<div class="service-date">2026–Present</div>
+
+Editorial review board service supporting peer review and manuscript evaluation in educational research and evaluation.
+:::
+
+::: {.service-card}
+<div class="service-label">CONSULTING EDITOR</div>
+#### Teaching Educational Research Methods
+<div class="service-date">2025–Present</div>
+
+Editorial service focused on scholarship in the teaching and learning of educational research methods.
+:::
+:::
+
+### Peer Review
+
+::: {.service-grid .service-review-grid}
+::: {.service-card}
+<div class="service-label">JOURNAL PEER REVIEW</div>
+#### 40+ journal manuscripts
+Ad hoc reviewer for journals including *Methodology*, *Structural Equation Modeling: A Multidisciplinary Journal*, *Acta Psychologica*, *BMC Psychology*, *Journal of Psychoeducational Assessment*, *Early Childhood Education Journal*, and *Education Sciences*.
+:::
+
+::: {.service-card}
+<div class="service-label">CONFERENCE REVIEW</div>
+#### 80+ conference submissions
+Reviewer for conferences including AERA, NCME, the Society for Social Work and Research (SSWR; 2027), and the International Test Commission Conference.
+:::
+:::
+
+### Professional Leadership
+
+::: {.service-list}
+::: {.service-list-row}
+<div><strong>Secretary/Treasurer</strong>, AERA Special Interest Group: Multiple Linear Regression and General Linear Models</div>
+<div class="service-list-date">2025–2028</div>
+:::
+
+::: {.service-list-row}
+<div><strong>Campus Representative</strong>, AERA Graduate Student Council</div>
+<div class="service-list-date">2020–2023</div>
+:::
+:::
+
+### Conference Service
+
+::: {.service-list}
+::: {.service-list-row}
+<div><strong>Session Chair</strong>, AERA 2026<br><span class="service-list-detail">Multiple Linear Regression/General Linear Models SIG and Educational Statisticians SIG</span></div>
+:::
+
+::: {.service-list-row}
+<div><strong>Discussant</strong>, AERA Division D, 2021; National Council on Measurement in Education, 2021</div>
 :::
 :::
