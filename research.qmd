@@ -1,114 +1,81 @@
 ---
 title: "Research"
-subtitle: "Methodological research grounded in applied problems in education and social science"
+subtitle: "Methodological research grounded in problems from education and social science"
 pagetitle: "Research | Liu Liu, Ph.D. | Quantitative Methodologist"
-description-meta: "Liu Liu’s research in Bayesian multilevel and longitudinal modeling, psychometrics, measurement, SEM, causal evaluation, and applied quantitative methods."
+description-meta: "Liu Liu's research agenda in Bayesian multilevel and longitudinal methods, psychometrics, sparse ordinal CFA, and applied quantitative research."
 ---
 
 ::: {.page-lede}
-I develop quantitative methods for **Bayesian modeling and psychometrics**, especially when samples are small, responses are sparse, or study designs are complex. Questions from educational and social research motivate this work and help evaluate its practical value.
+I develop **Bayesian and psychometric methods** for research with limited or complex data. My work focuses on how modeling and measurement decisions affect the conclusions researchers can draw.
 :::
 
 ## Research Program
 
-<div class="visual-research-map" aria-label="Two core methodological research areas and their topics">
-<div class="visual-research-column"><div class="visual-research-heading"><span>01</span><strong>Bayesian & Longitudinal Methods</strong><small>Inference with limited information</small></div><ul><li>Variance prior specification</li><li>Prior calibration and translation</li><li>Random-effect covariance</li><li>Longitudinal and dyadic models</li></ul></div>
-<div class="visual-research-column"><div class="visual-research-heading"><span>02</span><strong>Psychometrics & Measurement</strong><small>Reliable measurement under complexity</small></div><ul><li>Sparse ordinal CFA</li><li>Model-fit evaluation</li><li>IRT and item calibration</li><li>Measurement invariance and DIF</li></ul></div>
+<div class="visual-research-map" aria-label="Two methodological research directions">
+<div class="visual-research-column"><div class="visual-research-heading"><span>01</span><strong>Bayesian &amp; Longitudinal Methods</strong><small>Inference with limited information</small></div><ul><li>Variance priors and prior calibration</li><li>Multilevel random effects</li><li>Longitudinal and dyadic modeling</li><li>Sensitivity and uncertainty</li></ul></div>
+<div class="visual-research-column"><div class="visual-research-heading"><span>02</span><strong>Psychometrics &amp; Measurement</strong><small>Reliable measurement under complexity</small></div><ul><li>Sparse ordinal CFA and model fit</li><li>Simulation-based decision rules</li><li>IRT and item calibration</li><li>Measurement invariance and DIF</li></ul></div>
 </div>
 
-## Methodological Research
+Both directions address a common question: **When can a statistical or measurement decision change what we conclude from the data?**
+
+## Research Directions
 
 ### Bayesian multilevel and longitudinal methods
 
-My primary methodological line studies prior specification, calibration, random effects, and inference when higher-level information is limited. My dissertation, *Informative Variance Priors for Bayesian Multilevel Models*, developed this program through simulation and large-scale assessment applications. It now extends to prior translation across software, Bayesian multilevel item-response models, random-slope covariance structures, and longitudinal dyadic models.
-
-<figure class="visual-science-figure"><a href="projects/bayesian-variance-priors.qmd"><img src="assets/visual-priors-published.svg" alt="Mode-matched inverse-gamma priors with shared mode 146.234 and different shape parameters, reconstructed from published Figure 1." loading="lazy"></a><figcaption><strong>Mode-matched variance priors.</strong> Recreated from the parameters in Figure 1 of <em>Multivariate Behavioral Research</em> (2026). All three distributions have the same mode, while the shape parameter changes concentration. <a href="projects/bayesian-variance-priors.qmd">Explore the study</a>.</figcaption></figure>
+My work examines how variance-prior choices, random-effect specifications, and limited higher-level samples affect estimation and uncertainty. Building on my dissertation, I developed mode-matched inverse-gamma priors and practical guidance for selecting, translating, and reporting variance priors. Current projects extend this work to calibration across models and software and to longitudinal dyadic designs with limited numbers of independent dyads.
 
 ::: {.research-links .compact-research-links}
-[Variance priors in Bayesian multilevel models →](projects/bayesian-variance-priors.qmd)
+[Variance-prior development →](projects/bayesian-variance-priors.qmd)
 
-[Selecting, translating, and reporting variance priors →](projects/bayesian-prior-guidance.qmd)
+[Prior selection and reporting tutorial →](projects/bayesian-prior-guidance.qmd)
 
-[Calibrating informative priors across models and software →](projects/bayesian-prior-calibration.qmd)
+[Ongoing prior-calibration research →](projects/bayesian-prior-calibration.qmd)
 
-[Longitudinal dyadic modeling with limited numbers of dyads →](projects/dyadic-modeling.qmd)
+[Longitudinal dyadic methods →](projects/dyadic-modeling.qmd)
 :::
 
-### Measurement, psychometrics, and SEM
+### Psychometrics and measurement
 
-A second methodological line examines what happens when measurement data are sparse, imbalanced, or heterogeneous across groups and contexts. I study fit-index behavior, category collapsing, condition-specific decision rules, item response theory, measurement invariance, differential item functioning, and assessment fairness.
-
-<figure class="visual-science-figure"><a href="projects/sparse-ordinal-cfa.qmd"><img src="assets/visual-roc-published.svg" alt="Selected published WLSMV ROC AUC values for CFI and SRMR under no collapsing and strong category collapsing at sample sizes 250, 500, and 1000." loading="lazy"></a><figcaption><strong>ROC discrimination in sparse ordinal CFA.</strong> Selected exact AUC cells from Figure 1, Panel A, of the <em>Structural Equation Modeling</em> article. These are moderate-loading, local-misspecification conditions, not universal cutoffs. <a href="projects/sparse-ordinal-cfa.qmd">Explore both studies</a>.</figcaption></figure>
+I study how sparse or imbalanced response categories affect measurement models and the decisions made from their fit indices. My simulation and ROC-based research evaluates ordinal CFA fit under category collapsing and develops guidance for condition-specific model-fit decisions. Related work addresses item response models, measurement invariance, and differential item functioning across settings.
 
 ::: {.research-links .compact-research-links}
-[Sparse ordinal CFA and model-fit decisions →](projects/sparse-ordinal-cfa.qmd)
+[Sparse ordinal CFA and model-fit evaluation →](projects/sparse-ordinal-cfa.qmd)
 :::
 
-## Published research in focus
+### Applied problems that motivate methods
 
-<div class="visual-evidence-grid">
-<figure class="visual-evidence-card"><a href="projects/dyadic-modeling.qmd"><img src="assets/visual-dyadic-precision.svg" alt="Published dyadic simulation: 42 percent reduction in within-person confidence interval width and 6 percent for between-person effects when occasions increase from 7 to 21." loading="lazy"></a><figcaption><strong>Longitudinal dyadic modeling.</strong> Repeated occasions improved precision differently for within-person and between-person effects in the examined simulation. <a href="projects/dyadic-modeling.qmd">Study details</a>.</figcaption></figure>
-<figure class="visual-evidence-card"><a href="https://doi.org/10.1186/s40536-026-00320-y"><img src="assets/visual-pisa-results.svg" alt="PISA 2018 study of 74,235 students in ten selected systems, with average CatBoost weighted R squared 0.358 and mean absolute error 57.29." loading="lazy"></a><figcaption><strong>Explainable AI for mathematics achievement.</strong> School-held-out predictions were evaluated with survey weights and ten plausible values. <a href="https://doi.org/10.1186/s40536-026-00320-y">Published study</a>.</figcaption></figure>
-</div>
-
-## Applied Research
-
-My applied work uses quantitative methods to answer substantive questions while identifying design and measurement problems that motivate new methodological research.
-
-::: {.applied-grid .research-applied-grid}
-::: {.applied-card}
-<div class="interest-label">EDUCATION & ASSESSMENT</div>
-### Learning, measurement, and evaluation
-Large-scale assessment, mathematics achievement, educational measurement, causal evaluation, and explainable machine learning in educational settings.
-:::
-
-::: {.applied-card}
-<div class="interest-label">SOCIAL RESEARCH & HUMAN TRAFFICKING</div>
-### Measurement, prevalence, and program evaluation
-Survey design, prevalence estimation, latent-variable measurement, complex sampling, and program evaluation in research on child trafficking and related social outcomes.
-:::
-
-::: {.applied-card}
-<div class="interest-label">CROSS-CONTEXT QUANTITATIVE RESEARCH</div>
-### Measurement and design across settings
-Cross-context measurement, respondent-driven and link-tracing sampling, measurement invariance, and reproducible workflows for interdisciplinary research.
-:::
-:::
-
-## From Applied Problems to Methods
+Educational assessment, social research, and complex surveys provide the questions and data structures that motivate my methods work. For example:
 
 ::: {.methods-origin-grid}
 ::: {.methods-origin-row}
-<div class="origin-problem">Sparse ordinal data</div>
-<div class="origin-arrow">→</div>
-<div class="origin-method">Category collapsing and fit-index calibration</div>
+<div class="origin-problem">Small higher-level samples</div>
+<div class="origin-arrow" aria-hidden="true">→</div>
+<div class="origin-method">Variance-prior calibration and uncertainty in multilevel models</div>
 :::
 
 ::: {.methods-origin-row}
-<div class="origin-problem">Limited higher-level samples</div>
-<div class="origin-arrow">→</div>
-<div class="origin-method">Informative variance priors and prior calibration</div>
+<div class="origin-problem">Sparse ordinal responses</div>
+<div class="origin-arrow" aria-hidden="true">→</div>
+<div class="origin-method">Fit-index evaluation and category-collapsing decisions</div>
 :::
 
 ::: {.methods-origin-row}
-<div class="origin-problem">Few independent dyads</div>
-<div class="origin-arrow">→</div>
-<div class="origin-method">Estimand-information alignment and random-effect support</div>
+<div class="origin-problem">Limited independent dyads</div>
+<div class="origin-arrow" aria-hidden="true">→</div>
+<div class="origin-method">Longitudinal model specification and interpretation</div>
 :::
 :::
 
+My applied collaborations include large-scale educational assessment, human trafficking measurement and prevalence research, and cross-context survey studies. These settings also help evaluate whether methodological guidance is useful in practice.
 
+## Current & Future Research
 
-## Current & Emerging Work
+I am extending informative prior calibration to additional Bayesian models, studying longitudinal dependence and random effects in dyadic data, and developing measurement guidance for sparse and heterogeneous responses. My longer-term goal is to produce methods and reproducible tools that help applied researchers justify their statistical choices.
 
 ::: {.current-work-callout}
-<div class="interest-label">NSF ECR:CORE LEVEL II · SUBAWARD PI · SUBMITTED</div>
+<div class="interest-label">COLLABORATIVE RESEARCH · NSF ECR:CORE LEVEL II · SUBMITTED</div>
 
-**Computational Experiences in Introductory Mathematics: A Longitudinal Study of Mathematical Agency and STEM Progression**
-
-I lead the University of Georgia component and provide methodological leadership in measurement, psychometrics, and longitudinal modeling. The submitted UGA subaward request is **$250,000**.
+I lead the University of Georgia subaward component of a submitted proposal on **computational experiences in introductory mathematics**, contributing expertise in measurement, psychometrics, and longitudinal modeling.
 :::
 
-## Long-Term Agenda
-
-My long-term program develops quantitative methods for settings where information is limited by small higher-level samples, sparse response patterns, or complex study designs. I aim to connect methodological development with applied research, reproducible tools, and graduate training.
+[Explore methodological projects and published results →](projects/index.qmd){.text-link}
