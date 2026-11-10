@@ -3382,3 +3382,25 @@ body:has(.ts-framework) .teaching-approach-grid{margin-bottom:.2rem}
   .ts-section-nav>a{font-size:.82rem;padding:.48rem .75rem}
 }
 @media(max-width:410px){.ts-framework-steps{grid-template-columns:1fr}.ts-framework-step{min-height:0}}
+
+
+/* Projects page final polish: compact overview, earlier research cards, clearer thumbnails */
+body:has(.projects-lede) .projects-lede{padding-bottom:.45rem}
+body:has(.projects-lede) .projects-lede p{max-width:910px;margin-bottom:.6rem;line-height:1.55;font-size:1.03rem}
+body:has(.projects-lede) .projects-overview-compact{margin-top:.65rem;margin-bottom:.4rem}
+body:has(.projects-lede) .projects-overview-compact .overview-item{
+  padding-top:.82rem;
+  padding-bottom:.9rem;
+  gap:.24rem;
+  justify-content:center;
+}
+body:has(.projects-lede) .projects-overview-compact .overview-symbol{font-size:1.35rem;line-height:1.12}
+body:has(.projects-lede) .projects-overview-compact .overview-label{font-size:.98rem;font-weight:700;line-height:1.32}
+body:has(.projects-lede) .projects-overview-compact .overview-projects{margin-top:.3rem;font-size:.68rem;letter-spacing:.085em}
+body:has(.projects-lede) .project-section-heading:not(.applied-heading){padding-top:1.55rem;padding-bottom:.75rem}
+body:has(.projects-lede) .project-section-heading:not(.applied-heading) h2{font-size:clamp(1.7rem,2.6vw,2.1rem);margin-top:.35rem}
+body:has(.projects-lede) .project-grid:not(.applied-project-grid) .project-thumb{margin-top:.65rem;margin-bottom:.85rem}
+body:has(.projects-lede) .project-grid:not(.applied-project-grid) .project-thumb-caption{padding-top:.3rem;padding-bottom:.52rem}
+@media(max-width:850px){
+ body:has(.projects-lede) .projects-overview-compact .overview-item{padding:.85rem 1rem}
+}
