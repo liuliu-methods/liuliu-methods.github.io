@@ -3239,3 +3239,10 @@ body:has(.conf-archive) .anchorjs-link { display: none !important; }
 .visual-evidence-card figcaption{font-size:.88rem;line-height:1.55;color:var(--muted);margin-top:.8rem}
 .visual-evidence-card figcaption strong{color:var(--ink)}
 @media(max-width:760px){.visual-evidence-grid{grid-template-columns:1fr}}
+
+/* Published methodological figures */
+.visual-pub-priors:before{background-image:url("assets/visual-priors-published.svg");background-size:cover}
+.visual-pub-roc:before{background-image:url("assets/visual-roc-published.svg");background-size:cover}
+.visual-science-figure img{display:block;width:100%;height:auto;border-radius:8px}
+.visual-science-figure a img{transition:opacity .2s}
+.visual-science-figure a:hover img{opacity:.9}
