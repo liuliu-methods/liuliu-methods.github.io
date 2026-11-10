@@ -3320,3 +3320,18 @@ body:has(.hero-shell) .home-focus-icon{font-size:1.65rem;line-height:1.2;color:#
 body:has(.hero-shell) .home-focus-card strong{font-size:1.15rem;line-height:1.35;color:var(--navy)}
 body:has(.hero-shell) .home-focus-card small{display:block;font-size:.87rem;line-height:1.6;color:var(--muted)}
 @media(max-width:760px){body:has(.hero-shell) .home-focus-cards{grid-template-columns:1fr;gap:.8rem}body:has(.hero-shell) .home-focus-cards > .home-focus-card{min-height:0;padding:1.1rem 1.2rem}}
+
+
+/* Projects index: compact evidence-based visual previews */
+body:has(.projects-lede) .projects-overview-visual{margin-bottom:.55rem}
+body:has(.projects-lede) .projects-overview-visual .overview-item{gap:.38rem}
+body:has(.projects-lede) .overview-symbol{font-size:1.45rem;line-height:1.2;color:#46869b}
+body:has(.projects-lede) .overview-projects{font:700 .68rem/1.5 Arial,Helvetica,sans-serif;letter-spacing:.09em;color:var(--warm);margin-top:.35rem}
+body:has(.projects-lede) .projects-overview-note{max-width:950px;font-size:.88rem;line-height:1.6;color:var(--muted);margin:.45rem 0 2rem}
+body:has(.projects-lede) .project-grid:not(.applied-project-grid) .project-thumb{width:100%;margin:.8rem 0 1.15rem;border-radius:10px;overflow:hidden;background:#f5f8fa}
+body:has(.projects-lede) .project-thumb img{display:block;width:100%;height:190px;object-fit:contain;object-position:center}
+body:has(.projects-lede) .project-thumb-caption{display:block;padding:.45rem .8rem .6rem;font:600 .67rem/1.3 Arial,Helvetica,sans-serif;letter-spacing:.055em;color:#667984;text-transform:uppercase}
+body:has(.projects-lede) .project-card-wide .project-thumb{max-width:700px}
+body:has(.projects-lede) .project-card-wide .project-thumb img{height:225px}
+@media(max-width:850px){body:has(.projects-lede) .project-thumb img{height:170px}body:has(.projects-lede) .project-card-wide .project-thumb img{height:190px}}
+@media(max-width:620px){body:has(.projects-lede) .project-thumb img{height:auto;max-height:220px;aspect-ratio:2.5/1}body:has(.projects-lede) .project-card-wide .project-thumb img{height:auto;max-height:220px}}
