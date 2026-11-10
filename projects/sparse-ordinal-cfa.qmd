@@ -95,6 +95,8 @@ Sparse ordinal responses can change both <strong>how well fit indices detect mis
 ```
 
 
+<figure class="visual-science-figure"><img src="../assets/visual-roc-published.svg" alt="Selected published WLSMV ROC AUC values for CFI and SRMR, moderate loadings and local misspecification."><figcaption><strong>SEM Figure 1, Panel A, selected results.</strong> These exact AUC values compare no category collapsing (C = 0) with strong collapsing (C = 4) for moderate loadings and local misspecification. They illustrate how discrimination varies by sample size and category handling. See the <a href="https://doi.org/10.1080/10705511.2026.2691170">published paper</a> for all indices, conditions, and the full ROC curves in Figure 2.</figcaption></figure>
+
 ## Simulation design {#simulation-design}
 
 ```{=html}
