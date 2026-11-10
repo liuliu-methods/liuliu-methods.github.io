@@ -3335,3 +3335,14 @@ body:has(.projects-lede) .project-card-wide .project-thumb{max-width:700px}
 body:has(.projects-lede) .project-card-wide .project-thumb img{height:225px}
 @media(max-width:850px){body:has(.projects-lede) .project-thumb img{height:170px}body:has(.projects-lede) .project-card-wide .project-thumb img{height:190px}}
 @media(max-width:620px){body:has(.projects-lede) .project-thumb img{height:auto;max-height:220px;aspect-ratio:2.5/1}body:has(.projects-lede) .project-card-wide .project-thumb img{height:auto;max-height:220px}}
+
+
+/* Combined Teaching & Service: visible section jump and consistent service cards */
+.teaching-service-jump{display:flex;flex-wrap:wrap;gap:.7rem;margin:1.15rem 0 2rem}
+.teaching-service-jump a{display:inline-block;text-decoration:none;border:1px solid var(--line-dark);border-radius:6px;padding:.4rem .85rem;color:var(--navy);font-size:.86rem;font-weight:600;background:#fafbfc}
+.teaching-service-jump a:hover{border-color:var(--navy-2);background:#f1f5f7}
+.teaching-service-divider{height:1px;background:var(--line-dark);margin:3.5rem 0 2.5rem}
+body:has(.teaching-service-jump) #academic-service{color:var(--navy)}
+body:has(.teaching-service-jump) .service-card h4{color:var(--navy);font-family:Georgia,"Times New Roman",serif;font-size:1.18rem;font-weight:500;line-height:1.3;margin:.5rem 0 .65rem}
+body:has(.teaching-service-jump) .service-grid{margin-top:1.15rem}
+body:has(.teaching-service-jump) .service-list{margin-bottom:1.65rem}
