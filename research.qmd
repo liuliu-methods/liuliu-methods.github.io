@@ -34,7 +34,7 @@ My work examines how variance-prior choices, random-effect specifications, and l
 [Longitudinal dyadic methods →](projects/dyadic-modeling.qmd)
 :::
 
-### Psychometrics and measurement
+### Psychometrics and measurement {#measurement-psychometrics-and-sem}
 
 I study how sparse or imbalanced response categories affect measurement models and the decisions made from their fit indices. My simulation and ROC-based research evaluates ordinal CFA fit under category collapsing and develops guidance for condition-specific model-fit decisions. Related work addresses item response models, measurement invariance, and differential item functioning across settings.
 
@@ -42,7 +42,7 @@ I study how sparse or imbalanced response categories affect measurement models a
 [Sparse ordinal CFA and model-fit evaluation →](projects/sparse-ordinal-cfa.qmd)
 :::
 
-### Applied problems that motivate methods
+### Applied problems that motivate methods {#applied-research}
 
 Educational assessment, social research, and complex surveys provide the questions and data structures that motivate my methods work. For example:
 
