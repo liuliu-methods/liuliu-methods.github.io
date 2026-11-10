@@ -45,8 +45,8 @@ Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank" rel="noopen
 :::
 
 ::: {.home-section .visual-areas}
-<div class="section-kicker">RESEARCH AREAS</div>
-## Quantitative methods grounded in applied research
+<div class="section-kicker">RESEARCH FOCUS</div>
+## Methods development informed by applied research
 
 <div class="visual-area-grid">
 <a class="visual-area-card" href="research.html#bayesian-multilevel-and-longitudinal-methods"><span class="area-glyph" aria-hidden="true">∿</span><strong>Bayesian Methods</strong><small>Variance priors · multilevel and longitudinal models · small-sample inference</small></a>
@@ -57,7 +57,7 @@ Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank" rel="noopen
 
 ::: {.home-section .research-program-section}
 <div class="section-kicker">RESEARCH PROGRAM</div>
-## From applied problems to methodological guidance
+## How applied research shapes my methods work
 
 <div class="visual-program" aria-label="Applied research problems motivate Bayesian modeling and psychometric research, producing practical statistical guidance">
 <div class="visual-program-node visual-program-source"><strong>Applied research problems</strong><small>Small samples · sparse responses · complex designs</small></div>
@@ -70,33 +70,32 @@ Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank" rel="noopen
 [Explore the research program →](research.qmd){.text-link}
 :::
 
-::: {.home-section .selected-work .compact-work}
+::: {.home-section .selected-work .compact-work .home-featured-work}
 <div class="section-kicker">SELECTED RESEARCH</div>
 ## Methods and selected applications
 
-::: {.compact-pub .visual-pub .visual-pub-priors}
-<div class="pub-status">METHODS · MBR · 2026</div>
-### [Mode-matched inverse gamma priors for variance components in Bayesian multilevel models](https://doi.org/10.1080/00273171.2026.2740827)
-<div class="compact-meta"><strong>Liu, L.</strong> · [Paper](https://doi.org/10.1080/00273171.2026.2740827) · [Project](projects/bayesian-variance-priors.qmd)</div>
-:::
+<div class="home-feature-grid">
+<article class="home-feature-card">
+<a class="home-feature-image" href="projects/bayesian-variance-priors.qmd"><img src="assets/visual-priors-published.svg" alt="Mode-matched inverse-gamma prior distributions, recreated from published parameters." loading="lazy"></a>
+<div class="pub-status">BAYESIAN METHODS · MBR · 2026</div>
+<h3><a href="https://doi.org/10.1080/00273171.2026.2740827">Mode-matched inverse-gamma priors for variance components in Bayesian multilevel models</a></h3>
+<p>Calibrating variance priors for reliable multilevel estimation with limited higher-level samples.</p>
+<div class="home-feature-links"><a href="projects/bayesian-variance-priors.qmd">Research project</a><a href="https://doi.org/10.1080/00273171.2026.2740827">Published paper</a></div>
+</article>
+<article class="home-feature-card">
+<a class="home-feature-image" href="projects/sparse-ordinal-cfa.qmd"><img src="assets/visual-roc-published.svg" alt="Selected ROC AUC results from published sparse ordinal CFA simulations." loading="lazy"></a>
+<div class="pub-status">PSYCHOMETRICS · SEM · 2026</div>
+<h3><a href="https://doi.org/10.1080/10705511.2026.2691170">Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing</a></h3>
+<p>Examining how sparse categories and category collapsing affect the detection of CFA model misspecification.</p>
+<div class="home-feature-links"><a href="projects/sparse-ordinal-cfa.qmd">Research project</a><a href="https://doi.org/10.1080/10705511.2026.2691170">Published paper</a></div>
+</article>
+</div>
 
-::: {.compact-pub .visual-pub .visual-pub-roc}
-<div class="pub-status">METHODS · SEM · 2026</div>
-### [Simulation-cum-ROC fit evaluation in sparse ordinal CFA under category collapsing](https://doi.org/10.1080/10705511.2026.2691170)
-<div class="compact-meta"><strong>Liu, L.</strong>, Liu, J., Yi, H., & Okech, D. · [Paper](https://doi.org/10.1080/10705511.2026.2691170) · [Project](projects/sparse-ordinal-cfa.qmd)</div>
-:::
-
-::: {.compact-pub .visual-pub .visual-pub-dyads}
-<div class="pub-status">METHODS · METHODS IN PSYCHOLOGY · 2026</div>
-### [Longitudinal dyadic modeling with limited numbers of dyads: Aligning estimands, information sources, and multilevel structure](https://doi.org/10.1016/j.metip.2026.100281)
-<div class="compact-meta"><strong>Liu, L.</strong> · [Paper](https://doi.org/10.1016/j.metip.2026.100281) · [Project](projects/dyadic-modeling.qmd)</div>
-:::
-
-::: {.compact-pub .visual-pub .visual-pub-pisa}
-<div class="pub-status">APPLIED · EDUCATION · 2026</div>
-### [Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018](https://doi.org/10.1186/s40536-026-00320-y)
-<div class="compact-meta"><strong>Liu, L.</strong> & Dai, R. · [Paper](https://doi.org/10.1186/s40536-026-00320-y)</div>
-:::
+<div class="home-additional-work">
+<div class="home-additional-label">ADDITIONAL SELECTED WORK</div>
+<div class="home-additional-row"><div><span>LONGITUDINAL METHODS · 2026</span><a href="https://doi.org/10.1016/j.metip.2026.100281">Longitudinal dyadic modeling with limited numbers of dyads</a></div><em>Methods in Psychology</em></div>
+<div class="home-additional-row"><div><span>APPLIED EDUCATION · 2026</span><a href="https://doi.org/10.1186/s40536-026-00320-y">Explainable AI for predicting and interpreting mathematics achievement</a></div><em>Large-scale Assessments in Education</em></div>
+</div>
 
 <div class="selected-links">
 [Explore projects →](projects/index.qmd){.text-link}
