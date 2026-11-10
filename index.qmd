@@ -48,11 +48,13 @@ Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank" rel="noopen
 <div class="section-kicker">RESEARCH FOCUS</div>
 ## Methods development informed by applied research
 
-<div class="visual-area-grid">
-<a class="visual-area-card" href="research.html#bayesian-multilevel-and-longitudinal-methods"><span class="area-glyph" aria-hidden="true">∿</span><strong>Bayesian Methods</strong><small>Variance priors · multilevel and longitudinal models · small-sample inference</small></a>
-<a class="visual-area-card" href="research.html#measurement-psychometrics-and-sem"><span class="area-glyph" aria-hidden="true">◉</span><strong>Psychometrics</strong><small>Ordinal CFA · SEM · IRT · measurement fairness</small></a>
-<a class="visual-area-card" href="research.html#applied-research"><span class="area-glyph" aria-hidden="true">▤</span><strong>Applied Research</strong><small>Educational assessment · program evaluation · social research</small></a>
+```{=html}
+<div class="home-focus-cards" aria-label="Three research focus areas">
+  <a class="home-focus-card" href="research.html#bayesian-multilevel-and-longitudinal-methods"><span class="home-focus-icon" aria-hidden="true">∿</span><strong>Bayesian Methods</strong><small>Variance priors · multilevel and longitudinal models · small-sample inference</small></a>
+  <a class="home-focus-card" href="research.html#measurement-psychometrics-and-sem"><span class="home-focus-icon" aria-hidden="true">◉</span><strong>Psychometrics</strong><small>Ordinal CFA · SEM · IRT · measurement fairness</small></a>
+  <a class="home-focus-card" href="research.html#applied-research"><span class="home-focus-icon" aria-hidden="true">▤</span><strong>Applied Research</strong><small>Educational assessment · program evaluation · social research</small></a>
 </div>
+```
 :::
 
 ::: {.home-section .research-program-section}
