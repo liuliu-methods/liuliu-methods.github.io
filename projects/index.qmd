@@ -1,6 +1,6 @@
 ---
 title: "Research Projects"
-subtitle: "Methodological research programs grounded in applied quantitative work"
+subtitle: "Methodological research programs inspired by applied questions"
 page-layout: full
 format:
   html:
@@ -10,25 +10,24 @@ description-meta: "Research projects by Liu Liu on Bayesian variance priors, spa
 ---
 
 ::: {.projects-lede}
-My research is **methods-first and applications-grounded**. Methodological programs form the core of my work, while applied studies in education and social research generate substantive questions, difficult data structures, and recurring problems that motivate new quantitative research.
+My projects develop and evaluate **Bayesian, psychometric, and longitudinal methods** for studies with limited or complex data.
 :::
 
-<div class="projects-overview projects-overview-visual" aria-label="Methodological research areas and related project numbers">
-  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">∿</span><span class="overview-label">Bayesian methods &amp; prior calibration</span><span class="overview-description">Variance priors, specification, and calibration</span><span class="overview-projects">PROJECTS 01 · 02 · 04</span></div>
-  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">◉</span><span class="overview-label">Psychometrics &amp; measurement</span><span class="overview-description">Sparse ordinal data and model-fit decisions</span><span class="overview-projects">PROJECT 03</span></div>
-  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">▤</span><span class="overview-label">Longitudinal &amp; dyadic methods</span><span class="overview-description">Multilevel modeling with limited information</span><span class="overview-projects">PROJECT 05</span></div>
+<div class="projects-overview projects-overview-visual projects-overview-compact" aria-label="Methodological research areas and related project numbers">
+  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">∿</span><span class="overview-label">Bayesian Methods</span><span class="overview-projects">PROJECTS 01 · 02 · 04</span></div>
+  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">◉</span><span class="overview-label">Psychometrics</span><span class="overview-projects">PROJECT 03</span></div>
+  <div class="overview-item"><span class="overview-symbol" aria-hidden="true">▤</span><span class="overview-label">Longitudinal Methods</span><span class="overview-projects">PROJECT 05</span></div>
 </div>
-<p class="projects-overview-note">Applied work in education and social research helps identify methodological challenges and provides settings for evaluating practical statistical decisions.</p>
 
 ::: {.project-section-heading}
-<div class="section-kicker">METHODOLOGICAL RESEARCH PROGRAMS</div>
-## Developing and evaluating quantitative methods
+<div class="section-kicker">METHODS DEVELOPMENT</div>
+## Methodological Research
 :::
 
 ::: {.project-grid}
 ::: {.project-card}
 <div class="project-index">01</div>
-<div class="project-thumb"><img src="../assets/visual-priors-published.svg" alt="Published inverse-gamma density curves with a common mode and different prior concentration." loading="lazy"><span class="project-thumb-caption">Published-parameter reconstruction</span></div>
+<div class="project-thumb"><img src="../assets/project-priors-preview.svg" alt="Three inverse-gamma prior density curves with the same mode and different concentrations, reconstructed from published parameters." loading="lazy"><span class="project-thumb-caption">Based on published parameters</span></div>
 <div class="project-tag">BAYESIAN METHODS · PUBLISHED</div>
 ## Variance priors for Bayesian multilevel models
 
@@ -41,7 +40,7 @@ Informative prior specification for variance components when higher-level sample
 
 ::: {.project-card}
 <div class="project-index">02</div>
-<div class="project-thumb"><img src="../assets/project-prior-guidance.svg" alt="Conceptual workflow for selecting, translating, checking, and reporting variance priors." loading="lazy"><span class="project-thumb-caption">Conceptual workflow</span></div>
+<div class="project-thumb"><img src="../assets/project-guidance-preview.svg" alt="Conceptual workflow for selecting, translating, checking, and reporting variance priors." loading="lazy"><span class="project-thumb-caption">Conceptual workflow</span></div>
 <div class="project-tag">BAYESIAN PRACTICE · PUBLISHED</div>
 ## Selecting, translating, and reporting variance priors
 
