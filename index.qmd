@@ -92,7 +92,7 @@ Faculty Affiliate · <a href="https://oibr.uga.edu/" target="_blank" rel="noopen
 <div class="compact-meta"><strong>Liu, L.</strong> · [Paper](https://doi.org/10.1016/j.metip.2026.100281) · [Project](projects/dyadic-modeling.qmd)</div>
 :::
 
-::: {.compact-pub}
+::: {.compact-pub .visual-pub .visual-pub-pisa}
 <div class="pub-status">APPLIED · EDUCATION · 2026</div>
 ### [Explainable AI for predicting and interpreting mathematics achievement: A cross-national analysis of PISA 2018](https://doi.org/10.1186/s40536-026-00320-y)
 <div class="compact-meta"><strong>Liu, L.</strong> & Dai, R. · [Paper](https://doi.org/10.1186/s40536-026-00320-y)</div>
